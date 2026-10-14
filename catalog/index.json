@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T01:18:51Z",
+  "generatedAt": "2026-10-14T02:03:06Z",
   "upstream": {
     "repository": "https://github.com/keiyoushi/extensions",
     "indexURL": "https://github.com/keiyoushi/extensions/raw/repo/index.json",
@@ -242,8 +242,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/allporncomicsco/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -562,8 +564,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicsvalley/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -1655,8 +1659,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/grabberzone/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -4137,8 +4143,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangacrazy/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -4716,8 +4724,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaforfree/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -5838,8 +5848,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwa18cc/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -5896,8 +5908,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwaclubnet/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -5925,8 +5939,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwadashraw/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -7577,8 +7593,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/seraphicdeviltry/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -9699,8 +9717,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/anyonemanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -9743,8 +9763,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arabmanhwa/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -9809,8 +9831,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arbxcomix/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -9853,8 +9877,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arhentai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -9963,8 +9989,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/detectiveconanar/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10029,8 +10057,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/empirewebtoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10183,8 +10213,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/hizomanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10271,8 +10303,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/manga3asq/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10381,8 +10415,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalek/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10409,8 +10445,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalink/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10431,8 +10469,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalionz/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10453,8 +10493,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangaspark/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10475,8 +10517,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangastarz/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10739,8 +10783,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/paradisebl/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10761,8 +10807,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/rocksmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -10871,8 +10919,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/yonabar/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11142,8 +11192,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allporncomicio/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11186,8 +11238,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/anisascans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11208,8 +11262,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/apcomics/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11230,8 +11286,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/aquamanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11538,8 +11596,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/auntmanhwa/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11670,8 +11730,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/battleinfivesecondsaftermeeting/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11736,8 +11798,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/boratscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11780,8 +11844,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bunmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11824,8 +11890,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cartoonporn/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -11912,8 +11980,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cocomic/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12135,8 +12205,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cucumbermanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12201,8 +12273,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dailymanhwa/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12333,8 +12407,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/decadencescans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12465,8 +12541,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dragontea/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12729,8 +12807,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ero18x/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12927,8 +13007,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/frierenonline/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12949,8 +13031,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gakamangas/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -12971,8 +13055,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/galaxydegenscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13015,8 +13101,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gedecomix/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13037,8 +13125,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gingertoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13103,8 +13193,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gourmetscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13301,8 +13393,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13345,8 +13439,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentai4free/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13543,8 +13639,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaisco/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13565,8 +13663,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixcomic/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13587,8 +13687,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixdickgirl/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13609,8 +13711,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixyuri/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13741,8 +13845,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hm2d/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13807,8 +13913,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hunlightcomics/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -13961,8 +14069,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/jinmangas/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14230,8 +14340,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kissmangain/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14318,8 +14430,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ksgroupscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14340,8 +14454,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kunmangaonline/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14428,8 +14544,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lhtranslation/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14472,8 +14590,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/likemangain/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14494,8 +14614,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lilymanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14516,8 +14638,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/linkmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14670,8 +14794,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/madaradex/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14758,8 +14884,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mahouirexnohentaikarte/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14802,8 +14930,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manga18free/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14824,8 +14954,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manga18x/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -14978,8 +15110,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadass/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -15044,8 +15178,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadia/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -15066,8 +15202,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadistrict/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -15881,8 +16019,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaeclipse/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -15903,8 +16043,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaforfreecom/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -15991,8 +16133,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangafree/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16013,8 +16157,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangagg/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16057,8 +16203,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangahe/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16167,8 +16315,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaka/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16258,8 +16408,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangakiss/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16302,8 +16454,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamaniacs/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16504,8 +16658,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaowlio/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16680,8 +16836,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadorg/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16702,8 +16860,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangasushi/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16878,8 +17038,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuahot/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16900,8 +17062,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuanext/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16922,8 +17086,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaplus/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -16988,8 +17154,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuatop/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17010,8 +17178,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaus/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17032,8 +17202,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuazonghe/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17076,8 +17248,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa18today/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17098,8 +17272,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa68/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17142,8 +17318,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwacomics/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17164,8 +17342,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaden/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17186,8 +17366,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaget/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17230,8 +17412,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwahubto/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17274,8 +17458,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwamanhua/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17296,8 +17482,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwanex/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17343,8 +17531,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwareads/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17365,8 +17555,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwatoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17387,8 +17579,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwatop/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -17563,8 +17757,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/milftoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -18003,8 +18199,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/octopusmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -18223,8 +18421,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/orchisasia/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -18289,8 +18489,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/paritehaber/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -18333,8 +18535,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/petrotechsociety/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -18421,8 +18625,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/pornhwaz/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19172,8 +19378,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rosesquadscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19194,8 +19402,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/s2manga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19348,8 +19558,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/setsuscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19414,8 +19626,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sleepytranslations/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19480,8 +19694,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/spmanhwa/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19902,8 +20118,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toongod/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19924,8 +20142,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonily/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -19968,8 +20188,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonizy/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20019,8 +20241,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhua/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20041,8 +20265,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuafan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20063,8 +20289,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuanet/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20107,8 +20335,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/tritiniascans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20334,8 +20564,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wearehunger/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20422,8 +20654,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webtoonscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20444,8 +20678,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webtoonxyz/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20554,8 +20790,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wuxiaworld/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20664,8 +20902,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yakshacomics/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20708,8 +20948,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoihub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20730,8 +20972,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoiscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20774,8 +21018,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zazamanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20796,8 +21042,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zinmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20818,8 +21066,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zinmanganet/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20884,8 +21134,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/apollcomics/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20928,8 +21180,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/barmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -20950,8 +21204,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/begatranslation/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21287,8 +21543,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/doujinshell/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21309,8 +21567,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21397,8 +21657,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/esmi2manga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21463,8 +21725,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/gremorymangas/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21485,8 +21749,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/hadesnofansub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21507,8 +21773,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/haremdekira/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21595,8 +21863,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/houseofotakus/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21661,8 +21931,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/infrafandub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21705,8 +21977,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inmortalscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21749,8 +22023,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inventariooculto/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -21793,8 +22069,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/kazokuden/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22123,8 +22401,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangaromance/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22189,8 +22469,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasnosekai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22233,8 +22515,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhuaonline/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22255,8 +22539,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwalatino/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22280,8 +22566,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaonline/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22346,8 +22634,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/marmota/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22390,8 +22680,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mhscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22412,8 +22704,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/monopolyscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22434,8 +22728,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mundomanhwa/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22676,8 +22972,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ragnarokscanlation/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22742,8 +23040,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22881,8 +23181,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/taurusfansub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22903,8 +23205,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/templescanesp/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22969,8 +23273,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/toones/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -22991,8 +23297,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/topcomicporno/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23013,8 +23321,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/topcomicpornonet/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23152,8 +23462,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/vermanhwas/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23196,8 +23508,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/yurionline/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23350,8 +23664,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/bananascan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23636,8 +23952,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaiscantrad/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23658,8 +23976,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaizone/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23680,8 +24000,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/histoiredhentai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23856,8 +24178,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mabrute/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23900,8 +24224,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangahubfr/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -23988,8 +24314,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangascantrad/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -24076,8 +24404,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/pantheonscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -24208,8 +24538,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanhentaimenu/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -24472,8 +24804,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/toonfr/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -25000,8 +25334,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/klikmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -25704,8 +26040,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mgkomik/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -25924,8 +26262,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/otascans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -26210,8 +26550,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/siimanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -26694,8 +27036,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/shinobiscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -28219,8 +28563,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kmansin09/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -29209,8 +29555,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawbaka/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -29854,8 +30202,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/goodtoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30124,8 +30474,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/acervohentai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30146,8 +30498,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/amuy/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30278,8 +30632,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/arthurscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30410,8 +30766,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/borutoexplorer/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30476,8 +30834,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/cafecomyaoi/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30520,8 +30880,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/covenscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30586,8 +30948,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/euphoriascan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30652,8 +31016,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/fleurblanche/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30674,8 +31040,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/flowermanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30740,8 +31108,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ghostscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30938,8 +31308,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hotcabaretscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -30982,8 +31354,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/huntersscans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31026,8 +31400,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/inkapk/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31048,8 +31424,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kamisamaexplorer/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31180,8 +31558,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31356,8 +31736,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreto/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31554,8 +31936,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31576,8 +31960,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/montetai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31598,8 +31984,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mrtenzus/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31686,8 +32074,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nebulosascan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31730,8 +32120,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ninjascan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31752,8 +32144,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nocturnesummer/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31774,8 +32168,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/noindexscan/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31862,8 +32258,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pinkseaunicorn/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -31950,8 +32348,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/portalyaoi/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -32302,8 +32702,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -32368,8 +32770,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/tiamanhwa/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -32522,8 +32926,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -32610,8 +33016,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yuriverso/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33367,8 +33775,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/cat300/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33389,8 +33799,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doodmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33433,8 +33845,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinlc/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33477,8 +33891,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinxh/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33499,8 +33915,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinza/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33741,8 +34159,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangaisekaithai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33785,8 +34205,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangalc/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33851,8 +34273,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhuabug/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33873,8 +34297,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhuathai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -33895,8 +34321,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhwabreakup/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34313,8 +34741,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/anikiga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34379,8 +34809,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/asurascanstr/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34401,8 +34833,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/caprazmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34423,8 +34857,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/diamondfansub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34445,8 +34881,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/domalfansub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34555,8 +34993,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/garciamanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34577,8 +35017,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ghosthentai/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34665,8 +35107,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hayalistic/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34775,8 +35219,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/kuroimanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34797,8 +35243,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/laviniafansub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34841,8 +35289,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/lunascans/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -34973,8 +35423,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangasehrinet/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35017,8 +35469,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangatilkisi/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35061,8 +35515,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangawow/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35105,8 +35561,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangazure/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35193,8 +35651,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/milasub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35215,8 +35675,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mindafansub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35325,8 +35787,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/niverafansub/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35369,8 +35833,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/opiatoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35501,8 +35967,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ruyamanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35633,8 +36101,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/summertoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35655,8 +36125,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sunsetmanga/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35721,8 +36193,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tonizutoon/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35765,8 +36239,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tortugaceviri/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35809,8 +36285,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/turkcemangaoku/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35853,8 +36331,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/webtoonhatti/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35897,8 +36377,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoiflix/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -35919,8 +36401,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoimangaoku/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -36340,8 +36824,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/gantzvn/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -36406,8 +36892,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaicube/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -36428,8 +36916,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaivnplus/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -36494,8 +36984,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/jellycomics/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -36802,8 +37294,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/metruyen18/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -37149,8 +37643,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/roadsteam/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -37611,8 +38107,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentini/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -37633,8 +38131,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentranhdammy/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -37655,8 +38155,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {
@@ -37900,8 +38402,10 @@
       "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bakamh/res/mipmap-xhdpi/ic_launcher.png",
       "adapter": {
         "engine": "madara",
-        "status": "unimplemented",
-        "options": {}
+        "status": "prototype",
+        "options": {
+          "requiresWebView": true
+        }
       },
       "sources": [
         {

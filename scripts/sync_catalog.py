@@ -121,10 +121,11 @@ def build_record(extension, source_root, output_root):
         raise ValueError("Extension is missing packageName")
 
     resources = extension.get("resources") or {}
+    engine = theme_for(package_id, source_root)
     adapter = {
-        "engine": theme_for(package_id, source_root),
-        "status": "unimplemented",
-        "options": {},
+        "engine": engine,
+        "status": "prototype" if engine == "madara" else "unimplemented",
+        "options": {"requiresWebView": True} if engine == "madara" else {},
     }
     adapter.update(load_override(output_root, package_id))
 

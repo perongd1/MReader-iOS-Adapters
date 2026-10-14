@@ -7,8 +7,10 @@
   "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/paritehaber/res/mipmap-xhdpi/ic_launcher.png",
   "adapter": {
     "engine": "madara",
-    "status": "unimplemented",
-    "options": {}
+    "status": "prototype",
+    "options": {
+      "requiresWebView": true
+    }
   },
   "sources": [
     {

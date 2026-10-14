@@ -25,6 +25,8 @@ See `catalog/summary.json` for exact counts and `catalog/index.json` for the com
 
 An engine classification does not automatically mean that the source works. It tells us which shared Swift adapter should eventually handle it.
 
+Madara sources are currently enabled as `prototype` entries and use MReader's shared WebKit-based Madara adapter. Individual websites can still require a source-specific catalog path or additional handling before they work reliably.
+
 ## Updating from upstream
 
 Run:

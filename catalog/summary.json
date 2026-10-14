@@ -1,6 +1,6 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-14T01:18:51Z",
+  "generatedAt": "2026-10-14T02:03:06Z",
   "extensionCount": 1433,
   "sourceCount": 2422,
   "uniqueWebsiteCount": 1478,
@@ -72,7 +72,7 @@
     "zmanga": 4
   },
   "adapterStatusCounts": {
-    "prototype": 1,
-    "unimplemented": 1432
+    "prototype": 253,
+    "unimplemented": 1180
   }
 }
