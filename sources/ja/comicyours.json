@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicyours",
+  "name": "Comic Y-OURs",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicyours/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6785510785647577495",
+      "name": "Comic Y-OURs",
+      "language": "ja",
+      "baseURL": "https://comic-y-ours.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.egotoons",
+  "name": "Ego Toons",
+  "version": "1.6.10",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/egotoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4749792168996703143",
+      "name": "Ego Toons",
+      "language": "pt-BR",
+      "baseURL": "https://egotoons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

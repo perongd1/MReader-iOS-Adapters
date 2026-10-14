@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hentaiseason",
+  "name": "Hentai Season",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hentaiseason/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gattsu",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "28629678708276",
+      "name": "Hentai Season",
+      "language": "pt-BR",
+      "baseURL": "https://hentaiseason.com",
+      "mirrorURLs": []
+    }
+  ]
+}

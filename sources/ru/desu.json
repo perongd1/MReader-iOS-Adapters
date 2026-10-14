@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.desu",
+  "name": "Desu",
+  "version": "1.6.34",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/desu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6684416167758830305",
+      "name": "Desu",
+      "language": "ru",
+      "baseURL": "https://desu.uno",
+      "mirrorURLs": []
+    }
+  ]
+}

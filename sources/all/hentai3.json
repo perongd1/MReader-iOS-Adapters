@@ -1,0 +1,218 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentai3",
+  "name": "3Hentai",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentai3/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6915411826598362561",
+      "name": "3Hentai",
+      "language": "all",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7819216870104067677",
+      "name": "3Hentai",
+      "language": "en",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2859097949969075077",
+      "name": "3Hentai",
+      "language": "ja",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1633661983859923604",
+      "name": "3Hentai",
+      "language": "ko",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6260479722543828095",
+      "name": "3Hentai",
+      "language": "zh",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8615096170305162493",
+      "name": "3Hentai",
+      "language": "mo",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "373755159908438683",
+      "name": "3Hentai",
+      "language": "es",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1132983959765816866",
+      "name": "3Hentai",
+      "language": "pt",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "49558592523574241",
+      "name": "3Hentai",
+      "language": "id",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7615826761003926053",
+      "name": "3Hentai",
+      "language": "jv",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3940534831604021485",
+      "name": "3Hentai",
+      "language": "tl",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6096870058125388335",
+      "name": "3Hentai",
+      "language": "vi",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3039466073711396152",
+      "name": "3Hentai",
+      "language": "th",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3523364768003208635",
+      "name": "3Hentai",
+      "language": "my",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "359674482170560410",
+      "name": "3Hentai",
+      "language": "tr",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4917651850397277037",
+      "name": "3Hentai",
+      "language": "ru",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3501213105339612791",
+      "name": "3Hentai",
+      "language": "uk",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7940950215101782907",
+      "name": "3Hentai",
+      "language": "pl",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "685390685036083849",
+      "name": "3Hentai",
+      "language": "fi",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7057309244033446342",
+      "name": "3Hentai",
+      "language": "de",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "419728421305339582",
+      "name": "3Hentai",
+      "language": "it",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4290439286788644779",
+      "name": "3Hentai",
+      "language": "fr",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7640863230103182507",
+      "name": "3Hentai",
+      "language": "nl",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3862668659803323645",
+      "name": "3Hentai",
+      "language": "cs",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8643172240389130297",
+      "name": "3Hentai",
+      "language": "hu",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2158865776377405902",
+      "name": "3Hentai",
+      "language": "bg",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8884989104958593922",
+      "name": "3Hentai",
+      "language": "is",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5003216810967182175",
+      "name": "3Hentai",
+      "language": "la",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1533969146563051444",
+      "name": "3Hentai",
+      "language": "ar",
+      "baseURL": "https://3hentai.net",
+      "mirrorURLs": []
+    }
+  ]
+}

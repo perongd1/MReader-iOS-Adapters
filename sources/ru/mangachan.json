@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.mangachan",
+  "name": "MangaChan",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangachan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "multichan",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7",
+      "name": "MangaChan",
+      "language": "ru",
+      "baseURL": "https://im.manga-chan.me",
+      "mirrorURLs": []
+    }
+  ]
+}

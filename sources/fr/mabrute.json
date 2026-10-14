@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.mabrute",
+  "name": "Ma Brute",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mabrute/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "597251646967446227",
+      "name": "Ma Brute",
+      "language": "fr",
+      "baseURL": "https://mabrute.com",
+      "mirrorURLs": []
+    }
+  ]
+}

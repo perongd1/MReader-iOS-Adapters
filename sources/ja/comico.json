@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comico",
+  "name": "Comico",
+  "version": "1.4.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comico/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4991718230921189832",
+      "name": "コミコ",
+      "language": "ja",
+      "baseURL": "https://www.comico.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

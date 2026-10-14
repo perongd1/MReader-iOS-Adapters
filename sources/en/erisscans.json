@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.erisscans",
+  "name": "Eris Scans",
+  "version": "1.6.22",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/erisscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8358420357808595754",
+      "name": "Eris Scans",
+      "language": "en",
+      "baseURL": "https://erisscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

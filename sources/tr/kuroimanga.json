@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.kuroimanga",
+  "name": "Kuroi Manga",
+  "version": "1.6.61",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/kuroimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8755089223917220341",
+      "name": "Kuroi Manga",
+      "language": "tr",
+      "baseURL": "https://kuroimanga.site",
+      "mirrorURLs": []
+    }
+  ]
+}

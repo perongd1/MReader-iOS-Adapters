@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.gorakuweb",
+  "name": "Goraku Web",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/gorakuweb/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8261703368756535165",
+      "name": "Goraku Web",
+      "language": "ja",
+      "baseURL": "https://gorakuweb.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhuazonghe",
+  "name": "Manhua Zonghe",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuazonghe/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6077132944162952766",
+      "name": "Manhua Zonghe",
+      "language": "en",
+      "baseURL": "https://www.manhuazonghe.com",
+      "mirrorURLs": []
+    }
+  ]
+}

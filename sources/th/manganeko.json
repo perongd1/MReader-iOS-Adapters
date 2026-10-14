@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.manganeko",
+  "name": "Manga-Neko",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manganeko/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5623426415743614214",
+      "name": "Manga-Neko",
+      "language": "th",
+      "baseURL": "https://manga-neko.com",
+      "mirrorURLs": []
+    }
+  ]
+}

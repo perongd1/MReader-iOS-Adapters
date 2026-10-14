@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hanmokkuscan",
+  "name": "Hanmokku Scan",
+  "version": "1.6.14",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hanmokkuscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2374282752350973310",
+      "name": "Hanmokku Scan",
+      "language": "pt-BR",
+      "baseURL": "https://hanmokkuscan.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

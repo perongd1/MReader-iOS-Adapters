@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.ikmmh",
+  "name": "Ikmmh",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/ikmmh/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1793919771803569726",
+      "name": "爱看漫",
+      "language": "zh",
+      "baseURL": "https://ymcdnyfqdapp.ikmmh.com",
+      "mirrorURLs": []
+    }
+  ]
+}

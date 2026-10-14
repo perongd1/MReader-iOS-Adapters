@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.shiyurasub",
+  "name": "ShiyuraSub",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/shiyurasub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7106013231844823613",
+      "name": "ShiyuraSub",
+      "language": "id",
+      "baseURL": "https://shiyurasub.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

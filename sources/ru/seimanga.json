@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.seimanga",
+  "name": "SeiManga",
+  "version": "1.6.44",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/seimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "grouple",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6340120447386662351",
+      "name": "SeiManga",
+      "language": "ru",
+      "baseURL": "https://1.seimanga.me",
+      "mirrorURLs": []
+    }
+  ]
+}

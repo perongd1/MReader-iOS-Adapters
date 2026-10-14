@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kewnscans",
+  "name": "Kewn Scans",
+  "version": "1.6.23",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kewnscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2816768640766208312",
+      "name": "Kewn Scans",
+      "language": "en",
+      "baseURL": "https://kewnscans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.colorcitoscan",
+  "name": "Colorcito Scan",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/colorcitoscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1261665235729689526",
+      "name": "Colorcito Scan",
+      "language": "es",
+      "baseURL": "https://coloresito.site",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4591173925927777888",
+      "name": "Colorcito Toons",
+      "language": "es",
+      "baseURL": "https://colorcitotoons.site",
+      "mirrorURLs": []
+    }
+  ]
+}

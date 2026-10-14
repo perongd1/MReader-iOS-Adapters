@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.ravenmanga",
+  "name": "RavenManga",
+  "version": "1.6.7",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ravenmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "698913079501532785",
+      "name": "RavenManga",
+      "language": "es",
+      "baseURL": "https://raventard.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.themanga",
+  "name": "TheManga",
+  "version": "1.6.50",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/themanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4154955713546598190",
+      "name": "TheManga",
+      "language": "id",
+      "baseURL": "https://themanga.site",
+      "mirrorURLs": []
+    }
+  ]
+}

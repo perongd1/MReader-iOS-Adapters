@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangano",
+  "name": "MangaNo",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangano/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7717838940254847800",
+      "name": "MangaNo",
+      "language": "ja",
+      "baseURL": "https://manga-no.com",
+      "mirrorURLs": []
+    }
+  ]
+}

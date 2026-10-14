@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ko.blacktoon",
+  "name": "BlackToon",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/blacktoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7080800841003944426",
+      "name": "블랙툰",
+      "language": "ko",
+      "baseURL": "https://blacktoon.me",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangamirai",
+  "name": "Manga Mirai",
+  "version": "1.4.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamirai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3392354321117553495",
+      "name": "Manga Mirai",
+      "language": "en",
+      "baseURL": "https://mangamirai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

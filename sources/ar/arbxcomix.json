@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.arbxcomix",
+  "name": "ArbxComix",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arbxcomix/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6405758918736185117",
+      "name": "ArbxComix",
+      "language": "ar",
+      "baseURL": "https://arbxcomix.com",
+      "mirrorURLs": []
+    }
+  ]
+}

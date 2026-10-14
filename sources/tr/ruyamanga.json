@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.ruyamanga",
+  "name": "Rüya Manga",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ruyamanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5786550835901373927",
+      "name": "Rüya Manga",
+      "language": "tr",
+      "baseURL": "https://www.ruyamanga2.com",
+      "mirrorURLs": []
+    }
+  ]
+}

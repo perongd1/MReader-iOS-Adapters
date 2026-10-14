@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.bh3",
+  "name": "BH3",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bh3/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5943234929466346733",
+      "name": "《崩坏3》IP站",
+      "language": "zh",
+      "baseURL": "https://comic.bh3.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.epsilonscan",
+  "name": "Epsilon Scan",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/epsilonscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pam",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2577248042661857530",
+      "name": "Epsilon Scan",
+      "language": "fr",
+      "baseURL": "https://epsilonscan.to",
+      "mirrorURLs": []
+    }
+  ]
+}

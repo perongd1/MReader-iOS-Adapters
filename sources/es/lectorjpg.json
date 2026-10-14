@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.lectorjpg",
+  "name": "LectorJPG",
+  "version": "1.6.50",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectorjpg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4439526602175493484",
+      "name": "LectorJPG",
+      "language": "es",
+      "baseURL": "https://visorjpg.lat",
+      "mirrorURLs": []
+    }
+  ]
+}

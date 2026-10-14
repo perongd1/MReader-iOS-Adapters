@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.portalyaoi",
+  "name": "Portal Yaoi",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/portalyaoi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3275945866985875190",
+      "name": "Portal Yaoi",
+      "language": "pt-BR",
+      "baseURL": "https://portalyaoi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

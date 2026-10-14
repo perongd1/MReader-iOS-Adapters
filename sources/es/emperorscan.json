@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.emperorscan",
+  "name": "Emperor Scan",
+  "version": "1.6.70",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/emperorscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4562754350961964148",
+      "name": "Emperor Scan",
+      "language": "es",
+      "baseURL": "https://imperiomanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

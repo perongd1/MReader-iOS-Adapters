@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readfairytailedenszeromangaonline",
+  "name": "Read Fairy Tail & Edens Zero Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1330793582354406642",
+      "name": "Read Fairy Tail & Edens Zero Manga Online",
+      "language": "en",
+      "baseURL": "https://ww9.readfairytail.com",
+      "mirrorURLs": []
+    }
+  ]
+}

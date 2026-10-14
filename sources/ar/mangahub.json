@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.mangahub",
+  "name": "MangaHub",
+  "version": "1.6.16",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9160891278578525988",
+      "name": "MangaHub",
+      "language": "ar",
+      "baseURL": "https://www.mangaxhentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

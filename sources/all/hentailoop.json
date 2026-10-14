@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentailoop",
+  "name": "HentaiLoop",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentailoop/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3077154580363219152",
+      "name": "HentaiLoop",
+      "language": "all",
+      "baseURL": "https://hentailoop.com",
+      "mirrorURLs": []
+    }
+  ]
+}

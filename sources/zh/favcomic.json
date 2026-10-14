@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.favcomic",
+  "name": "FavComic",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/favcomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2276541741750874058",
+      "name": "喜漫漫画",
+      "language": "zh",
+      "baseURL": "https://www.favcomic.com",
+      "mirrorURLs": [
+        "https://www.favcomic.com",
+        "https://www.favcomic.xyz",
+        "https://www.favcomic.net",
+        "https://www.favcomic.cc"
+      ]
+    }
+  ]
+}

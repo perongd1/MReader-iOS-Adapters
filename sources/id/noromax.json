@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.noromax",
+  "name": "Noromax",
+  "version": "1.6.5",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/noromax/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2636071300407720294",
+      "name": "Noromax",
+      "language": "id",
+      "baseURL": "https://noromax02.my.id",
+      "mirrorURLs": []
+    }
+  ]
+}

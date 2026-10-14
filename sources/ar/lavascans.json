@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.lavascans",
+  "name": "Lava Scans",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/lavascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3209001028102012989",
+      "name": "Lava Scans",
+      "language": "ar",
+      "baseURL": "https://lavascans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.barmanga",
+  "name": "BarManga",
+  "version": "1.6.66",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/barmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "404674447362480247",
+      "name": "BarManga",
+      "language": "es",
+      "baseURL": "https://archiviumbar.com",
+      "mirrorURLs": []
+    }
+  ]
+}

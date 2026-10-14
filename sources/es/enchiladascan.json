@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.enchiladascan",
+  "name": "EnchiladaScan",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/enchiladascan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8884198347282365114",
+      "name": "EnchiladaScan",
+      "language": "es",
+      "baseURL": "https://enchiladascan.github.io/enchiladaweb",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hipertoon",
+  "name": "Hipertoon",
+  "version": "1.6.9",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hipertoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "hiper",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "977626289899996655",
+      "name": "Hipertoon",
+      "language": "pt-BR",
+      "baseURL": "https://hipertoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

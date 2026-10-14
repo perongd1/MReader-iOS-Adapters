@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.astramanga",
+  "name": "AstraManga",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/astramanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7938304578940592570",
+      "name": "AstraManga",
+      "language": "ru",
+      "baseURL": "https://astramanga.org",
+      "mirrorURLs": []
+    }
+  ]
+}

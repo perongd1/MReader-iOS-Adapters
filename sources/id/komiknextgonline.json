@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komiknextgonline",
+  "name": "Komik Next G Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komiknextgonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5850393134813310906",
+      "name": "Komik Next G Online",
+      "language": "id",
+      "baseURL": "https://komiknextgonline.com",
+      "mirrorURLs": []
+    }
+  ]
+}

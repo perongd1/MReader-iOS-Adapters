@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.yaoifanclub",
+  "name": "Yaoi Fan Club",
+  "version": "1.6.15",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yaoifanclub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3609380518472019202",
+      "name": "Yaoi Fan Club",
+      "language": "pt-BR",
+      "baseURL": "https://www.yaoifanclub.com",
+      "mirrorURLs": []
+    }
+  ]
+}

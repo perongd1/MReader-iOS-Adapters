@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.sundaywebevery",
+  "name": "Sunday Web Every",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/sundaywebevery/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8083066303045184316",
+      "name": "Sunday Web Every",
+      "language": "ja",
+      "baseURL": "https://www.sunday-webry.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.aarlas",
+  "name": "Aarlas",
+  "version": "1.6.17",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/aarlas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6495978594979776478",
+      "name": "Aarlas",
+      "language": "id",
+      "baseURL": "https://www.arlas.online",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.mangalink",
+  "name": "Mangalink",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalink/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3568795724496898351",
+      "name": "مانجا لينك",
+      "language": "ar",
+      "baseURL": "https://link-manga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.bg.utsukushii",
+  "name": "Utsukushii",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/bg/utsukushii/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mmrcms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4406556873729219957",
+      "name": "Utsukushii",
+      "language": "bg",
+      "baseURL": "https://utsukushii-bg.com",
+      "mirrorURLs": []
+    }
+  ]
+}

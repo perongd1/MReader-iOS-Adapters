@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.readerstore",
+  "name": "Reader Store",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/readerstore/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "424606783143704524",
+      "name": "Reader Store",
+      "language": "ja",
+      "baseURL": "https://ebookstore.sony.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

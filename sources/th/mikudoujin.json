@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.mikudoujin",
+  "name": "MikuDoujin",
+  "version": "1.6.8",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mikudoujin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3142948916822290453",
+      "name": "MikuDoujin",
+      "language": "th",
+      "baseURL": "https://miku-doujin.com",
+      "mirrorURLs": []
+    }
+  ]
+}

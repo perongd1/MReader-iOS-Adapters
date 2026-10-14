@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kaliscancom",
+  "name": "KaliScan",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaliscancom/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7660637864742395387",
+      "name": "KaliScan",
+      "language": "en",
+      "baseURL": "https://kaliscan.com",
+      "mirrorURLs": [
+        "https://kaliscan.com",
+        "https://kaliscan.me",
+        "https://kaliscan.io",
+        "https://mgjinx.com"
+      ]
+    }
+  ]
+}

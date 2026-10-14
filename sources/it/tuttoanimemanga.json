@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.tuttoanimemanga",
+  "name": "TuttoAnimeManga",
+  "version": "1.6.10",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/tuttoanimemanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2102507871480604746",
+      "name": "TuttoAnimeManga",
+      "language": "it",
+      "baseURL": "https://tuttoanimemanga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

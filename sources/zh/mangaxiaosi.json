@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.mangaxiaosi",
+  "name": "Manga Xiao Si",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mangaxiaosi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1939536259784675646",
+      "name": "Manga Xiao Si",
+      "language": "zh",
+      "baseURL": "https://www.jjmhw2.top",
+      "mirrorURLs": [
+        "https://www.jjmhw2.top",
+        "https://www.jjmh.top"
+      ]
+    }
+  ]
+}

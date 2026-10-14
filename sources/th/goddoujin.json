@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.goddoujin",
+  "name": "God-Doujin",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/goddoujin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3638625079908519060",
+      "name": "God-Doujin",
+      "language": "th",
+      "baseURL": "https://god-doujin.com",
+      "mirrorURLs": []
+    }
+  ]
+}

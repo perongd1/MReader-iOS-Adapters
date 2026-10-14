@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentaienvy",
+  "name": "HentaiEnvy",
+  "version": "1.6.11",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaienvy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8073115021554725655",
+      "name": "HentaiEnvy",
+      "language": "en",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7983253093172640758",
+      "name": "HentaiEnvy",
+      "language": "ja",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "351350516671223209",
+      "name": "HentaiEnvy",
+      "language": "es",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1191404418837235865",
+      "name": "HentaiEnvy",
+      "language": "fr",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2611030308394588473",
+      "name": "HentaiEnvy",
+      "language": "ko",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2455783957781415791",
+      "name": "HentaiEnvy",
+      "language": "de",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6651113074608915226",
+      "name": "HentaiEnvy",
+      "language": "ru",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "918989295758523524",
+      "name": "HentaiEnvy",
+      "language": "all",
+      "baseURL": "https://hentaienvy.com",
+      "mirrorURLs": []
+    }
+  ]
+}

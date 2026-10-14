@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.ninehentai",
+  "name": "NineHentai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ninehentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7689490563697355048",
+      "name": "NineHentai",
+      "language": "en",
+      "baseURL": "https://9hentai.so",
+      "mirrorURLs": []
+    }
+  ]
+}

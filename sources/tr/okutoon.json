@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.okutoon",
+  "name": "OkuToon",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/okutoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6023377011056301844",
+      "name": "OkuToon",
+      "language": "tr",
+      "baseURL": "https://okutoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

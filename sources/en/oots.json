@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.oots",
+  "name": "oots",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/oots/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6973362428290892964",
+      "name": "The Order Of The Stick (OOTS)",
+      "language": "en",
+      "baseURL": "https://www.giantitp.com",
+      "mirrorURLs": []
+    }
+  ]
+}

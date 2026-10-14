@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangamelon",
+  "name": "MangaMelon",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangamelon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7505916148185744347",
+      "name": "MangaMelon",
+      "language": "en",
+      "baseURL": "https://mangamelon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

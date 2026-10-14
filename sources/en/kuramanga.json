@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kuramanga",
+  "name": "KuraManga",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kuramanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7076475127850729187",
+      "name": "KuraManga",
+      "language": "en",
+      "baseURL": "https://kuramanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

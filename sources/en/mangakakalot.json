@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangakakalot",
+  "name": "Mangakakalot",
+  "version": "1.6.24",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangakakalot/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangabox",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2528986671771677900",
+      "name": "Mangakakalot",
+      "language": "en",
+      "baseURL": "https://www.mangakakalot.gg",
+      "mirrorURLs": [
+        "https://www.mangakakalot.gg",
+        "https://www.mangakakalove.com"
+      ]
+    }
+  ]
+}

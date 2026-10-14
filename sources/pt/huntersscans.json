@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.huntersscans",
+  "name": "Hunters Scans",
+  "version": "1.6.66",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/huntersscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7310576253330700902",
+      "name": "Hunters Scan",
+      "language": "pt-BR",
+      "baseURL": "https://readhunters.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mindafansub",
+  "name": "Minda Fansub",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mindafansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8477380026777524321",
+      "name": "Minda Fansub",
+      "language": "tr",
+      "baseURL": "https://mindafansub.dev",
+      "mirrorURLs": []
+    }
+  ]
+}

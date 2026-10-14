@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.mangasoriginesfr",
+  "name": "Mangas-Origines.fr",
+  "version": "1.6.61",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangasoriginesfr/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "origines",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4803238581797687746",
+      "name": "Mangas-Origines.fr",
+      "language": "fr",
+      "baseURL": "https://mangas-origines.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

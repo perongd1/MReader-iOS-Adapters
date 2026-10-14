@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.golgebahcesi",
+  "name": "Gölge Bahçesi",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/golgebahcesi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7442439989890509521",
+      "name": "Gölge Bahçesi",
+      "language": "tr",
+      "baseURL": "https://golgebahcesi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

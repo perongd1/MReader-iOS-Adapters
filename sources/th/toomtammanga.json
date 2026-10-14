@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.toomtammanga",
+  "name": "ToomTam-Manga",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/toomtammanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5640783863041818405",
+      "name": "ToomTam-Manga",
+      "language": "th",
+      "baseURL": "https://toomtam-manga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

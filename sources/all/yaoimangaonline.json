@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.yaoimangaonline",
+  "name": "Yaoi Manga Online",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/yaoimangaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7988826691692266469",
+      "name": "Yaoi Manga Online",
+      "language": "all",
+      "baseURL": "https://yaoimangaonline.com",
+      "mirrorURLs": []
+    }
+  ]
+}

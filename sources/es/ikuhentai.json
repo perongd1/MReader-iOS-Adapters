@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.ikuhentai",
+  "name": "Ikuhentai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ikuhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7567013997438852760",
+      "name": "Ikuhentai",
+      "language": "es",
+      "baseURL": "https://ikuhentai.net",
+      "mirrorURLs": []
+    }
+  ]
+}

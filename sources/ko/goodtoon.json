@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ko.goodtoon",
+  "name": "GoodToon",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/goodtoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2738031143723682744",
+      "name": "GoodToon",
+      "language": "ko",
+      "baseURL": "https://www.goodtoon005.com",
+      "mirrorURLs": []
+    }
+  ]
+}

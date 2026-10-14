@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.uk.mangainua",
+  "name": "MangaInUa",
+  "version": "1.6.12",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/mangainua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7444761572611117628",
+      "name": "MANGA/in/UA",
+      "language": "uk",
+      "baseURL": "https://manga.in.ua",
+      "mirrorURLs": []
+    }
+  ]
+}

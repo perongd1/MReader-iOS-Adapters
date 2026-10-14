@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.scanvf",
+  "name": "Scan VF",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanvf/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mmrcms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2455131357585282669",
+      "name": "Scan VF",
+      "language": "fr",
+      "baseURL": "https://www.scan-vf.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.kyokotsu",
+  "name": "Kyokotsu",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kyokotsu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6496583791379304482",
+      "name": "Kyokotsu",
+      "language": "ru",
+      "baseURL": "https://kyokotsu.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6733343923088422754",
+      "name": "Kyokotsu",
+      "language": "en",
+      "baseURL": "https://kyokotsu.com",
+      "mirrorURLs": []
+    }
+  ]
+}

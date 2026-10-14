@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.ragnascans",
+  "name": "Ragna Scans",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ragnascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6003330990591348231",
+      "name": "Ragna Scans",
+      "language": "es",
+      "baseURL": "https://lector.ragnascan.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

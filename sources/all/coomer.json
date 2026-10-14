@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.coomer",
+  "name": "Coomer",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/coomer/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "kemono",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8715899195746116471",
+      "name": "Coomer",
+      "language": "all",
+      "baseURL": "https://coomer.st",
+      "mirrorURLs": []
+    }
+  ]
+}

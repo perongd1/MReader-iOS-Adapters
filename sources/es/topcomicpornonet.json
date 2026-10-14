@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.topcomicpornonet",
+  "name": "TopComicPorno.net",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/topcomicpornonet/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6831269326708750162",
+      "name": "TopComicPorno.net",
+      "language": "es",
+      "baseURL": "https://topcomicporno.net",
+      "mirrorURLs": []
+    }
+  ]
+}

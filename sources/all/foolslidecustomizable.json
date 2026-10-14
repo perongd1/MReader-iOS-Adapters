@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.foolslidecustomizable",
+  "name": "FoolSlide Customizable",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/foolslide/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "foolslide",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6351052922295965587",
+      "name": "FoolSlide Customizable",
+      "language": "other",
+      "baseURL": "https://127.0.0.1",
+      "mirrorURLs": []
+    }
+  ]
+}

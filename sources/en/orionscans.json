@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.orionscans",
+  "name": "Orion Scans",
+  "version": "1.6.27",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/orionscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "iken",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7776050777496310004",
+      "name": "Orion Scans",
+      "language": "en",
+      "baseURL": "https://orion-scans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

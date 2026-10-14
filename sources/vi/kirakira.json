@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.kirakira",
+  "name": "KiraKira",
+  "version": "1.6.4",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/kirakira/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6706783596626868301",
+      "name": "KiraKira",
+      "language": "vi",
+      "baseURL": "https://truyenkira.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.tankouhentai",
+  "name": "Tankou Hentai",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/madara/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9200419821846585447",
+      "name": "Tankou Hentai",
+      "language": "pt-BR",
+      "baseURL": "https://tankouhentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

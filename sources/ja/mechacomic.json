@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mechacomic",
+  "name": "Mecha Comic",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mechacomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4109851891728963895",
+      "name": "Mecha Comic",
+      "language": "ja",
+      "baseURL": "https://mechacomic.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

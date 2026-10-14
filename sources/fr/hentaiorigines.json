@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.hentaiorigines",
+  "name": "Hentai Origines",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaiorigines/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "origines",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3875672872924535086",
+      "name": "Hentai Origines",
+      "language": "fr",
+      "baseURL": "https://hentai-origines.com",
+      "mirrorURLs": []
+    }
+  ]
+}

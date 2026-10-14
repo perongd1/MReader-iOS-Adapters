@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.mangacrab",
+  "name": "Manga Crab",
+  "version": "1.6.24",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangacrab/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6167683270485370369",
+      "name": "Manga Crab",
+      "language": "es",
+      "baseURL": "https://es.mangacrab.org",
+      "mirrorURLs": []
+    }
+  ]
+}

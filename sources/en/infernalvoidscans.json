@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.infernalvoidscans",
+  "name": "Hive Scans",
+  "version": "1.6.71",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hivescans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6311653253665366075",
+      "name": "Hive Scans",
+      "language": "en",
+      "baseURL": "https://hivetoons.org",
+      "mirrorURLs": []
+    }
+  ]
+}

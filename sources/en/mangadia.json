@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangadia",
+  "name": "MangaDia",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadia/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "408151224123746617",
+      "name": "MangaDia",
+      "language": "en",
+      "baseURL": "https://mangadia.com",
+      "mirrorURLs": []
+    }
+  ]
+}

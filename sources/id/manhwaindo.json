@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.manhwaindo",
+  "name": "Manhwa Indo",
+  "version": "1.6.11",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwaindo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "862941840467210819",
+      "name": "Manhwa Indo",
+      "language": "id",
+      "baseURL": "https://www.manhwaindo.my",
+      "mirrorURLs": []
+    }
+  ]
+}

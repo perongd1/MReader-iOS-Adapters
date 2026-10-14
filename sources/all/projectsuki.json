@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.projectsuki",
+  "name": "Project Suki",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/projectsuki/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8965918600406781666",
+      "name": "Project Suki",
+      "language": "all",
+      "baseURL": "https://projectsuki.com",
+      "mirrorURLs": []
+    }
+  ]
+}

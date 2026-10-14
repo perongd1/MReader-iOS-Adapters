@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwalike",
+  "name": "Manhwalike",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwalike/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3472935303493224823",
+      "name": "Manhwalike",
+      "language": "en",
+      "baseURL": "https://manhwalike.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.comicsvalley",
+  "name": "Comics Valley",
+  "version": "1.6.57",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicsvalley/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1103204227230640533",
+      "name": "Comics Valley",
+      "language": "all",
+      "baseURL": "https://comicsvalley.com",
+      "mirrorURLs": []
+    }
+  ]
+}

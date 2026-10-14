@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.readmanga",
+  "name": "ReadManga",
+  "version": "1.6.91",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/readmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "grouple",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5",
+      "name": "ReadManga",
+      "language": "ru",
+      "baseURL": "https://a.zazaza.me",
+      "mirrorURLs": []
+    }
+  ]
+}

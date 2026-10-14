@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.mangatoon",
+  "name": "MangaToon (Limited)",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangatoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5676233752760414531",
+      "name": "MangaToon (Limited)",
+      "language": "zh",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4795663388852759880",
+      "name": "MangaToon (Limited)",
+      "language": "en",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6572636034693050219",
+      "name": "MangaToon (Limited)",
+      "language": "id",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6849356311438092898",
+      "name": "MangaToon (Limited)",
+      "language": "vi",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "958417049187203678",
+      "name": "MangaToon (Limited)",
+      "language": "es",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6266226783871841407",
+      "name": "MangaToon (Limited)",
+      "language": "th",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6666752184827525866",
+      "name": "MangaToon (Limited)",
+      "language": "fr",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3509597554682217593",
+      "name": "MangaToon (Limited)",
+      "language": "ja",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2064722193112934135",
+      "name": "MangaToon (Limited)",
+      "language": "pt-BR",
+      "baseURL": "https://mangatoon.mobi",
+      "mirrorURLs": []
+    }
+  ]
+}

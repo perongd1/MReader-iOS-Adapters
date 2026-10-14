@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicaction",
+  "name": "Comic Action",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicaction/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3399001455113605946",
+      "name": "Comic Action",
+      "language": "ja",
+      "baseURL": "https://comic-action.com",
+      "mirrorURLs": []
+    }
+  ]
+}

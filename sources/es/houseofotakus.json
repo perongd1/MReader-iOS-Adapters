@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.houseofotakus",
+  "name": "House Of Otakus",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/houseofotakus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1968531533450563052",
+      "name": "House Of Otakus",
+      "language": "es",
+      "baseURL": "https://houseofotakusv2.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

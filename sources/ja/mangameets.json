@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangameets",
+  "name": "MangaMeets",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangameets/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2561264003659474410",
+      "name": "MangaMeets",
+      "language": "ja",
+      "baseURL": "https://manga-meets.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

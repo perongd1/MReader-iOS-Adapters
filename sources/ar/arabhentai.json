@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.arabhentai",
+  "name": "Manga Bab",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangabab/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6899943547168982381",
+      "name": "مانجا باب",
+      "language": "ar",
+      "baseURL": "https://mangabab.com",
+      "mirrorURLs": []
+    }
+  ]
+}

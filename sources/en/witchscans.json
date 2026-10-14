@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.witchscans",
+  "name": "WitchScans",
+  "version": "1.6.36",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/witchscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "vinetheme",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3119719730967642939",
+      "name": "WitchScans",
+      "language": "en",
+      "baseURL": "https://witchtoons.net",
+      "mirrorURLs": []
+    }
+  ]
+}

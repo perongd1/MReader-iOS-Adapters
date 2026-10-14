@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ko.newxtoon",
+  "name": "NewXToon",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/newxtoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1562897350957827542",
+      "name": "NewXToon",
+      "language": "ko",
+      "baseURL": "https://newxtoon1.com",
+      "mirrorURLs": []
+    }
+  ]
+}

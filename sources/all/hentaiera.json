@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentaiera",
+  "name": "HentaiEra",
+  "version": "1.6.12",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaiera/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "647637185891033517",
+      "name": "HentaiEra",
+      "language": "en",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2492666945996599997",
+      "name": "HentaiEra",
+      "language": "ja",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1720815810677381837",
+      "name": "HentaiEra",
+      "language": "es",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6887659515539839354",
+      "name": "HentaiEra",
+      "language": "fr",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5930644847758440964",
+      "name": "HentaiEra",
+      "language": "ko",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1901100795183424105",
+      "name": "HentaiEra",
+      "language": "de",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4966955732363898584",
+      "name": "HentaiEra",
+      "language": "ru",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5238899243957092391",
+      "name": "HentaiEra",
+      "language": "all",
+      "baseURL": "https://hentaiera.com",
+      "mirrorURLs": []
+    }
+  ]
+}

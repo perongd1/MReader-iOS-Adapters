@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.pizzariascan",
+  "name": "PizzariaScan",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pizzariascan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangawork",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3359822911747375789",
+      "name": "PizzariaScan",
+      "language": "pt-BR",
+      "baseURL": "https://pizzariacomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.azora",
+  "name": "Azora",
+  "version": "1.6.73",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/azora/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "iken",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2482399499047903203",
+      "name": "Azora",
+      "language": "ar",
+      "baseURL": "https://azorafly.com",
+      "mirrorURLs": []
+    }
+  ]
+}

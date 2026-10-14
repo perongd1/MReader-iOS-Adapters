@@ -1,0 +1,302 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.globalcomix",
+  "name": "GlobalComix",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/globalcomix/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3356591153022230079",
+      "name": "GlobalComix",
+      "language": "sq",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1187989220698209376",
+      "name": "GlobalComix",
+      "language": "ar",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6787452093863347937",
+      "name": "GlobalComix",
+      "language": "bg",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1751301957307147711",
+      "name": "GlobalComix",
+      "language": "bn",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6857041228017945908",
+      "name": "GlobalComix",
+      "language": "pt-BR",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7151191693036508367",
+      "name": "GlobalComix",
+      "language": "zh-Hans",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4590681486679254754",
+      "name": "GlobalComix",
+      "language": "cs",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8246492784517686839",
+      "name": "GlobalComix",
+      "language": "de",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5048347663546425663",
+      "name": "GlobalComix",
+      "language": "da",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5023036788669530148",
+      "name": "GlobalComix",
+      "language": "el",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1702911211040495914",
+      "name": "GlobalComix",
+      "language": "en",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4898409906840499301",
+      "name": "GlobalComix",
+      "language": "es",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3091586499988578585",
+      "name": "GlobalComix",
+      "language": "fa",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8293773554510083311",
+      "name": "GlobalComix",
+      "language": "fi",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7193534094270200605",
+      "name": "GlobalComix",
+      "language": "fil",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1331353277450289630",
+      "name": "GlobalComix",
+      "language": "fr",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7833228326192857667",
+      "name": "GlobalComix",
+      "language": "hi",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1139058264127464070",
+      "name": "GlobalComix",
+      "language": "hu",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5793414625714246782",
+      "name": "GlobalComix",
+      "language": "id",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "680772027911898954",
+      "name": "GlobalComix",
+      "language": "it",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4966216283610323571",
+      "name": "GlobalComix",
+      "language": "he",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5239712539549115551",
+      "name": "GlobalComix",
+      "language": "ja",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7082086175158655309",
+      "name": "GlobalComix",
+      "language": "ko",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "857003208346192351",
+      "name": "GlobalComix",
+      "language": "lv",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4045163592638299384",
+      "name": "GlobalComix",
+      "language": "ms",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8660336682320212854",
+      "name": "GlobalComix",
+      "language": "nl",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1325846979854909240",
+      "name": "GlobalComix",
+      "language": "no",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9036722702118837888",
+      "name": "GlobalComix",
+      "language": "pl",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1914303745574265340",
+      "name": "GlobalComix",
+      "language": "pt",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "868801900692890109",
+      "name": "GlobalComix",
+      "language": "ro",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8611257855285214680",
+      "name": "GlobalComix",
+      "language": "ru",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3631246013481179045",
+      "name": "GlobalComix",
+      "language": "sv",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3295788255356719804",
+      "name": "GlobalComix",
+      "language": "sk",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1644770244825001357",
+      "name": "GlobalComix",
+      "language": "sl",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5543642209942020458",
+      "name": "GlobalComix",
+      "language": "ta",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7868281684851943971",
+      "name": "GlobalComix",
+      "language": "th",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2641311214423625823",
+      "name": "GlobalComix",
+      "language": "tr",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1335726222164693622",
+      "name": "GlobalComix",
+      "language": "uk",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2272106648760140404",
+      "name": "GlobalComix",
+      "language": "ur",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6987743887369255757",
+      "name": "GlobalComix",
+      "language": "vi",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3451257781273481191",
+      "name": "GlobalComix",
+      "language": "zh-Hant",
+      "baseURL": "https://globalcomix.com",
+      "mirrorURLs": []
+    }
+  ]
+}

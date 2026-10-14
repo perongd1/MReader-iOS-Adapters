@@ -1,0 +1,135 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.luscious",
+  "name": "Luscious",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/luscious/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2774395484485436593",
+      "name": "Luscious",
+      "language": "en",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "356192691213044104",
+      "name": "Luscious",
+      "language": "ja",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "4290611657061143259",
+      "name": "Luscious",
+      "language": "es",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "80965277100704155",
+      "name": "Luscious",
+      "language": "it",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "5185485787190542529",
+      "name": "Luscious",
+      "language": "de",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "151111346668901230",
+      "name": "Luscious",
+      "language": "fr",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "5200417794129414472",
+      "name": "Luscious",
+      "language": "zh",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "264934399418113929",
+      "name": "Luscious",
+      "language": "ko",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "1383462828430089842",
+      "name": "Luscious",
+      "language": "other",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "2638955581892699679",
+      "name": "Luscious",
+      "language": "th",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "4625881812440927464",
+      "name": "Luscious",
+      "language": "all",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    },
+    {
+      "id": "5826725746643311801",
+      "name": "Luscious",
+      "language": "pt-BR",
+      "baseURL": "https://www.luscious.net",
+      "mirrorURLs": [
+        "https://www.luscious.net",
+        "https://members.luscious.net"
+      ]
+    }
+  ]
+}

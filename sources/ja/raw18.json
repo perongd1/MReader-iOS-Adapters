@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.raw18",
+  "name": "Raw18",
+  "version": "1.6.20",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/raw18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "wpcomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2238636513447052332",
+      "name": "Raw18",
+      "language": "ja",
+      "baseURL": "https://raw18.icu",
+      "mirrorURLs": []
+    }
+  ]
+}

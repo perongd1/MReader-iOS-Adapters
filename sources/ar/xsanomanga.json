@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.xsanomanga",
+  "name": "XSano Manga",
+  "version": "1.6.14",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/xsanomanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6170348197605244575",
+      "name": "XSano Manga",
+      "language": "ar",
+      "baseURL": "https://www.xsano-manga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

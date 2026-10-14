@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mgreadio",
+  "name": "Mgread.io",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mgreadio/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "15083818169656208",
+      "name": "Mgread.io",
+      "language": "en",
+      "baseURL": "https://mgread.io",
+      "mirrorURLs": []
+    }
+  ]
+}

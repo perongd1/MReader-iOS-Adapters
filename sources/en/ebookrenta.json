@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.ebookrenta",
+  "name": "EbookRenta",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ebookrenta/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8412178155364465470",
+      "name": "EbookRenta",
+      "language": "en",
+      "baseURL": "https://www.ebookrenta.com",
+      "mirrorURLs": []
+    }
+  ]
+}

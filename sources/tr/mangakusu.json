@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangakusu",
+  "name": "Manga Kusu",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangakusu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6479744508771928030",
+      "name": "Manga Kusu",
+      "language": "tr",
+      "baseURL": "https://mangakusu.com",
+      "mirrorURLs": []
+    }
+  ]
+}

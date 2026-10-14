@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manganow",
+  "name": "MangaNow",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manganow/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "855054225815309342",
+      "name": "MangaNow",
+      "language": "en",
+      "baseURL": "https://manganow.to",
+      "mirrorURLs": []
+    }
+  ]
+}

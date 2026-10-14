@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.bananascan",
+  "name": "Harmony-Scan",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/bananascan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3121632933690925888",
+      "name": "Harmony-Scan",
+      "language": "fr",
+      "baseURL": "https://harmony-scan.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

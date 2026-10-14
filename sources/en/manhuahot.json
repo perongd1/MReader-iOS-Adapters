@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhuahot",
+  "name": "ManhuaHot",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuahot/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7638481723868333116",
+      "name": "ManhuaHot",
+      "language": "en",
+      "baseURL": "https://manhuahot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

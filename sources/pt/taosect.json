@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.taosect",
+  "name": "Tao Sect",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/taosect/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "784276282691018699",
+      "name": "Tao Sect",
+      "language": "pt-BR",
+      "baseURL": "https://taosect.com",
+      "mirrorURLs": []
+    }
+  ]
+}

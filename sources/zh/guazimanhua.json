@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.guazimanhua",
+  "name": "Guazimanhua",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/guazimanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9103931521355991619",
+      "name": "瓜子漫画",
+      "language": "zh",
+      "baseURL": "https://www.guazimanhua.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.damconuong",
+  "name": "DamCoNuong",
+  "version": "1.6.15",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/damconuong/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2680345917627448572",
+      "name": "DamCoNuong",
+      "language": "vi",
+      "baseURL": "https://damconuong.pet",
+      "mirrorURLs": []
+    }
+  ]
+}

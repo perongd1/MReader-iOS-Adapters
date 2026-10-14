@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.juratempest",
+  "name": "JuraTempest",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/juratempest/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8286382933548342026",
+      "name": "JuraTempest",
+      "language": "tr",
+      "baseURL": "https://juratempe.st",
+      "mirrorURLs": []
+    }
+  ]
+}

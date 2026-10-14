@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hipercool",
+  "name": "HipercooL",
+  "version": "1.6.63",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hipercool/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "hiper",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2379514871370953957",
+      "name": "Hipercool",
+      "language": "pt-BR",
+      "baseURL": "https://lerhentais.com",
+      "mirrorURLs": []
+    }
+  ]
+}

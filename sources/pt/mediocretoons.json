@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mediocretoons",
+  "name": "Mediocre Toons",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mediocretoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6774658952974641159",
+      "name": "Mediocre Toons",
+      "language": "pt-BR",
+      "baseURL": "https://mediocrescan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.doctruyen5s",
+  "name": "DocTruyen5s",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen5s/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "liliana",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7595811359698226104",
+      "name": "DocTruyen5s",
+      "language": "vi",
+      "baseURL": "https://manga.io.vn",
+      "mirrorURLs": []
+    }
+  ]
+}

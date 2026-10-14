@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.newmanhwa",
+  "name": "New Manhwa",
+  "version": "1.6.35",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/newmanhwa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3639911276143172075",
+      "name": "New Manhwa",
+      "language": "en",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

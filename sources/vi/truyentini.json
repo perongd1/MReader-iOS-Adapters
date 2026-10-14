@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyentini",
+  "name": "TruyenTini",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentini/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7837268511554362907",
+      "name": "TruyenTini",
+      "language": "vi",
+      "baseURL": "https://truyentini.net",
+      "mirrorURLs": []
+    }
+  ]
+}

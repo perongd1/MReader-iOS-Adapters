@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.zaimanhua",
+  "name": "Zaimanhua",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/zaimanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "524579092615598717",
+      "name": "再漫画",
+      "language": "zh",
+      "baseURL": "https://manhua.zaimanhua.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.jinmantiantang",
+  "name": "Jinman Tiantang",
+  "version": "1.6.59",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/jinmantiantang/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6286738698187452081",
+      "name": "禁漫天堂",
+      "language": "zh",
+      "baseURL": "https://18comic.vip",
+      "mirrorURLs": []
+    }
+  ]
+}

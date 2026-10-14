@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.webnovel",
+  "name": "WebNovel",
+  "version": "1.6.14",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webnovel/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4081135203808920563",
+      "name": "WebNovel",
+      "language": "en",
+      "baseURL": "https://www.webnovel.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.sleepytranslations",
+  "name": "Sleepy Translations",
+  "version": "1.6.56",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sleepytranslations/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5756634909776784131",
+      "name": "Sleepy Translations",
+      "language": "en",
+      "baseURL": "https://sleepytranslations.com",
+      "mirrorURLs": []
+    }
+  ]
+}

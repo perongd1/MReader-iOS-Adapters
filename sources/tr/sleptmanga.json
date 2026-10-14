@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.sleptmanga",
+  "name": "Slept Manga",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sleptmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2901533594719087473",
+      "name": "Slept Manga",
+      "language": "tr",
+      "baseURL": "https://sleptmanga.com.tr",
+      "mirrorURLs": []
+    }
+  ]
+}

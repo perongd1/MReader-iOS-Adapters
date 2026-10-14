@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.taddyink",
+  "name": "Taddy INK (Webtoons)",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/taddyink/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2332326521515456967",
+      "name": "Taddy INK (Webtoons)",
+      "language": "all",
+      "baseURL": "https://taddy.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.welovemangaone",
+  "name": "Love4u",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/welovemangaone/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "fmreader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1647179844716143786",
+      "name": "Love4u",
+      "language": "ja",
+      "baseURL": "https://love4u.net",
+      "mirrorURLs": []
+    }
+  ]
+}

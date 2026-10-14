@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.guya",
+  "name": "Guya",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/guya/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "guya",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4637971935551651734",
+      "name": "Guya",
+      "language": "en",
+      "baseURL": "https://guya.cubari.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

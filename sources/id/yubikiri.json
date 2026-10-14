@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.yubikiri",
+  "name": "Kaguya",
+  "version": "1.6.60",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kaguya/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1557304490417397104",
+      "name": "Kaguya",
+      "language": "id",
+      "baseURL": "https://02.kaguya.pro",
+      "mirrorURLs": []
+    }
+  ]
+}

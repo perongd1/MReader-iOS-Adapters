@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhuaplus",
+  "name": "Manhua Plus",
+  "version": "1.6.62",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaplus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9030178752551947945",
+      "name": "Manhua Plus",
+      "language": "en",
+      "baseURL": "https://manhuaplus.com",
+      "mirrorURLs": []
+    }
+  ]
+}

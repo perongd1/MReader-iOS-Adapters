@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.cosmicscansid",
+  "name": "CosmicScans",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/cosmicscansid/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6559481336553833282",
+      "name": "CosmicScans",
+      "language": "id",
+      "baseURL": "https://04.cosmicscans.to",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.cerisescans",
+  "name": "Cerise Scan",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/cerisescans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6986357795598884919",
+      "name": "Cerise Scan",
+      "language": "pt-BR",
+      "baseURL": "https://loverstoon.net",
+      "mirrorURLs": []
+    }
+  ]
+}

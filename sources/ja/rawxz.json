@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.rawxz",
+  "name": "RawMiu",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawxz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7950551186567193810",
+      "name": "RawMiu",
+      "language": "ja",
+      "baseURL": "https://rawmiu.com",
+      "mirrorURLs": []
+    }
+  ]
+}

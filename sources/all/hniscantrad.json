@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hniscantrad",
+  "name": "HNI-Scantrad",
+  "version": "1.6.10",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hniscantrad/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4972198006998831006",
+      "name": "HNI-Scantrad",
+      "language": "all",
+      "baseURL": "https://hni-scantrad.net",
+      "mirrorURLs": []
+    }
+  ]
+}

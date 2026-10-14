@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.soulscans",
+  "name": "Soul Scans",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/soulscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "loneseal",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8061354444776372735",
+      "name": "Soul Scans",
+      "language": "id",
+      "baseURL": "https://v1.soulscans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

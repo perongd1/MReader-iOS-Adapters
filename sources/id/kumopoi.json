@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.kumopoi",
+  "name": "KumoPoi",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kumopoi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5610091745946956485",
+      "name": "KumoPoi",
+      "language": "id",
+      "baseURL": "https://beta.kumopoi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

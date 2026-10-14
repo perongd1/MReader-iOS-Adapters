@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyenhentaivn",
+  "name": "TruyenHentaivn",
+  "version": "1.6.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenhentaivn/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2450247754585878955",
+      "name": "TruyenHentaivn",
+      "language": "vi",
+      "baseURL": "https://truyenhentaivn.store",
+      "mirrorURLs": []
+    }
+  ]
+}

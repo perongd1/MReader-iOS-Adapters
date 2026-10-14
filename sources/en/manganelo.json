@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manganelo",
+  "name": "Manganato",
+  "version": "1.6.22",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manganelo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangabox",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1024627298672457456",
+      "name": "Manganato",
+      "language": "en",
+      "baseURL": "https://www.natomanga.com",
+      "mirrorURLs": [
+        "https://www.natomanga.com",
+        "https://www.nelomanga.net",
+        "https://www.manganato.gg"
+      ]
+    }
+  ]
+}

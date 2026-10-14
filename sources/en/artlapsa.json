@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.artlapsa",
+  "name": "Art Lapsa",
+  "version": "1.6.29",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/artlapsa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "734404203508686053",
+      "name": "Art Lapsa",
+      "language": "en",
+      "baseURL": "https://artlapsa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

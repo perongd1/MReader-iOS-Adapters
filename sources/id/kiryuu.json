@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.kiryuu",
+  "name": "Kiryuu",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/kiryuu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "natsuid",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3639673976007021338",
+      "name": "Kiryuu",
+      "language": "id",
+      "baseURL": "https://v7.kiryuu.to",
+      "mirrorURLs": []
+    }
+  ]
+}

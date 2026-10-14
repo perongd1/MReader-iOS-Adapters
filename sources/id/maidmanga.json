@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.maidmanga",
+  "name": "Maid - Manga",
+  "version": "1.6.15",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/maidmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5716614438725518956",
+      "name": "Maid - Manga",
+      "language": "id",
+      "baseURL": "https://www.maid.my.id",
+      "mirrorURLs": []
+    }
+  ]
+}

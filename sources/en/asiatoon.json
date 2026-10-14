@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.asiatoon",
+  "name": "AsiaToon",
+  "version": "1.4.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/asiatoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8533441259456905246",
+      "name": "AsiaToon",
+      "language": "en",
+      "baseURL": "https://asiatoon.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.hentaiscantrad",
+  "name": "Hentai-Scantrad",
+  "version": "1.6.57",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaiscantrad/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6747208512135394944",
+      "name": "Hentai-Scantrad",
+      "language": "fr",
+      "baseURL": "https://hentai-scantrad.org",
+      "mirrorURLs": []
+    }
+  ]
+}

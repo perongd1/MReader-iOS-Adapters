@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.neomanga",
+  "name": "NeoManga",
+  "version": "1.4.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/neomanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4960725964791825687",
+      "name": "NeoManga",
+      "language": "es",
+      "baseURL": "https://www.neomanga.online",
+      "mirrorURLs": []
+    }
+  ]
+}

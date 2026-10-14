@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ca.fansubscat",
+  "name": "Fansubs.cat",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ca/fansubscat/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "fansubscat",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3974404971892520732",
+      "name": "Fansubs.cat",
+      "language": "ca",
+      "baseURL": "https://manga.fansubs.cat",
+      "mirrorURLs": []
+    }
+  ]
+}

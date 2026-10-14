@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.noyacg",
+  "name": "NoyAcg",
+  "version": "1.6.7",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/noyacg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6492346234228542735",
+      "name": "NoyAcg",
+      "language": "zh-Hant",
+      "baseURL": "https://api.noyteam.online",
+      "mirrorURLs": [
+        "https://api.noyteam.online",
+        "https://api.noymanga.com",
+        "https://api.noy.asia"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.cafecomyaoi",
+  "name": "Café com Yaoi",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/cafecomyaoi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "340055543197648554",
+      "name": "Café com Yaoi",
+      "language": "pt-BR",
+      "baseURL": "https://cafecomyaoi.com.br",
+      "mirrorURLs": []
+    }
+  ]
+}

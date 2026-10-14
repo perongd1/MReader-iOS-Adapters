@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.yaoihub",
+  "name": "Yaoihub",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoihub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6718273076571980404",
+      "name": "Yaoihub",
+      "language": "en",
+      "baseURL": "https://yaoihub.org",
+      "mirrorURLs": []
+    }
+  ]
+}

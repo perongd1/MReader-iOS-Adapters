@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangagg",
+  "name": "MangaGG",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangagg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8173282214298911566",
+      "name": "MangaGG",
+      "language": "en",
+      "baseURL": "https://mangagg.com",
+      "mirrorURLs": []
+    }
+  ]
+}

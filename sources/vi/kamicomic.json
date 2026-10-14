@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.kamicomic",
+  "name": "KamiComic",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/kamicomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4858507068999692510",
+      "name": "KamiComic",
+      "language": "vi",
+      "baseURL": "https://kamicomi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

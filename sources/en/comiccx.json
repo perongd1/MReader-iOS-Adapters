@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.comiccx",
+  "name": "Comic CX",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comiccx/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "958100198677584835",
+      "name": "Comic CX",
+      "language": "en",
+      "baseURL": "https://comic.cx",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.akaicomic",
+  "name": "Akai Comic",
+  "version": "1.4.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/akaicomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1987646205658282178",
+      "name": "Akai Comic",
+      "language": "en",
+      "baseURL": "https://akaicomic.org",
+      "mirrorURLs": []
+    }
+  ]
+}

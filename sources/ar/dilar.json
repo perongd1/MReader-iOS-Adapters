@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.dilar",
+  "name": "Dilar",
+  "version": "1.6.18",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/dilar/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7634600808243438399",
+      "name": "Dilar",
+      "language": "ar",
+      "baseURL": "https://dilar.tube",
+      "mirrorURLs": []
+    }
+  ]
+}

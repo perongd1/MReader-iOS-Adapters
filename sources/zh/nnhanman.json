@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.nnhanman",
+  "name": "NNHanman",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/nnhanman/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6412117657297236190",
+      "name": "鸟鸟韩漫",
+      "language": "zh",
+      "baseURL": "https://nnhanman.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

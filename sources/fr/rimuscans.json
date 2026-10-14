@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.rimuscans",
+  "name": "Rimu Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/rimuscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "203984087587807085",
+      "name": "Rimu Scans",
+      "language": "fr",
+      "baseURL": "https://rimuscan.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

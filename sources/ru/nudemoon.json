@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.nudemoon",
+  "name": "Nude-Moon",
+  "version": "1.6.31",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/nudemoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6384784374922886076",
+      "name": "Nude-Moon",
+      "language": "ru",
+      "baseURL": "https://nude-moon.org",
+      "mirrorURLs": []
+    }
+  ]
+}

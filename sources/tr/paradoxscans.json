@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.paradoxscans",
+  "name": "Paradox Scans",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/paradoxscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "initmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3730980240510982131",
+      "name": "Paradox Scans",
+      "language": "tr",
+      "baseURL": "https://paradoxscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

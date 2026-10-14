@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.ulascomic",
+  "name": "Ulas Comic",
+  "version": "1.6.14",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ulascomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "440952493414630310",
+      "name": "Ulas Comic",
+      "language": "id",
+      "baseURL": "https://www.ulascomic01.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

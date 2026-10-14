@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.acervohentai",
+  "name": "Acervo Hentai",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/acervohentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "381670977542268077",
+      "name": "Acervo Hentai",
+      "language": "pt-BR",
+      "baseURL": "https://acervohentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

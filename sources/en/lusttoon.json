@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.lusttoon",
+  "name": "LustToon",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lusttoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5466172882050312169",
+      "name": "LustToon",
+      "language": "en",
+      "baseURL": "https://lustoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

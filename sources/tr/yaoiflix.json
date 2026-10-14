@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.yaoiflix",
+  "name": "Yaoi Flix",
+  "version": "1.6.61",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoiflix/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9083257818102461515",
+      "name": "Yaoi Flix",
+      "language": "tr",
+      "baseURL": "https://yaoiflix.fit",
+      "mirrorURLs": []
+    }
+  ]
+}

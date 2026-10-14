@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhuaus",
+  "name": "ManhuaUS",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuaus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4005973248538140146",
+      "name": "ManhuaUS",
+      "language": "en",
+      "baseURL": "https://manhuaus.com",
+      "mirrorURLs": []
+    }
+  ]
+}

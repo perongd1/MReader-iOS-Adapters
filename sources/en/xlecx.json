@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.xlecx",
+  "name": "XlecX",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/xlecx/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3691755476092994375",
+      "name": "XlecX",
+      "language": "en",
+      "baseURL": "https://xlecx.one",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.picacomic",
+  "name": "Picacomic",
+  "version": "1.6.11",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/picacomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5768337869316468367",
+      "name": "哔咔漫画",
+      "language": "zh",
+      "baseURL": "https://manhuabika.com",
+      "mirrorURLs": []
+    }
+  ]
+}

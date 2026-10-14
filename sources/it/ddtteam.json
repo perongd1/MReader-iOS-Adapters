@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.ddtteam",
+  "name": "DDT Team",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/ddtteam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4975929166626394514",
+      "name": "DDT Team",
+      "language": "it",
+      "baseURL": "https://ddt.hastateam.com",
+      "mirrorURLs": []
+    }
+  ]
+}

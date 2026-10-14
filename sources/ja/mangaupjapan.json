@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangaupjapan",
+  "name": "Manga UP! (Japan)",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaupjapan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "697820552173578283",
+      "name": "Manga UP! (Japan)",
+      "language": "ja",
+      "baseURL": "https://www.manga-up.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.oppaistream",
+  "name": "Oppai Stream",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/oppaistream/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1938195875614354298",
+      "name": "Oppai Stream",
+      "language": "en",
+      "baseURL": "https://read.oppai.stream",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.rosesquadscans",
+  "name": "Rose Squad Scans",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rosesquadscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5475936177780301452",
+      "name": "Rose Squad Scans",
+      "language": "en",
+      "baseURL": "https://rosesquadscans.aishiteru.org",
+      "mirrorURLs": []
+    }
+  ]
+}

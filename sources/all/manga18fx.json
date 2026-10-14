@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.manga18fx",
+  "name": "Manga18fx",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manga18fx/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5575864808495704378",
+      "name": "Manga18fx",
+      "language": "all",
+      "baseURL": "https://manga18fx.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3157287889751723714",
+      "name": "Manga18fx",
+      "language": "en",
+      "baseURL": "https://manga18fx.com",
+      "mirrorURLs": []
+    }
+  ]
+}

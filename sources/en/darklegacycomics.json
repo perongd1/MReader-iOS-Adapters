@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.darklegacycomics",
+  "name": "Dark Legacy Comics",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/darklegacycomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1650720534254409337",
+      "name": "Dark Legacy Comics",
+      "language": "en",
+      "baseURL": "https://www.darklegacycomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

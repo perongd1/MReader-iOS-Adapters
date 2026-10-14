@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangakuro",
+  "name": "MangaKuro",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangakuro/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4278045440527026000",
+      "name": "MangaKuro",
+      "language": "ja",
+      "baseURL": "https://mangakuro.net",
+      "mirrorURLs": []
+    }
+  ]
+}

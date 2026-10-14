@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.dailysuka",
+  "name": "DailySuka",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/dailysuka/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "760062745121170981",
+      "name": "DailySuka",
+      "language": "id",
+      "baseURL": "https://dailysuka.com",
+      "mirrorURLs": []
+    }
+  ]
+}

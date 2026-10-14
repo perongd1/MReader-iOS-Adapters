@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.simplycosplay",
+  "name": "Simply Cosplay",
+  "version": "1.4.4",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/simplycosplay/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5522274089781089670",
+      "name": "Simply Cosplay",
+      "language": "all",
+      "baseURL": "https://www.simply-cosplay.com",
+      "mirrorURLs": []
+    }
+  ]
+}

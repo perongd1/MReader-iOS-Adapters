@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.mimi",
+  "name": "MiMi",
+  "version": "1.6.7",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/mimi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2558772350527638641",
+      "name": "MiMi",
+      "language": "vi",
+      "baseURL": "https://mimihentai.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

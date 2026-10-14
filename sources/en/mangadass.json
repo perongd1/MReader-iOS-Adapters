@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangadass",
+  "name": "Manga Dass",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadass/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5571661567325096882",
+      "name": "Manga Dass",
+      "language": "en",
+      "baseURL": "https://mangadass.com",
+      "mirrorURLs": []
+    }
+  ]
+}

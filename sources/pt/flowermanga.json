@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.flowermanga",
+  "name": "FlowerManga.net",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/flowermanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2421010180391442293",
+      "name": "FlowerManga.net",
+      "language": "pt-BR",
+      "baseURL": "https://flowermangas.net",
+      "mirrorURLs": []
+    }
+  ]
+}

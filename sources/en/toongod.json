@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.toongod",
+  "name": "ToonGod",
+  "version": "1.6.60",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toongod/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2054192099319007885",
+      "name": "ToonGod",
+      "language": "en",
+      "baseURL": "https://www.toongod.org",
+      "mirrorURLs": []
+    }
+  ]
+}

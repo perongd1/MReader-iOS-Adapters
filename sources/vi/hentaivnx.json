@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.hentaivnx",
+  "name": "HentaiVNx",
+  "version": "1.6.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaivnx/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5268102422164410592",
+      "name": "HentaiVNx",
+      "language": "vi",
+      "baseURL": "https://www.hentaivnx.com",
+      "mirrorURLs": []
+    }
+  ]
+}

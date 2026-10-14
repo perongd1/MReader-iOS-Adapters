@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.izanamiscans",
+  "name": "Izanami Scans",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/izanamiscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "831567442922111170",
+      "name": "Izanami Scans",
+      "language": "id",
+      "baseURL": "https://izanamiscans.my.id",
+      "mirrorURLs": []
+    }
+  ]
+}

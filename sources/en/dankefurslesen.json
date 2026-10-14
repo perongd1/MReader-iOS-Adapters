@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.dankefurslesen",
+  "name": "Danke fürs Lesen",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dankefurslesen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "guya",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "370316150648855996",
+      "name": "Danke fürs Lesen",
+      "language": "en",
+      "baseURL": "https://danke.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

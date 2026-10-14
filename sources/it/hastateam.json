@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.hastateam",
+  "name": "Hasta Team",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/hastateam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3278618591126542009",
+      "name": "Hasta Team",
+      "language": "it",
+      "baseURL": "https://reader.hastateam.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,239 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.lunaranime",
+  "name": "Lunar Manga",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/lunaranime/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5813468393870703615",
+      "name": "Lunar Manga",
+      "language": "all",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7328677245254276970",
+      "name": "Lunar Manga",
+      "language": "en",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3699764450470657348",
+      "name": "Lunar Manga",
+      "language": "ar",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2698159736988588223",
+      "name": "Lunar Manga",
+      "language": "bg",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3551931974861576783",
+      "name": "Lunar Manga",
+      "language": "bn",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "547003087261446586",
+      "name": "Lunar Manga",
+      "language": "da",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4964257310156473044",
+      "name": "Lunar Manga",
+      "language": "de",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "215773824303536035",
+      "name": "Lunar Manga",
+      "language": "es",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4595247773355584967",
+      "name": "Lunar Manga",
+      "language": "es-419",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7749937618675947100",
+      "name": "Lunar Manga",
+      "language": "fa",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "793390858613993949",
+      "name": "Lunar Manga",
+      "language": "fi",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8304537992959679621",
+      "name": "Lunar Manga",
+      "language": "fr",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4939477701699344583",
+      "name": "Lunar Manga",
+      "language": "he",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4529330646808421343",
+      "name": "Lunar Manga",
+      "language": "hi",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8130073422666383933",
+      "name": "Lunar Manga",
+      "language": "id",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8276119821263625468",
+      "name": "Lunar Manga",
+      "language": "it",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2848743514286834588",
+      "name": "Lunar Manga",
+      "language": "ja",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5973585434561103442",
+      "name": "Lunar Manga",
+      "language": "ko",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1272917377169479980",
+      "name": "Lunar Manga",
+      "language": "ms",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "568631194803448549",
+      "name": "Lunar Manga",
+      "language": "nl",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1567267056564602747",
+      "name": "Lunar Manga",
+      "language": "no",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "89188894348015097",
+      "name": "Lunar Manga",
+      "language": "pl",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "690969786104967218",
+      "name": "Lunar Manga",
+      "language": "pt",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1702733805309857480",
+      "name": "Lunar Manga",
+      "language": "pt-BR",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4798553287209680620",
+      "name": "Lunar Manga",
+      "language": "ru",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4407345724470685258",
+      "name": "Lunar Manga",
+      "language": "sv",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3149622876127128169",
+      "name": "Lunar Manga",
+      "language": "th",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6989036438623575060",
+      "name": "Lunar Manga",
+      "language": "tl",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3881169888283649510",
+      "name": "Lunar Manga",
+      "language": "tr",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3227262950343562837",
+      "name": "Lunar Manga",
+      "language": "ur",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4976223882601884801",
+      "name": "Lunar Manga",
+      "language": "vi",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3021093696465448973",
+      "name": "Lunar Manga",
+      "language": "zh",
+      "baseURL": "https://lunarx.to",
+      "mirrorURLs": []
+    }
+  ]
+}

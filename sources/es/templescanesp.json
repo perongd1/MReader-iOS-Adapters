@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.templescanesp",
+  "name": "Temple Scan",
+  "version": "1.6.68",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/templescanesp/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3451196845457607826",
+      "name": "Temple Scan",
+      "language": "es",
+      "baseURL": "https://aedexnox.akan01.com",
+      "mirrorURLs": []
+    }
+  ]
+}

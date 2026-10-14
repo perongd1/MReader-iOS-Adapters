@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.drecomics",
+  "name": "DreComi+",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/drecomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8766832343449907432",
+      "name": "DreComi+",
+      "language": "ja",
+      "baseURL": "https://drecomi-plus.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

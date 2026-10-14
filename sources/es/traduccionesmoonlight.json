@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.traduccionesmoonlight",
+  "name": "Traducciones Moonlight",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/traduccionesmoonlight/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "moonlighttl",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4349338377187141550",
+      "name": "Traducciones Moonlight",
+      "language": "es",
+      "baseURL": "https://traduccionesmoonlight.com",
+      "mirrorURLs": []
+    }
+  ]
+}

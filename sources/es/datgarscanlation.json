@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.datgarscanlation",
+  "name": "Dat-Gar Scan",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/datgarscanlation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1626637101814976364",
+      "name": "Dat-Gar Scan",
+      "language": "es",
+      "baseURL": "https://datgarscanlation.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

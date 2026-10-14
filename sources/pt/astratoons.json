@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.astratoons",
+  "name": "Astratoons",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/astratoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "551908063793499841",
+      "name": "Astratoons",
+      "language": "pt-BR",
+      "baseURL": "https://new.astratoons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

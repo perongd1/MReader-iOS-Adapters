@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.nixmanga",
+  "name": "NixManga",
+  "version": "1.4.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nixmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3470536709327419459",
+      "name": "NixManga",
+      "language": "en",
+      "baseURL": "https://nixmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

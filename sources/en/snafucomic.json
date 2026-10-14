@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.snafucomic",
+  "name": "Snafu Comics",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/snafucomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5425488988830744299",
+      "name": "Snafu Comics",
+      "language": "en",
+      "baseURL": "https://www.snafu-comics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

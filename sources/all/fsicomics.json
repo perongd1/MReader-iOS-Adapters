@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.fsicomics",
+  "name": "FSI Comics",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/fsicomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6559215119939537337",
+      "name": "FSI Comics",
+      "language": "en",
+      "baseURL": "https://fsicomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "602403175358649566",
+      "name": "FSI Comics",
+      "language": "es",
+      "baseURL": "https://es.fsicomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8864443696116780443",
+      "name": "FSI Comics",
+      "language": "de",
+      "baseURL": "https://de.fsicomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3957062723829771136",
+      "name": "FSI Comics",
+      "language": "fr",
+      "baseURL": "https://fr.fsicomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "439087378480236546",
+      "name": "FSI Comics",
+      "language": "it",
+      "baseURL": "https://it.fsicomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

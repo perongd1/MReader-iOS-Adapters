@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.manhatok",
+  "name": "Manhatok",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/manhatok/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "743599002989616408",
+      "name": "Manhatok",
+      "language": "ar",
+      "baseURL": "https://manhatok.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

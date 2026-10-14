@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.mangacorporation",
+  "name": "Manga-Corporation",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangacorporation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1528177119657303302",
+      "name": "Manga-Corporation",
+      "language": "fr",
+      "baseURL": "https://manga-corporation.com",
+      "mirrorURLs": []
+    }
+  ]
+}

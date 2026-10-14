@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.buttsmithy",
+  "name": "buttsmithy",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/buttsmithy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5116114496934092518",
+      "name": "Buttsmithy",
+      "language": "en",
+      "baseURL": "https://incase.buttsmithy.com",
+      "mirrorURLs": []
+    }
+  ]
+}

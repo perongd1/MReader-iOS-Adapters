@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangaparkpublisher",
+  "name": "Manga-Park",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaparkpublisher/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2905661176145448719",
+      "name": "Manga-Park",
+      "language": "ja",
+      "baseURL": "https://manga-park.com",
+      "mirrorURLs": []
+    }
+  ]
+}

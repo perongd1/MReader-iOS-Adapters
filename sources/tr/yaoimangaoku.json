@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.yaoimangaoku",
+  "name": "Yaoi Manga Oku",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/yaoimangaoku/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4161874521076039470",
+      "name": "Yaoi Manga Oku",
+      "language": "tr",
+      "baseURL": "https://yaoimangaoku.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.warforrayuba",
+  "name": "War For Rayuba",
+  "version": "1.6.4",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/warforrayuba/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9161629559428486377",
+      "name": "War For Rayuba",
+      "language": "en",
+      "baseURL": "https://xrabohrok.github.io/WarMap/#/",
+      "mirrorURLs": []
+    }
+  ]
+}

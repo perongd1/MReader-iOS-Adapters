@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.noindexscan",
+  "name": "Hanami Heaven",
+  "version": "1.6.60",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/noindexscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "987786689720213769",
+      "name": "Hanami Heaven",
+      "language": "pt-BR",
+      "baseURL": "https://hanamiheaven.org",
+      "mirrorURLs": []
+    }
+  ]
+}

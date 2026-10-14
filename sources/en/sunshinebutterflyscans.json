@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.sunshinebutterflyscans",
+  "name": "Sunshine Butterfly Scans",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sunshinebutterflyscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9191177608229286435",
+      "name": "Sunshine Butterfly Scans",
+      "language": "en",
+      "baseURL": "https://wings.sbs",
+      "mirrorURLs": []
+    }
+  ]
+}

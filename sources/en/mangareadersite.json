@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangareadersite",
+  "name": "MangaReader.site",
+  "version": "1.6.38",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadersite/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2527199067559866087",
+      "name": "MangaReader.site",
+      "language": "en",
+      "baseURL": "https://mangareader.site",
+      "mirrorURLs": []
+    }
+  ]
+}

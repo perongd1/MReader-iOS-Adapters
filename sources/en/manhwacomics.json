@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwacomics",
+  "name": "Manhwa Comics",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwacomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3386088694317815151",
+      "name": "Manhwa Comics",
+      "language": "en",
+      "baseURL": "https://manhwacomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

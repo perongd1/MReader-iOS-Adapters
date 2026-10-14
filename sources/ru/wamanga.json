@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.wamanga",
+  "name": "WaManga",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/wamanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1686869715645322994",
+      "name": "WaManga",
+      "language": "ru",
+      "baseURL": "https://wamanga.ru",
+      "mirrorURLs": []
+    }
+  ]
+}

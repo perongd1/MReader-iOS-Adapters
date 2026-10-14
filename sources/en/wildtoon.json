@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.wildtoon",
+  "name": "Wildtoon",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wildtoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4082152694771839662",
+      "name": "Wildtoon",
+      "language": "en",
+      "baseURL": "https://wildtoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

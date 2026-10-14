@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.madaradex",
+  "name": "MadaraDex",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/madaradex/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2136088453725931591",
+      "name": "MadaraDex",
+      "language": "en",
+      "baseURL": "https://madaradex.org",
+      "mirrorURLs": []
+    }
+  ]
+}

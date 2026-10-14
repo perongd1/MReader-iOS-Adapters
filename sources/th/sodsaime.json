@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.sodsaime",
+  "name": "Sodsaime",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/sodsaime/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8174267898467838103",
+      "name": "สดใสเมะ",
+      "language": "th",
+      "baseURL": "https://www.xn--l3c0azab5a2gta.com",
+      "mirrorURLs": []
+    }
+  ]
+}

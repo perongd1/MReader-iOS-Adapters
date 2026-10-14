@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.thepropertyofhate",
+  "name": "The Property of Hate",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/thepropertyofhate/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7307224992915342074",
+      "name": "The Property of Hate",
+      "language": "en",
+      "baseURL": "https://jolleycomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

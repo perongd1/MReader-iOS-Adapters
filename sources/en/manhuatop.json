@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhuatop",
+  "name": "ManhuaTop",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuatop/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1903782575226230108",
+      "name": "ManhuaTop",
+      "language": "en",
+      "baseURL": "https://manhuatop.org",
+      "mirrorURLs": []
+    }
+  ]
+}

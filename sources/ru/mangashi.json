@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.mangashi",
+  "name": "Manga-shi",
+  "version": "1.6.52",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangashi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "735260312965788798",
+      "name": "Manga-shi",
+      "language": "ru",
+      "baseURL": "https://manga-shi.org",
+      "mirrorURLs": []
+    }
+  ]
+}

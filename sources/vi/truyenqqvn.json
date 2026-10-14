@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyenqqvn",
+  "name": "TruyenQQ VN",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenqqvn/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5606661657341898331",
+      "name": "TruyenQQ VN",
+      "language": "vi",
+      "baseURL": "https://truyenqq.com.vn",
+      "mirrorURLs": []
+    }
+  ]
+}

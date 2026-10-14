@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.mangakimi",
+  "name": "MangaKimi",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangathemesia/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "358347131669055728",
+      "name": "MangaKimi",
+      "language": "th",
+      "baseURL": "https://www.mangakimi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

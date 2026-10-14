@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.risentoons",
+  "name": "Risentoons",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/risentoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4905131080278546043",
+      "name": "Risentoons",
+      "language": "pt-BR",
+      "baseURL": "https://risentoons.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

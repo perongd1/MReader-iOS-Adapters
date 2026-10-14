@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.raw1001",
+  "name": "Raw1001",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/raw1001/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "liliana",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3349575794425308347",
+      "name": "Raw1001",
+      "language": "ja",
+      "baseURL": "https://raw1001.net",
+      "mirrorURLs": []
+    }
+  ]
+}

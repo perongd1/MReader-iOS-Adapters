@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.siyahmelek",
+  "name": "Siyah Melek",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/siyahmelek/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "initmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3737240362254347902",
+      "name": "Siyah Melek",
+      "language": "tr",
+      "baseURL": "https://siyahmelek.live",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.nuviatoon",
+  "name": "Nuvia Toon",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nuviatoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9071935154458913856",
+      "name": "Nuvia Toon",
+      "language": "en",
+      "baseURL": "https://nuviatoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.madarascans",
+  "name": "Madara Scans",
+  "version": "1.6.5",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/madarascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9025563662441338944",
+      "name": "Madara Scans",
+      "language": "en",
+      "baseURL": "https://madarascans.net",
+      "mirrorURLs": []
+    }
+  ]
+}

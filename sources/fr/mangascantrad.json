@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.mangascantrad",
+  "name": "Manga-Scantrad",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangascantrad/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "540252682818453285",
+      "name": "Manga-Scantrad",
+      "language": "fr",
+      "baseURL": "https://manga-scantrad.io",
+      "mirrorURLs": []
+    }
+  ]
+}

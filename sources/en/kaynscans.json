@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kaynscans",
+  "name": "Kayn Scans",
+  "version": "1.6.35",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaynscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "vinetheme",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6622233282902198923",
+      "name": "Kayn Scans",
+      "language": "en",
+      "baseURL": "https://kaynscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

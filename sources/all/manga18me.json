@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.manga18me",
+  "name": "Manga18Me",
+  "version": "1.4.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manga18me/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1353606378087565589",
+      "name": "Manga18.me",
+      "language": "all",
+      "baseURL": "https://manga18.me",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6244055465910932489",
+      "name": "Manga18.me",
+      "language": "en",
+      "baseURL": "https://manga18.me",
+      "mirrorURLs": []
+    }
+  ]
+}

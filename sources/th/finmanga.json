@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.finmanga",
+  "name": "Fin Manga",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/finmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7656859857051979814",
+      "name": "Fin Manga",
+      "language": "th",
+      "baseURL": "https://www.fin-manga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

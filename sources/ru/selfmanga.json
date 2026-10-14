@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.selfmanga",
+  "name": "SelfManga",
+  "version": "1.6.66",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/selfmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "grouple",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5227602742162454547",
+      "name": "SelfManga",
+      "language": "ru",
+      "baseURL": "https://1.selfmanga.live",
+      "mirrorURLs": []
+    }
+  ]
+}

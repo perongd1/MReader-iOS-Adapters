@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.darthsdroids",
+  "name": "Darths & Droids",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/darthsdroids/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1395072850055110585",
+      "name": "Darths & Droids",
+      "language": "en",
+      "baseURL": "https://www.darthsanddroids.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.manhwa18net",
+  "name": "Manhwa18.net",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwa18net/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "687150405919946955",
+      "name": "Manhwa18.Net",
+      "language": "en",
+      "baseURL": "https://manhwa18.net",
+      "mirrorURLs": []
+    }
+  ]
+}

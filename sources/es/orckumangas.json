@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.orckumangas",
+  "name": "OrckuMangas",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/orckumangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1548462712480376358",
+      "name": "Orcku Mangas",
+      "language": "es",
+      "baseURL": "https://orckumangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

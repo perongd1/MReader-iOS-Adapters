@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.manhuadui",
+  "name": "YKMH",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuadui/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "sinmh",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1637952806167036168",
+      "name": "优酷漫画",
+      "language": "zh",
+      "baseURL": "https://www.ykmh.net",
+      "mirrorURLs": []
+    }
+  ]
+}

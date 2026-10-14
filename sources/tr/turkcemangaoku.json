@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.turkcemangaoku",
+  "name": "Türkçe Manga Oku",
+  "version": "1.6.56",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/turkcemangaoku/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1213201447439140959",
+      "name": "Türkçe Manga Oku",
+      "language": "tr",
+      "baseURL": "https://trmangaoku.com",
+      "mirrorURLs": []
+    }
+  ]
+}

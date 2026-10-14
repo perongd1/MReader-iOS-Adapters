@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.booklistastudio",
+  "name": "Booklista Studio",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/booklistastudio/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4993360009034397146",
+      "name": "Booklista Studio",
+      "language": "ja",
+      "baseURL": "https://studio.booklista.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

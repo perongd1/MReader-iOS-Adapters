@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangapdf",
+  "name": "MANGAPDF",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangapdf/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1578380270112593951",
+      "name": "MANGAPDF",
+      "language": "en",
+      "baseURL": "https://mangapdf.org",
+      "mirrorURLs": []
+    }
+  ]
+}

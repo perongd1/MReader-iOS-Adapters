@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.jumptoon",
+  "name": "Jump Toon",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/jumptoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2618336401735517644",
+      "name": "Jump Toon",
+      "language": "ja",
+      "baseURL": "https://jumptoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

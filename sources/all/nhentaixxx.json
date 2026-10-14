@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.nhentaixxx",
+  "name": "NHentai.xxx",
+  "version": "1.6.11",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/galleryadults/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1759845183972082995",
+      "name": "NHentai.xxx",
+      "language": "en",
+      "baseURL": "https://nhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5939253174175011564",
+      "name": "NHentai.xxx",
+      "language": "ja",
+      "baseURL": "https://nhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "560822675588930101",
+      "name": "NHentai.xxx",
+      "language": "zh",
+      "baseURL": "https://nhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2384499981488817067",
+      "name": "NHentai.xxx",
+      "language": "all",
+      "baseURL": "https://nhentai.xxx",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.akuma",
+  "name": "Akuma",
+  "version": "1.6.10",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/akuma/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1843646695111412994",
+      "name": "Akuma",
+      "language": "all",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8524619729907384865",
+      "name": "Akuma",
+      "language": "en",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1707768678643970514",
+      "name": "Akuma",
+      "language": "id",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3825200464570758229",
+      "name": "Akuma",
+      "language": "jv",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "186393818771246102",
+      "name": "Akuma",
+      "language": "ca",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5014742859693294263",
+      "name": "Akuma",
+      "language": "ceb",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3989593922015638091",
+      "name": "Akuma",
+      "language": "cs",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5988433661218368889",
+      "name": "Akuma",
+      "language": "da",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8524245811050879736",
+      "name": "Akuma",
+      "language": "de",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8167173986295647123",
+      "name": "Akuma",
+      "language": "et",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5371778608318819884",
+      "name": "Akuma",
+      "language": "es",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "77326570497325152",
+      "name": "Akuma",
+      "language": "eo",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9222445553932717105",
+      "name": "Akuma",
+      "language": "fr",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5085561039221748061",
+      "name": "Akuma",
+      "language": "it",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1099564256126272699",
+      "name": "Akuma",
+      "language": "hi",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1422819830508615430",
+      "name": "Akuma",
+      "language": "hu",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5610655855358487221",
+      "name": "Akuma",
+      "language": "nl",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8163761313345392776",
+      "name": "Akuma",
+      "language": "pl",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5253884715906393116",
+      "name": "Akuma",
+      "language": "pt",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1740877429814102450",
+      "name": "Akuma",
+      "language": "vi",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2760962895634785428",
+      "name": "Akuma",
+      "language": "tr",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7045343433771927648",
+      "name": "Akuma",
+      "language": "ru",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5229751861519354976",
+      "name": "Akuma",
+      "language": "uk",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8600626646399125374",
+      "name": "Akuma",
+      "language": "ar",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8353987132172753017",
+      "name": "Akuma",
+      "language": "ko",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7558912456429140642",
+      "name": "Akuma",
+      "language": "zh",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5330127039501257395",
+      "name": "Akuma",
+      "language": "ja",
+      "baseURL": "https://akuma.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

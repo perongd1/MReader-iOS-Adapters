@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.panomic",
+  "name": "Panomic",
+  "version": "1.6.8",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/panomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5418027692230441919",
+      "name": "Panomic",
+      "language": "vi",
+      "baseURL": "https://panomic.online",
+      "mirrorURLs": []
+    }
+  ]
+}

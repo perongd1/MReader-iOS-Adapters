@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.terrahistoricus",
+  "name": "Terra Historicus",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/terrahistoricus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4585134706567717130",
+      "name": "泰拉记事社",
+      "language": "zh",
+      "baseURL": "https://comic.hypergryph.com",
+      "mirrorURLs": []
+    }
+  ]
+}

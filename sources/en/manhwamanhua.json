@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwamanhua",
+  "name": "ManhwaManhua",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwamanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8935586841672178004",
+      "name": "ManhwaManhua",
+      "language": "en",
+      "baseURL": "https://manhwamanhua.com",
+      "mirrorURLs": []
+    }
+  ]
+}

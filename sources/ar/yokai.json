@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.yokai",
+  "name": "Yokai",
+  "version": "1.6.16",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/yokai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4337506350787725909",
+      "name": "Yokai",
+      "language": "ar",
+      "baseURL": "https://yokai-team.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

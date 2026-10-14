@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.arabtoons",
+  "name": "Arab Toons",
+  "version": "1.6.57",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arabtoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2424761902286195560",
+      "name": "عرب تونز",
+      "language": "ar",
+      "baseURL": "https://arabtoons.net",
+      "mirrorURLs": []
+    }
+  ]
+}

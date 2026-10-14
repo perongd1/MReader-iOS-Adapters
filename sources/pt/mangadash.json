@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mangadash",
+  "name": "MangaDash",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangadash/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4579000402227688678",
+      "name": "MangaDash",
+      "language": "pt-BR",
+      "baseURL": "https://mangadash.net",
+      "mirrorURLs": []
+    }
+  ]
+}

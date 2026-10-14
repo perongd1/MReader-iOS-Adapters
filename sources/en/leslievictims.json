@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.leslievictims",
+  "name": "Leslie&Victims",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/leslievictims/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1228130671216317629",
+      "name": "Leslie&Victims",
+      "language": "en",
+      "baseURL": "https://leslie-victims.pages.dev",
+      "mirrorURLs": []
+    }
+  ]
+}

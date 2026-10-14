@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.revistasequadrinhos",
+  "name": "Revistas e Quadrinhos",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/revistasequadrinhos/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1455091782657313638",
+      "name": "Revistas e Quadrinhos",
+      "language": "pt",
+      "baseURL": "https://revistasequadrinhos.com",
+      "mirrorURLs": []
+    }
+  ]
+}

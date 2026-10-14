@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.mangatale",
+  "name": "Ikiru",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ikiru/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2471382203854600486",
+      "name": "Ikiru",
+      "language": "id",
+      "baseURL": "https://09.ikiru.wtf",
+      "mirrorURLs": []
+    }
+  ]
+}

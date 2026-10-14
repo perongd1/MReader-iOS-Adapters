@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.verdinha",
+  "name": "Verdinha",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/verdinha/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "greenshit",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3410911112857734134",
+      "name": "Verdinha",
+      "language": "pt-BR",
+      "baseURL": "https://verdinha.wtf",
+      "mirrorURLs": []
+    }
+  ]
+}

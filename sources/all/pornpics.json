@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.pornpics",
+  "name": "PornPics",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/pornpics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1459635082044256286",
+      "name": "PornPics",
+      "language": "en",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7079014519404224786",
+      "name": "PornPics",
+      "language": "zh",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2780049974046464526",
+      "name": "PornPics",
+      "language": "es",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7525122656976466135",
+      "name": "PornPics",
+      "language": "de",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1811020652695548403",
+      "name": "PornPics",
+      "language": "fr",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5665224319388354154",
+      "name": "PornPics",
+      "language": "it",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6286909977307030053",
+      "name": "PornPics",
+      "language": "ru",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1918812460576284253",
+      "name": "PornPics",
+      "language": "ja",
+      "baseURL": "https://www.pornpics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

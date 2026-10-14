@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangadrama",
+  "name": "Manga Drama",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangadrama/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "initmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3174596843279946873",
+      "name": "Manga Drama",
+      "language": "en",
+      "baseURL": "https://mangadrama.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.kadocomi",
+  "name": "KadoComi",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kadocomi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8396089563187142394",
+      "name": "カドコミ",
+      "language": "ja",
+      "baseURL": "https://comic-walker.com",
+      "mirrorURLs": []
+    }
+  ]
+}

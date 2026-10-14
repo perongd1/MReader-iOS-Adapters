@@ -1,0 +1,316 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.namicomi",
+  "name": "NamiComi",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/namicomi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6815287454679474132",
+      "name": "NamiComi",
+      "language": "en",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7830959603474646022",
+      "name": "NamiComi",
+      "language": "ar",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7871287213449294583",
+      "name": "NamiComi",
+      "language": "bg",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5335008997233394468",
+      "name": "NamiComi",
+      "language": "ca",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1163192659786040070",
+      "name": "NamiComi",
+      "language": "zh-Hans",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7859611418350123856",
+      "name": "NamiComi",
+      "language": "zh-Hant",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1125922332535233758",
+      "name": "NamiComi",
+      "language": "hr",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2037282477963681758",
+      "name": "NamiComi",
+      "language": "cs",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7548417938714777333",
+      "name": "NamiComi",
+      "language": "da",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4139908687076589734",
+      "name": "NamiComi",
+      "language": "nl",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1004520286290933688",
+      "name": "NamiComi",
+      "language": "et",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7846542287071503597",
+      "name": "NamiComi",
+      "language": "fil",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8873510733793144577",
+      "name": "NamiComi",
+      "language": "fi",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2688801006759321823",
+      "name": "NamiComi",
+      "language": "fr",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6619013782987672377",
+      "name": "NamiComi",
+      "language": "de",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7683690509668356869",
+      "name": "NamiComi",
+      "language": "el",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "961340698570426919",
+      "name": "NamiComi",
+      "language": "he",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5974308089281665684",
+      "name": "NamiComi",
+      "language": "hi",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7787558791584052317",
+      "name": "NamiComi",
+      "language": "hu",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1123824014117121209",
+      "name": "NamiComi",
+      "language": "is",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3535683894794049489",
+      "name": "NamiComi",
+      "language": "ga",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1325956500558078102",
+      "name": "NamiComi",
+      "language": "id",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5975471501347973768",
+      "name": "NamiComi",
+      "language": "it",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6873060443067341608",
+      "name": "NamiComi",
+      "language": "ja",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1524915323009957887",
+      "name": "NamiComi",
+      "language": "ko",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6196723908897486263",
+      "name": "NamiComi",
+      "language": "lt",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6113965282317121452",
+      "name": "NamiComi",
+      "language": "ms",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1665825055279512321",
+      "name": "NamiComi",
+      "language": "ne",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6572043706378944577",
+      "name": "NamiComi",
+      "language": "no",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "723436680125197351",
+      "name": "NamiComi",
+      "language": "pa",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "569401976641132670",
+      "name": "NamiComi",
+      "language": "fa",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5296681357952677059",
+      "name": "NamiComi",
+      "language": "pl",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1401973320108574400",
+      "name": "NamiComi",
+      "language": "pt-BR",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4804474291848639489",
+      "name": "NamiComi",
+      "language": "pt",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "296214928329015811",
+      "name": "NamiComi",
+      "language": "ru",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1406651071058914280",
+      "name": "NamiComi",
+      "language": "sk",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1665334647759224307",
+      "name": "NamiComi",
+      "language": "sl",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3720618907480183068",
+      "name": "NamiComi",
+      "language": "es-419",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7482985666811016125",
+      "name": "NamiComi",
+      "language": "es",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4005855460574344551",
+      "name": "NamiComi",
+      "language": "sv",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6825567325220655211",
+      "name": "NamiComi",
+      "language": "th",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1404231504220588104",
+      "name": "NamiComi",
+      "language": "tr",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7458865308108369667",
+      "name": "NamiComi",
+      "language": "uk",
+      "baseURL": "https://namicomi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

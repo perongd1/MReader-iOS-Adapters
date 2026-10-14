@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readtokyoghoulretokyoghoulmangaonline",
+  "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readtokyoghoulretokyoghoulmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6468833665354206027",
+      "name": "Read Tokyo Ghoul Re & Tokyo Ghoul Manga Online",
+      "language": "en",
+      "baseURL": "https://ww12.tokyoghoulre.com",
+      "mirrorURLs": []
+    }
+  ]
+}

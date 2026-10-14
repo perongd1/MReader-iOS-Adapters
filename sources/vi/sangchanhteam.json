@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.sangchanhteam",
+  "name": "SangChanhTeam",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/sangchanhteam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3763639620364244824",
+      "name": "SangChanhTeam",
+      "language": "vi",
+      "baseURL": "https://sangchanhteam.com",
+      "mirrorURLs": []
+    }
+  ]
+}

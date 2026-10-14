@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.lelscanvf",
+  "name": "Lelscan-VF",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/lelscanvf/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "fuzzydoodle",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4874205281198767614",
+      "name": "Lelscan-VF",
+      "language": "fr",
+      "baseURL": "https://www.lelscanfr.com",
+      "mirrorURLs": []
+    }
+  ]
+}

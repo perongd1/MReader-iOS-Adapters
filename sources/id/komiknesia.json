@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komiknesia",
+  "name": "KomikNesia",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komiknesia/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8916278596443930510",
+      "name": "KomikNesia",
+      "language": "id",
+      "baseURL": "https://v1.komiknesiaku.com",
+      "mirrorURLs": []
+    }
+  ]
+}

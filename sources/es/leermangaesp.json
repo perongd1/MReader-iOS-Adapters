@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.leermangaesp",
+  "name": "LeerMangaEsp",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/leermangaesp/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8196066207928937350",
+      "name": "LeerMangaEsp",
+      "language": "es",
+      "baseURL": "https://mangalect.org",
+      "mirrorURLs": []
+    }
+  ]
+}

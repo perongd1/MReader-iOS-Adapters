@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.korelimanga",
+  "name": "Koreli Manga",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/korelimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "initmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1381583102051609700",
+      "name": "Koreli Manga",
+      "language": "tr",
+      "baseURL": "https://korelimanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

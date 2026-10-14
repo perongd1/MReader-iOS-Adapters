@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.manhwalandmom",
+  "name": "ManhwaLand.mom",
+  "version": "1.6.10",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalandmom/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4281611327457686416",
+      "name": "ManhwaLand.mom",
+      "language": "id",
+      "baseURL": "https://02.manhwaland.land",
+      "mirrorURLs": []
+    }
+  ]
+}

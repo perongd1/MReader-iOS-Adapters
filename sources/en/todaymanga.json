@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.todaymanga",
+  "name": "TodayManga",
+  "version": "1.6.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/todaymanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1147556681248758139",
+      "name": "TodayManga",
+      "language": "en",
+      "baseURL": "https://todaymanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

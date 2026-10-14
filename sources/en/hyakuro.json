@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hyakuro",
+  "name": "Hyakuro Translations",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hyakuro/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4981643024311726529",
+      "name": "Hyakuro Translations",
+      "language": "en",
+      "baseURL": "https://hyakuro.net",
+      "mirrorURLs": []
+    }
+  ]
+}

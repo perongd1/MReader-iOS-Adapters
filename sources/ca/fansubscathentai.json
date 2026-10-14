@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ca.fansubscathentai",
+  "name": "Hentai.cat",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ca/fansubscathentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "fansubscat",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7575385310756416449",
+      "name": "Hentai.cat",
+      "language": "ca",
+      "baseURL": "https://manga.hentai.cat",
+      "mirrorURLs": []
+    }
+  ]
+}

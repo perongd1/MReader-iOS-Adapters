@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.despairmanga",
+  "name": "Despair Manga",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/despairmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "886527590434722171",
+      "name": "Despair Manga",
+      "language": "ar",
+      "baseURL": "https://despair-world.com",
+      "mirrorURLs": []
+    }
+  ]
+}

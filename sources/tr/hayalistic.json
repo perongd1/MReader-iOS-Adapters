@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.hayalistic",
+  "name": "Hayalistic",
+  "version": "1.6.61",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hayalistic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "546920749196078093",
+      "name": "Hayalistic",
+      "language": "tr",
+      "baseURL": "https://hayalistic.online",
+      "mirrorURLs": []
+    }
+  ]
+}

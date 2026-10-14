@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.reallifecomics",
+  "name": "Real Life Comics",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/reallifecomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4890735226828164084",
+      "name": "Real Life Comics",
+      "language": "en",
+      "baseURL": "https://reallifecomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

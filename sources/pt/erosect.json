@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.erosect",
+  "name": "Ero Sect",
+  "version": "1.4.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/erosect/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4566665141605249082",
+      "name": "EroSect",
+      "language": "pt-BR",
+      "baseURL": "https://erosect.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

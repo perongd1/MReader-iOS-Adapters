@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.nirvanamanga",
+  "name": "Nirvana Manga",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/nirvanamanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2783611133798677654",
+      "name": "Nirvana Manga",
+      "language": "tr",
+      "baseURL": "https://nirvanamanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

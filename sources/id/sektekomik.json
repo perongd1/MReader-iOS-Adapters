@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.sektekomik",
+  "name": "Sekte Komik",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/sektekomik/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "colorlibanime",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7081372932062301579",
+      "name": "Sekte Komik",
+      "language": "id",
+      "baseURL": "https://01.sektekomik.id",
+      "mirrorURLs": []
+    }
+  ]
+}

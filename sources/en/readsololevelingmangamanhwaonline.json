@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readsololevelingmangamanhwaonline",
+  "name": "Read Solo Leveling Manga Manhwa Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readsololevelingmangamanhwaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1374366734159205648",
+      "name": "Read Solo Leveling Manga Manhwa Online",
+      "language": "en",
+      "baseURL": "https://ww4.readsololeveling.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.mangalc",
+  "name": "Manga-Lc",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangalc/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5607835948857138011",
+      "name": "Manga-Lc",
+      "language": "th",
+      "baseURL": "https://manga-lc.net",
+      "mirrorURLs": []
+    }
+  ]
+}

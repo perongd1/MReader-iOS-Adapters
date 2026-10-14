@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.flashmanga",
+  "name": "Flash-Manga",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/flashmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3953857548169222543",
+      "name": "Flash-Manga",
+      "language": "th",
+      "baseURL": "https://www.flash-manga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.nyanukafe",
+  "name": "Nyanu Kafe",
+  "version": "1.6.23",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyanukafe/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3025454996745441538",
+      "name": "Nyanu Kafe",
+      "language": "en",
+      "baseURL": "https://nyanukafe.com",
+      "mirrorURLs": []
+    }
+  ]
+}

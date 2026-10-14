@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.yomumangas",
+  "name": "Yomu Mangás",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yomumangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1636954121036022614",
+      "name": "Yomu Mangás",
+      "language": "pt-BR",
+      "baseURL": "https://yomumangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

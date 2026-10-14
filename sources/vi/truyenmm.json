@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyenmm",
+  "name": "TruyenMM",
+  "version": "1.4.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenmm/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4711592264872296686",
+      "name": "TruyenMM",
+      "language": "vi",
+      "baseURL": "https://truyenmmhayr.com",
+      "mirrorURLs": []
+    }
+  ]
+}

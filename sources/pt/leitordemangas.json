@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.leitordemangas",
+  "name": "Leitor de Mangas",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/leitordemangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "aurora",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7503746561325156612",
+      "name": "Leitor de Mangas",
+      "language": "pt-BR",
+      "baseURL": "https://leitordemangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.ragnarokscanlation",
+  "name": "Ragnarok Scanlation",
+  "version": "1.6.58",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ragnarokscanlation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1348827658894665970",
+      "name": "Ragnarok Scanlation",
+      "language": "es",
+      "baseURL": "https://ragnarokscanlation.org",
+      "mirrorURLs": []
+    }
+  ]
+}

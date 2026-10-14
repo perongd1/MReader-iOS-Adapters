@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.azuretoons",
+  "name": "Azuretoons",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/azuretoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6272815455807597212",
+      "name": "Azuretoons",
+      "language": "pt-BR",
+      "baseURL": "https://azuretoons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

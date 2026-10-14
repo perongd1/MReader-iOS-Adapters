@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.haremdekira",
+  "name": "Harem de Kira",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/haremdekira/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1480472727871484054",
+      "name": "Harem de Kira",
+      "language": "es",
+      "baseURL": "https://kiraproject.lat",
+      "mirrorURLs": []
+    }
+  ]
+}

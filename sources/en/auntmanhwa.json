@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.auntmanhwa",
+  "name": "Aunt Manhwa",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/auntmanhwa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6576302499429437207",
+      "name": "Aunt Manhwa",
+      "language": "en",
+      "baseURL": "https://auntmanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

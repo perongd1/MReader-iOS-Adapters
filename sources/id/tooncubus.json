@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.tooncubus",
+  "name": "Tooncubus",
+  "version": "1.6.14",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/tooncubus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8493327683322555504",
+      "name": "Tooncubus",
+      "language": "id",
+      "baseURL": "https://www.tooncubus.top",
+      "mirrorURLs": []
+    }
+  ]
+}

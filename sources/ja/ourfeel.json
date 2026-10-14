@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.ourfeel",
+  "name": "Our Feel",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ourfeel/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "783189652313877732",
+      "name": "Our Feel",
+      "language": "ja",
+      "baseURL": "https://ourfeel.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

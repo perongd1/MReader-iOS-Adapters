@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.manhuathai",
+  "name": "ManhuaThai",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhuathai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7916744898099174736",
+      "name": "ManhuaThai",
+      "language": "th",
+      "baseURL": "https://www.manhuathai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

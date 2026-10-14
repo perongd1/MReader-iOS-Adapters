@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.doujinshell",
+  "name": "DoujinsHell",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/doujinshell/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7008709488397053596",
+      "name": "DoujinsHell",
+      "language": "es",
+      "baseURL": "https://doujinshell.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.yuriverso",
+  "name": "Yuri on Air",
+  "version": "1.6.60",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yuriverso/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4476506734614164770",
+      "name": "Yuri on Air",
+      "language": "pt-BR",
+      "baseURL": "https://yurionair.top",
+      "mirrorURLs": []
+    }
+  ]
+}

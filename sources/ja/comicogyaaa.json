@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicogyaaa",
+  "name": "Comic Ogyaaa",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicogyaaa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3754263546482783493",
+      "name": "Comic Ogyaaa",
+      "language": "ja",
+      "baseURL": "https://comic-ogyaaa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.teamshadowi",
+  "name": "Team Shadowi",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/teamshadowi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1326600535134927871",
+      "name": "Team Shadowi",
+      "language": "en",
+      "baseURL": "https://www.team-shadowi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

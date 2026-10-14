@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.doodmanga",
+  "name": "Doodmanga",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doodmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4393941999923514698",
+      "name": "Doodmanga",
+      "language": "th",
+      "baseURL": "https://www.doodmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

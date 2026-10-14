@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readchainsawmanmangaonline",
+  "name": "Read Chainsaw Man Manga Online",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6207801235158968822",
+      "name": "Read Chainsaw Man Manga Online",
+      "language": "en",
+      "baseURL": "https://ww6.readchainsawman.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.otascans",
+  "name": "Ota Scans",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/otascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2170345400165397182",
+      "name": "Ota Scans",
+      "language": "id",
+      "baseURL": "https://yurilab.top",
+      "mirrorURLs": []
+    }
+  ]
+}

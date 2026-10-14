@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.ler999",
+  "name": "Ler 999",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ler999/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "11864058740306611",
+      "name": "Ler 999",
+      "language": "pt-BR",
+      "baseURL": "https://ler999.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

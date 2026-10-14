@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.ainzscansid",
+  "name": "Ainz Scans ID",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ainzscansid/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "loneseal",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6828652413569586396",
+      "name": "Ainz Scans ID",
+      "language": "id",
+      "baseURL": "https://v3.ainzscans01.com",
+      "mirrorURLs": []
+    }
+  ]
+}

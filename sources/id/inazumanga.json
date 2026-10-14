@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.inazumanga",
+  "name": "ReYume",
+  "version": "1.6.43",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/inazumanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1645729642561182833",
+      "name": "ReYume",
+      "language": "id",
+      "baseURL": "https://www.re-yume.my.id",
+      "mirrorURLs": []
+    }
+  ]
+}

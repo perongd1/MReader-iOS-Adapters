@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.apenasumafa",
+  "name": "Apenas Uma Fã",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6897166867127039489",
+      "name": "Apenas Uma Fã",
+      "language": "pt-BR",
+      "baseURL": "https://apenasuma-fa.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

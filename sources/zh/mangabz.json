@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.mangabz",
+  "name": "Mangabz",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mangabz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5234610795363016972",
+      "name": "Mangabz",
+      "language": "zh",
+      "baseURL": "https://mangabz.com",
+      "mirrorURLs": [
+        "https://mangabz.com",
+        "https://xmanhua.com",
+        "https://yymanhua.com"
+      ]
+    }
+  ]
+}

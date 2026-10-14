@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangaplaza",
+  "name": "MangaPlaza",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangaplaza/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2236200885810873895",
+      "name": "MangaPlaza",
+      "language": "en",
+      "baseURL": "https://mangaplaza.com",
+      "mirrorURLs": []
+    }
+  ]
+}

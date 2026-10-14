@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangatellers",
+  "name": "Mangatellers",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangatellers/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "foolslide",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3478835885302345699",
+      "name": "Mangatellers",
+      "language": "en",
+      "baseURL": "https://reader.mangatellers.gr",
+      "mirrorURLs": []
+    }
+  ]
+}

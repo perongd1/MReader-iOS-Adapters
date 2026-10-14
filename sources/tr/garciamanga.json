@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.garciamanga",
+  "name": "Garcia Manga",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/garciamanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4962507861930922611",
+      "name": "Garcia Manga",
+      "language": "tr",
+      "baseURL": "https://garciamanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

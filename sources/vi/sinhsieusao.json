@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.sinhsieusao",
+  "name": "SinhSieuSao",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/sinhsieusao/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4780099289691520887",
+      "name": "SinhSieuSao",
+      "language": "vi",
+      "baseURL": "https://sinhsieusao.com",
+      "mirrorURLs": []
+    }
+  ]
+}

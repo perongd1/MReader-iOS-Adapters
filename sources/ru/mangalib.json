@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.mangalib",
+  "name": "MangaLib",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangalib/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "libgroup",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6111047689498497237",
+      "name": "MangaLib",
+      "language": "ru",
+      "baseURL": "https://mangalib.me",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.tanukimanga",
+  "name": "Tanuki-Manga",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/tanukimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "422195356897516502",
+      "name": "Tanuki-Manga",
+      "language": "th",
+      "baseURL": "https://www.tanuki-manga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

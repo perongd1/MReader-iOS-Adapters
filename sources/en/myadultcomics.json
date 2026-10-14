@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.myadultcomics",
+  "name": "MyAdultComics",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/myadultcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4116931674173505341",
+      "name": "MyAdultComics",
+      "language": "en",
+      "baseURL": "https://myadultcomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

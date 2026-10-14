@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.nexusmangas",
+  "name": "Nexus Mangás",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nexusmangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3647960912061862872",
+      "name": "Nexus Mangás",
+      "language": "pt-BR",
+      "baseURL": "https://www.nexusmangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

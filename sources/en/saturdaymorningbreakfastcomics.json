@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.saturdaymorningbreakfastcomics",
+  "name": "Saturday Morning Breakfast Comics",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/saturdaymorningbreakfastcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3035799230093482569",
+      "name": "Saturday Morning Breakfast Comics",
+      "language": "en",
+      "baseURL": "https://smbc-comics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

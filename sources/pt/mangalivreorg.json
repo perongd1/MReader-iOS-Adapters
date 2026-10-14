@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mangalivreorg",
+  "name": "MangaLivre.org",
+  "version": "1.6.7",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreorg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4160203623654115966",
+      "name": "MangaLivre.org",
+      "language": "pt-BR",
+      "baseURL": "https://mangalivre.org",
+      "mirrorURLs": []
+    }
+  ]
+}

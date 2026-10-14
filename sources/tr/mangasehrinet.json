@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangasehrinet",
+  "name": "Manga Şehri.net",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangasehrinet/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2403498411345112019",
+      "name": "Manga Şehri.net",
+      "language": "tr",
+      "baseURL": "https://manga-sehri.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.undertranslations",
+  "name": "UnderTranslations",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/undertranslations/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6130972683394103021",
+      "name": "UnderTranslations",
+      "language": "es",
+      "baseURL": "https://undertranslations.com",
+      "mirrorURLs": []
+    }
+  ]
+}

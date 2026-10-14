@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyenhentaiz",
+  "name": "TruyenHentaiz",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenhentaiz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7162158808407514407",
+      "name": "TruyenHentaiz",
+      "language": "vi",
+      "baseURL": "https://truyenhentaiz.net",
+      "mirrorURLs": []
+    }
+  ]
+}

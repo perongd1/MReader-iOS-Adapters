@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwaz",
+  "name": "ManhwaZ",
+  "version": "1.6.43",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "651625426989893977",
+      "name": "ManhwaZ",
+      "language": "en",
+      "baseURL": "https://manhwaz.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

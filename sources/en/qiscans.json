@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.qiscans",
+  "name": "Qi Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/qiscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "ezmanhwa",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5806040666300479660",
+      "name": "QiScans",
+      "language": "en",
+      "baseURL": "https://qimanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

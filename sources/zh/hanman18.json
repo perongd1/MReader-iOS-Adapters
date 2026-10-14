@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.hanman18",
+  "name": "HANMAN18",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manga18",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5092568988625041973",
+      "name": "HANMAN18",
+      "language": "zh",
+      "baseURL": "https://hanman18.com",
+      "mirrorURLs": []
+    }
+  ]
+}

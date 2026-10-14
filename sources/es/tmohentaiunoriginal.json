@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.tmohentaiunoriginal",
+  "name": "TMOHentai (unoriginal)",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/tmohentaiunoriginal/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6465093267346907024",
+      "name": "TMOHentai (unoriginal)",
+      "language": "es",
+      "baseURL": "https://tmohentai.app",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.lxmangaorg",
+  "name": "LxManga.org (unoriginal)",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/lxmangaorg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2252098186268656747",
+      "name": "LxManga.org (unoriginal)",
+      "language": "vi",
+      "baseURL": "https://lxmanga.org",
+      "mirrorURLs": []
+    }
+  ]
+}

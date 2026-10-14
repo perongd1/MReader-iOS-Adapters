@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.hentailib",
+  "name": "HentaiLib",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/hentailib/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "libgroup",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6425650164840473547",
+      "name": "HentaiLib",
+      "language": "ru",
+      "baseURL": "https://hentailib.me",
+      "mirrorURLs": []
+    }
+  ]
+}

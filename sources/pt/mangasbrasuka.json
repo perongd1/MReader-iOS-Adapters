@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mangasbrasuka",
+  "name": "Mangas Brasuka",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangasbrasuka/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "aurora",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9021069622172695017",
+      "name": "Mangas Brasuka",
+      "language": "pt-BR",
+      "baseURL": "https://mangasbrasuka.org",
+      "mirrorURLs": []
+    }
+  ]
+}

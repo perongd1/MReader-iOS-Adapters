@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.milasub",
+  "name": "MilaSub",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/milasub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5672794736121634742",
+      "name": "MilaSub",
+      "language": "tr",
+      "baseURL": "https://millascan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

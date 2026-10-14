@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangaship",
+  "name": "Manga Bahçesi",
+  "version": "1.4.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangaship/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7110025728969951060",
+      "name": "Manga Bahçesi",
+      "language": "tr",
+      "baseURL": "https://mangabahcesi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

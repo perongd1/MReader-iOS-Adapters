@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangabat",
+  "name": "Mangabat",
+  "version": "1.6.23",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangabat/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangabox",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4215511432986138970",
+      "name": "Mangabat",
+      "language": "en",
+      "baseURL": "https://www.mangabats.com",
+      "mirrorURLs": []
+    }
+  ]
+}

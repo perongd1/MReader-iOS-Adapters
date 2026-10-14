@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.zettahq",
+  "name": "ZettaHQ",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/zettahq/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4655858297496198897",
+      "name": "ZettaHQ",
+      "language": "pt-BR",
+      "baseURL": "https://zettahq.com",
+      "mirrorURLs": []
+    }
+  ]
+}

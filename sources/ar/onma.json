@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.onma",
+  "name": "Onma",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/onma/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mmrcms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "335499577904379512",
+      "name": "مانجا اون لاين",
+      "language": "ar",
+      "baseURL": "https://onma.top",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.manhuarm",
+  "name": "Manhuarm",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhuarm/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "797946349800265191",
+      "name": "Manhuarm",
+      "language": "ar",
+      "baseURL": "https://manhuarmtl.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7690709834650404718",
+      "name": "Manhuarm",
+      "language": "en",
+      "baseURL": "https://manhuarmtl.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8547169224512757621",
+      "name": "Manhuarm",
+      "language": "es",
+      "baseURL": "https://manhuarmtl.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8537659881437820380",
+      "name": "Manhuarm",
+      "language": "fr",
+      "baseURL": "https://manhuarmtl.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6421419166134585378",
+      "name": "Manhuarm",
+      "language": "id",
+      "baseURL": "https://manhuarmtl.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7611240442736670513",
+      "name": "Manhuarm",
+      "language": "it",
+      "baseURL": "https://manhuarmtl.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5618121635049025093",
+      "name": "Manhuarm",
+      "language": "pt-BR",
+      "baseURL": "https://manhuarmtl.com",
+      "mirrorURLs": []
+    }
+  ]
+}

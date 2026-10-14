@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.goctruyentranhvui",
+  "name": "Goc Truyen Tranh Vui",
+  "version": "1.6.18",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/goctruyentranhvui/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2831859393730435398",
+      "name": "Goc Truyen Tranh Vui",
+      "language": "vi",
+      "baseURL": "https://goctruyentranhvui41.com",
+      "mirrorURLs": []
+    }
+  ]
+}

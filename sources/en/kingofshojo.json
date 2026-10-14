@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kingofshojo",
+  "name": "King of Shojo",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kingofshojo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9153097368891994905",
+      "name": "King of Shojo",
+      "language": "en",
+      "baseURL": "https://kingofshojo.com",
+      "mirrorURLs": []
+    }
+  ]
+}

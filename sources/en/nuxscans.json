@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.nuxscans",
+  "name": "Nux Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nuxscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5854986367394591788",
+      "name": "Nux Scans",
+      "language": "en",
+      "baseURL": "https://nuxscans-comics.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

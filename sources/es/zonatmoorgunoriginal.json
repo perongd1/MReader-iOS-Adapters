@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.zonatmoorgunoriginal",
+  "name": "ZonaTMO.org (unoriginal)",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/zonatmoorgunoriginal/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7391754027638645731",
+      "name": "ZonaTMO.org (unoriginal)",
+      "language": "es",
+      "baseURL": "https://zonatmo.org",
+      "mirrorURLs": []
+    }
+  ]
+}

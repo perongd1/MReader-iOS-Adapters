@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.lolivault",
+  "name": "Lolivault",
+  "version": "1.6.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lolivault/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "foolslide",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1420213267345607410",
+      "name": "Lolivault",
+      "language": "es",
+      "baseURL": "https://lector.lolivault.net",
+      "mirrorURLs": []
+    }
+  ]
+}

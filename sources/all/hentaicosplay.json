@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentaicosplay",
+  "name": "Hentai Cosplay",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaicosplay/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3422463439145930309",
+      "name": "Hentai Cosplay",
+      "language": "all",
+      "baseURL": "https://hentai-cosplay-xxx.com",
+      "mirrorURLs": []
+    }
+  ]
+}

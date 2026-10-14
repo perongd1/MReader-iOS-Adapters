@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.ntrmanga",
+  "name": "NTR-Manga",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangathemesia/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2123874844305574539",
+      "name": "NTR-Manga",
+      "language": "th",
+      "baseURL": "https://www.ntr-manga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

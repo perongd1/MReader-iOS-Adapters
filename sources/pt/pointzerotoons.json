@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.pointzerotoons",
+  "name": "Point Zero Toons",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pointzerotoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2210021497257492329",
+      "name": "Point Zero Toons",
+      "language": "pt-BR",
+      "baseURL": "https://kitsuneyako.com",
+      "mirrorURLs": []
+    }
+  ]
+}

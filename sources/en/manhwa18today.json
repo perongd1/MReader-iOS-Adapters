@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwa18today",
+  "name": "Manhwa18.today",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwa18today/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5795673090229968734",
+      "name": "Manhwa18.today",
+      "language": "en",
+      "baseURL": "https://www.manhwa18.today",
+      "mirrorURLs": []
+    }
+  ]
+}

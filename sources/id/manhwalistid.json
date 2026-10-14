@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.manhwalistid",
+  "name": "Manhwa List",
+  "version": "1.6.7",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalistid/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3111049819536223391",
+      "name": "Manhwa List",
+      "language": "id",
+      "baseURL": "https://manhwalist.asia",
+      "mirrorURLs": []
+    }
+  ]
+}

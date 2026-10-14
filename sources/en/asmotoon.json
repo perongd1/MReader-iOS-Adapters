@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.asmotoon",
+  "name": "Asmodeus Scans",
+  "version": "1.6.25",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/asmotoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5258838449396844455",
+      "name": "Asmodeus Scans",
+      "language": "en",
+      "baseURL": "https://asmotoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

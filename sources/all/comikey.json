@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.comikey",
+  "name": "Comikey",
+  "version": "1.6.12",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comikey/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2769857481066602061",
+      "name": "Comikey",
+      "language": "en",
+      "baseURL": "https://comikey.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "374080003312345029",
+      "name": "Comikey",
+      "language": "es",
+      "baseURL": "https://comikey.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1684620622390751911",
+      "name": "Comikey",
+      "language": "id",
+      "baseURL": "https://comikey.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4174862482785095737",
+      "name": "Comikey",
+      "language": "pt-BR",
+      "baseURL": "https://comikey.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4923846262931005728",
+      "name": "Comikey Brasil",
+      "language": "pt-BR",
+      "baseURL": "https://br.comikey.com",
+      "mirrorURLs": []
+    }
+  ]
+}

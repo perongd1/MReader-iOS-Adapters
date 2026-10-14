@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.dragontea",
+  "name": "DragonTea",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dragontea/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6573506892686767219",
+      "name": "DragonTea",
+      "language": "en",
+      "baseURL": "https://dragontea.ink",
+      "mirrorURLs": []
+    }
+  ]
+}

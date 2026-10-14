@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.shadowmanga",
+  "name": "Shadow Manga",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/shadowmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5649269152264667286",
+      "name": "Shadow Manga",
+      "language": "es",
+      "baseURL": "https://shademanga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1340622632921674920",
+      "name": "Shadow Manga (+18)",
+      "language": "es",
+      "baseURL": "https://shademanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

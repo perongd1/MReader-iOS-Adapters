@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.metruyen18",
+  "name": "MeTruyen18",
+  "version": "1.6.59",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/metruyen18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6662865328420899419",
+      "name": "MeTruyen18",
+      "language": "vi",
+      "baseURL": "https://damconuong.pet",
+      "mirrorURLs": []
+    }
+  ]
+}

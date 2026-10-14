@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mistscans",
+  "name": "Mist Scans",
+  "version": "1.6.23",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mistscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "80073424419623517",
+      "name": "Mist Scans",
+      "language": "en",
+      "baseURL": "https://mistscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

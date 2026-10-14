@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.sacachispa",
+  "name": "SACACHISPA",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/sacachispa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "388932303664463452",
+      "name": "SACACHISPA",
+      "language": "en",
+      "baseURL": "https://sacachispa.site",
+      "mirrorURLs": []
+    }
+  ]
+}

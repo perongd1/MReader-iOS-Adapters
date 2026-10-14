@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicfuz",
+  "name": "COMIC FUZ",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicfuz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7341666123577520203",
+      "name": "COMIC FUZ",
+      "language": "ja",
+      "baseURL": "https://comic-fuz.com",
+      "mirrorURLs": []
+    }
+  ]
+}

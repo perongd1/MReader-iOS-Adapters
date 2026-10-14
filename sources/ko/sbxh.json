@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ko.sbxh",
+  "name": "Newtoki (SBXH)",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/sbxh/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5836877907605844302",
+      "name": "Newtoki (SBXH)",
+      "language": "ko",
+      "baseURL": "https://sbxh9.com",
+      "mirrorURLs": []
+    }
+  ]
+}

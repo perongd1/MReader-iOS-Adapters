@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.frierenonline",
+  "name": "Frieren Online",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/frierenonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "27704135061035291",
+      "name": "Frieren Online",
+      "language": "en",
+      "baseURL": "https://www.frieren.online",
+      "mirrorURLs": []
+    }
+  ]
+}

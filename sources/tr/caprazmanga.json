@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.caprazmanga",
+  "name": "ÇaprazManga",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/caprazmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7298383099057828683",
+      "name": "ÇaprazManga",
+      "language": "tr",
+      "baseURL": "https://caprazmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ko.toonkor",
+  "name": "Toonkor",
+  "version": "1.6.11",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/toonkor/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6596496791271983268",
+      "name": "Toonkor",
+      "language": "ko",
+      "baseURL": "https://toonkor0.org",
+      "mirrorURLs": []
+    }
+  ]
+}

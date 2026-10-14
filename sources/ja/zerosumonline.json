@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.zerosumonline",
+  "name": "Zerosum Online",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/zerosumonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8525996702535864887",
+      "name": "Zerosum Online",
+      "language": "ja",
+      "baseURL": "https://zerosumonline.com",
+      "mirrorURLs": []
+    }
+  ]
+}

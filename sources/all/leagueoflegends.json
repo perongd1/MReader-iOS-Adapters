@@ -1,0 +1,127 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.leagueoflegends",
+  "name": "League of Legends",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/leagueoflegends/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5421383187922044761",
+      "name": "League of Legends",
+      "language": "en",
+      "baseURL": "https://universe.leagueoflegends.com/en_us/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "380479987909263478",
+      "name": "League of Legends",
+      "language": "de",
+      "baseURL": "https://universe.leagueoflegends.com/de_de/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2505034801993260082",
+      "name": "League of Legends",
+      "language": "es",
+      "baseURL": "https://universe.leagueoflegends.com/es_es/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8921189687191630727",
+      "name": "League of Legends",
+      "language": "fr",
+      "baseURL": "https://universe.leagueoflegends.com/fr_fr/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2993141237027207546",
+      "name": "League of Legends",
+      "language": "it",
+      "baseURL": "https://universe.leagueoflegends.com/it_it/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4102855915741272173",
+      "name": "League of Legends",
+      "language": "pl",
+      "baseURL": "https://universe.leagueoflegends.com/pl_pl/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3431750855616467337",
+      "name": "League of Legends",
+      "language": "el",
+      "baseURL": "https://universe.leagueoflegends.com/el_gr/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8175862906648984382",
+      "name": "League of Legends",
+      "language": "ro",
+      "baseURL": "https://universe.leagueoflegends.com/ro_ro/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8553752347472368081",
+      "name": "League of Legends",
+      "language": "hu",
+      "baseURL": "https://universe.leagueoflegends.com/hu_hu/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "241129525014815798",
+      "name": "League of Legends",
+      "language": "cs",
+      "baseURL": "https://universe.leagueoflegends.com/cs_cz/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3236903197935016602",
+      "name": "League of Legends",
+      "language": "es-419",
+      "baseURL": "https://universe.leagueoflegends.com/es_mx/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7646731134152168219",
+      "name": "League of Legends",
+      "language": "pt-BR",
+      "baseURL": "https://universe.leagueoflegends.com/pt_br/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1617144019668124895",
+      "name": "League of Legends",
+      "language": "ja",
+      "baseURL": "https://universe.leagueoflegends.com/ja_jp/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6359895141227528344",
+      "name": "League of Legends",
+      "language": "ru",
+      "baseURL": "https://universe.leagueoflegends.com/ru_ru/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4983763186502997670",
+      "name": "League of Legends",
+      "language": "tr",
+      "baseURL": "https://universe.leagueoflegends.com/tr_tr/comic/",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1822275077186160208",
+      "name": "League of Legends",
+      "language": "ko",
+      "baseURL": "https://universe.leagueoflegends.com/ko_kr/comic/",
+      "mirrorURLs": []
+    }
+  ]
+}

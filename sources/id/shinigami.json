@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.shinigami",
+  "name": "Shinigami",
+  "version": "1.6.82",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/shinigami/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3411809758861089969",
+      "name": "Shinigami",
+      "language": "id",
+      "baseURL": "https://11.shinigami.asia",
+      "mirrorURLs": []
+    }
+  ]
+}

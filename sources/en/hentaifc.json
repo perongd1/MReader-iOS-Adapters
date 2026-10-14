@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hentaifc",
+  "name": "HentaiFC",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaifc/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4541545529482216024",
+      "name": "HentaiFC",
+      "language": "en",
+      "baseURL": "https://hentaifc.com",
+      "mirrorURLs": []
+    }
+  ]
+}

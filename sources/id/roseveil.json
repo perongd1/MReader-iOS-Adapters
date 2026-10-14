@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.roseveil",
+  "name": "Roseveil",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/roseveil/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "loneseal",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5328028029485519937",
+      "name": "Roseveil",
+      "language": "id",
+      "baseURL": "https://roseveil.org",
+      "mirrorURLs": []
+    }
+  ]
+}

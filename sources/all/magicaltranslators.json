@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.magicaltranslators",
+  "name": "Magical Translators",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/magicaltranslators/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "guya",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4033172788130537982",
+      "name": "Magical Translators",
+      "language": "en",
+      "baseURL": "https://mahoushoujobu.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8666919453546333116",
+      "name": "Magical Translators",
+      "language": "es",
+      "baseURL": "https://mahoushoujobu.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1289819859468493242",
+      "name": "Magical Translators",
+      "language": "pl",
+      "baseURL": "https://mahoushoujobu.com",
+      "mirrorURLs": []
+    }
+  ]
+}

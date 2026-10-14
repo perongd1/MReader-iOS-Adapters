@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.siimanga",
+  "name": "Siikomik",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/siimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4762501899936439936",
+      "name": "Siikomik",
+      "language": "id",
+      "baseURL": "https://siikomik.id",
+      "mirrorURLs": []
+    }
+  ]
+}

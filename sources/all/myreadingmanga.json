@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.myreadingmanga",
+  "name": "MyReadingManga",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/myreadingmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4864082317433034574",
+      "name": "MyReadingManga",
+      "language": "ar",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8842237058298566885",
+      "name": "MyReadingManga",
+      "language": "id",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8339625080404115366",
+      "name": "MyReadingManga",
+      "language": "zh",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6318378620301107421",
+      "name": "MyReadingManga",
+      "language": "en",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2084769296792806394",
+      "name": "MyReadingManga",
+      "language": "de",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3371822795753272045",
+      "name": "MyReadingManga",
+      "language": "it",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7616097631685192755",
+      "name": "MyReadingManga",
+      "language": "ja",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8341594492961776810",
+      "name": "MyReadingManga",
+      "language": "ko",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7097816699537539700",
+      "name": "MyReadingManga",
+      "language": "pt-BR",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4213491422253699699",
+      "name": "MyReadingManga",
+      "language": "ru",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3547244847403070407",
+      "name": "MyReadingManga",
+      "language": "es",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "164535712016830416",
+      "name": "MyReadingManga",
+      "language": "tr",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4129272632455883902",
+      "name": "MyReadingManga",
+      "language": "vi",
+      "baseURL": "https://myreadingmanga.info",
+      "mirrorURLs": []
+    }
+  ]
+}

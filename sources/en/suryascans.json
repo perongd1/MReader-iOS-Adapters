@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.suryascans",
+  "name": "Genz Toons",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/suryascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1061713767402958340",
+      "name": "Genz Toons",
+      "language": "en",
+      "baseURL": "https://genztoons.org",
+      "mirrorURLs": []
+    }
+  ]
+}

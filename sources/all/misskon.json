@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.misskon",
+  "name": "MissKon",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/misskon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "492049561920540214",
+      "name": "MissKon",
+      "language": "all",
+      "baseURL": "https://misskon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

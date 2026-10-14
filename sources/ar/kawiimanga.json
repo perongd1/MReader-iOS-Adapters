@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.kawiimanga",
+  "name": "Kawii Manga",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/kawiimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5037404094705788694",
+      "name": "Kawii Manga",
+      "language": "ar",
+      "baseURL": "https://kawaiimanga.org",
+      "mirrorURLs": []
+    }
+  ]
+}

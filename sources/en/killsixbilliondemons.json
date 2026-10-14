@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.killsixbilliondemons",
+  "name": "Kill Six Billion Demons",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/killsixbilliondemons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5520021760150818261",
+      "name": "KillSixBillionDemons",
+      "language": "en",
+      "baseURL": "https://killsixbilliondemons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.senkognito",
+  "name": "Senkognito",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/senkognito/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "senkuro",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8393977756208732343",
+      "name": "Senkognito",
+      "language": "ru",
+      "baseURL": "https://senkuro.me",
+      "mirrorURLs": [
+        "https://senkuro.me",
+        "https://senkognito.com"
+      ]
+    }
+  ]
+}

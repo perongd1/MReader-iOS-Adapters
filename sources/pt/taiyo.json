@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.taiyo",
+  "name": "Taiyō",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/taiyo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7387610647818309943",
+      "name": "Taiyō",
+      "language": "pt-BR",
+      "baseURL": "https://taiyo.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

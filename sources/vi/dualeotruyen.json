@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.dualeotruyen",
+  "name": "Dua Leo Truyen",
+  "version": "1.6.30",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/dualeotruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1039830224122325226",
+      "name": "Dưa Leo Truyện",
+      "language": "vi",
+      "baseURL": "https://dualeotruyenvie.com",
+      "mirrorURLs": []
+    }
+  ]
+}

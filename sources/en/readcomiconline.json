@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readcomiconline",
+  "name": "ReadComicOnline",
+  "version": "1.4.44",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readcomiconline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8061953015808280611",
+      "name": "ReadComicOnline",
+      "language": "en",
+      "baseURL": "https://readcomiconline.li",
+      "mirrorURLs": [
+        "https://readcomiconline.li",
+        "https://rcostation.xyz"
+      ]
+    }
+  ]
+}

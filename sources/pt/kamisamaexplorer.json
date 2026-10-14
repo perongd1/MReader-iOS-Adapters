@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.kamisamaexplorer",
+  "name": "Kami Sama Explorer",
+  "version": "1.6.58",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kamisamaexplorer/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5221484950287110636",
+      "name": "Kami Sama Explorer",
+      "language": "pt-BR",
+      "baseURL": "https://leitor.kamisama.com.br",
+      "mirrorURLs": []
+    }
+  ]
+}

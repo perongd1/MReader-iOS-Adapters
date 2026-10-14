@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.hentaivnplus",
+  "name": "HentaiVN.plus",
+  "version": "1.6.73",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hentaivnplus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7015430763374257867",
+      "name": "HentaiVN.plus",
+      "language": "vi",
+      "baseURL": "https://hentaivn.show",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.vyvymanga",
+  "name": "VyvyManga",
+  "version": "1.6.43",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vyvymanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6958928548959982041",
+      "name": "VyvyManga",
+      "language": "en",
+      "baseURL": "https://mangavyvy.net",
+      "mirrorURLs": []
+    }
+  ]
+}

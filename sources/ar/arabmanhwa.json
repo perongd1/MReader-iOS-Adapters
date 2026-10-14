@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.arabmanhwa",
+  "name": "ArabManhwa",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arabmanhwa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5823096631874106406",
+      "name": "ArabManhwa",
+      "language": "ar",
+      "baseURL": "https://arabmanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

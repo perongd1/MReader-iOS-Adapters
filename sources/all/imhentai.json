@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.imhentai",
+  "name": "IMHentai",
+  "version": "1.6.25",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/imhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1797754663718263026",
+      "name": "IMHentai",
+      "language": "en",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2843704102372436364",
+      "name": "IMHentai",
+      "language": "ja",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1600533831542201953",
+      "name": "IMHentai",
+      "language": "es",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6518732459102419415",
+      "name": "IMHentai",
+      "language": "fr",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "520535890722709208",
+      "name": "IMHentai",
+      "language": "ko",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "341676138799608238",
+      "name": "IMHentai",
+      "language": "de",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7505608677115153818",
+      "name": "IMHentai",
+      "language": "ru",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3395462671769287908",
+      "name": "IMHentai",
+      "language": "all",
+      "baseURL": "https://imhentai.xxx",
+      "mirrorURLs": []
+    }
+  ]
+}

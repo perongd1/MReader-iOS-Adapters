@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwabuddy",
+  "name": "ManhwaBuddy",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwabuddy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "397029358682805931",
+      "name": "ManhwaBuddy",
+      "language": "en",
+      "baseURL": "https://manhwabuddy.com",
+      "mirrorURLs": []
+    }
+  ]
+}

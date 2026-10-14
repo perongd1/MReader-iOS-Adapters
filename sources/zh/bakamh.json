@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.bakamh",
+  "name": "Baka Manhua",
+  "version": "1.6.65",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bakamh/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3712194609356981776",
+      "name": "巴卡漫画",
+      "language": "zh",
+      "baseURL": "https://bakamh.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.hanime1",
+  "name": "Hanime1",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hanime1/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2853734405579058222",
+      "name": "Hanime1.me",
+      "language": "zh",
+      "baseURL": "https://hanimeone.me",
+      "mirrorURLs": []
+    }
+  ]
+}

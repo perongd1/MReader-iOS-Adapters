@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manganel",
+  "name": "MangaNel",
+  "version": "1.6.38",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "678343830630527432",
+      "name": "MangaNel",
+      "language": "en",
+      "baseURL": "https://manganel.me",
+      "mirrorURLs": []
+    }
+  ]
+}

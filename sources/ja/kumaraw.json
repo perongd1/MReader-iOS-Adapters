@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.kumaraw",
+  "name": "Kumaraw",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kumaraw/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6580524146378639197",
+      "name": "Kumaraw",
+      "language": "ja",
+      "baseURL": "https://kumaraw.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.hentaiclub",
+  "name": "Shenshi Huisuo",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hentaiclub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8618065660246087865",
+      "name": "绅士会所",
+      "language": "zh",
+      "baseURL": "https://www.hentaiclub.net",
+      "mirrorURLs": []
+    }
+  ]
+}

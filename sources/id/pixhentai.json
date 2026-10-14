@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.pixhentai",
+  "name": "Pix Hentai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/pixhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "oceanwp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7447468764477211885",
+      "name": "Pix Hentai",
+      "language": "id",
+      "baseURL": "https://pixhentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

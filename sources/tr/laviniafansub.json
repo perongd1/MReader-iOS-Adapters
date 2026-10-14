@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.laviniafansub",
+  "name": "Lavinia Fansub",
+  "version": "1.6.61",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/laviniafansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3269982329415083765",
+      "name": "Lavinia Fansub",
+      "language": "tr",
+      "baseURL": "https://laviniafansub.shop",
+      "mirrorURLs": []
+    }
+  ]
+}

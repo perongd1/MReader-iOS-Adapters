@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.orcamanga",
+  "name": "Orca Manga",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/orcamanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5634203247016722993",
+      "name": "Orca Manga",
+      "language": "ar",
+      "baseURL": "https://infinity896.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

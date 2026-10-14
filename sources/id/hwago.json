@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.hwago",
+  "name": "Hwago",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/hwago/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "hwalumi",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5490253431755133280",
+      "name": "Hwago",
+      "language": "id",
+      "baseURL": "https://02.hwago.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

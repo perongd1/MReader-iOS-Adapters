@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.gremorymangas",
+  "name": "Gremory Mangas",
+  "version": "1.6.56",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/gremorymangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6911130909796364094",
+      "name": "Gremory Mangas",
+      "language": "es",
+      "baseURL": "https://gremoryhistorias.org",
+      "mirrorURLs": []
+    }
+  ]
+}

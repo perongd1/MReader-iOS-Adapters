@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.toptoon",
+  "name": "Toptoon.net",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/toptoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1680248666203661128",
+      "name": "TOPTOON頂通",
+      "language": "zh",
+      "baseURL": "https://www.toptoon.net",
+      "mirrorURLs": []
+    }
+  ]
+}

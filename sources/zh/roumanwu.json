@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.roumanwu",
+  "name": "Roumanwu",
+  "version": "1.6.22",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/roumanwu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3647420805839021718",
+      "name": "肉漫屋",
+      "language": "zh",
+      "baseURL": "https://rouman5.com",
+      "mirrorURLs": []
+    }
+  ]
+}

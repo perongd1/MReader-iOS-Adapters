@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.xasiatalbums",
+  "name": "Xasiat Albums",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xasiatalbums/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7187893778775685546",
+      "name": "XAsiat Albums",
+      "language": "all",
+      "baseURL": "https://www.xasiat.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.thienthaitruyen",
+  "name": "ThienThaiTruyen",
+  "version": "1.6.10",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/thienthaitruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4424472966200672277",
+      "name": "ThienThaiTruyen",
+      "language": "vi",
+      "baseURL": "https://thienthaitruyen16.com",
+      "mirrorURLs": []
+    }
+  ]
+}

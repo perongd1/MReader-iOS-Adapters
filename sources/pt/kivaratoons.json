@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.kivaratoons",
+  "name": "KivaraToons",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kivaratoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2454581737028097436",
+      "name": "KivaraToons",
+      "language": "pt-BR",
+      "baseURL": "https://kivaratoons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

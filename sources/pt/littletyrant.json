@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.littletyrant",
+  "name": "Little Tyrant",
+  "version": "1.6.67",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/littletyrant/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4886334142812146511",
+      "name": "Little Tyrant",
+      "language": "pt-BR",
+      "baseURL": "https://tiraninha.world",
+      "mirrorURLs": []
+    }
+  ]
+}

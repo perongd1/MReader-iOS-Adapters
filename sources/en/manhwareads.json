@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwareads",
+  "name": "Manhwa Reads",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwareads/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3315938131690984352",
+      "name": "Manhwa Reads",
+      "language": "en",
+      "baseURL": "https://manhwareads.com",
+      "mirrorURLs": []
+    }
+  ]
+}

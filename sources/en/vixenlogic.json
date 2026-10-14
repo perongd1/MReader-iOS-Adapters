@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.vixenlogic",
+  "name": "Vixen Logic",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vixenlogic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2247457324301240357",
+      "name": "Vixen Logic",
+      "language": "en",
+      "baseURL": "https://www.vixenlogic.com",
+      "mirrorURLs": []
+    }
+  ]
+}

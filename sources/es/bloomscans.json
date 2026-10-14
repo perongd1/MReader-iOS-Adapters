@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.bloomscans",
+  "name": "Bloom Scans",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/bloomscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2598725055968738551",
+      "name": "Bloom Scans",
+      "language": "es",
+      "baseURL": "https://bloomscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

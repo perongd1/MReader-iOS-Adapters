@@ -1,0 +1,113 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.comicfury",
+  "name": "Comic Fury",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/comicfury/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5182817189941556265",
+      "name": "Comic Fury",
+      "language": "all",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6251704791239468278",
+      "name": "Comic Fury",
+      "language": "en",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4984634867953711392",
+      "name": "Comic Fury",
+      "language": "es",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8655141799625656041",
+      "name": "Comic Fury",
+      "language": "pt-BR",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7464199493988606175",
+      "name": "Comic Fury",
+      "language": "de",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2880365189708146138",
+      "name": "Comic Fury",
+      "language": "fr",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4412608991854703246",
+      "name": "Comic Fury",
+      "language": "it",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7974978914502436971",
+      "name": "Comic Fury",
+      "language": "pl",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8819952928004218630",
+      "name": "Comic Fury",
+      "language": "ja",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6187036261988654925",
+      "name": "Comic Fury",
+      "language": "zh",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2995199135797572970",
+      "name": "Comic Fury",
+      "language": "ru",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6411256237640188165",
+      "name": "Comic Fury",
+      "language": "fi",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "501810935334397655",
+      "name": "Comic Fury",
+      "language": "other",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2537678488019181229",
+      "name": "Comic Fury (No Text)",
+      "language": "other",
+      "baseURL": "https://comicfury.com",
+      "mirrorURLs": []
+    }
+  ]
+}

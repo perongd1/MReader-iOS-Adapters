@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.inventariooculto",
+  "name": "Inventario Oculto",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inventariooculto/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "609477585841458199",
+      "name": "Inventario Oculto",
+      "language": "es",
+      "baseURL": "https://inventariooculto.com",
+      "mirrorURLs": []
+    }
+  ]
+}

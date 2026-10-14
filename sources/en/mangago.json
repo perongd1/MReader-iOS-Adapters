@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangago",
+  "name": "Mangago",
+  "version": "1.6.41",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangago/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2470059397662084186",
+      "name": "Mangago",
+      "language": "en",
+      "baseURL": "https://www.mangago.me",
+      "mirrorURLs": []
+    }
+  ]
+}

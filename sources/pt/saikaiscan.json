@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.saikaiscan",
+  "name": "Saikai Scan",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/saikaiscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "273341846992513187",
+      "name": "Saikai Scan",
+      "language": "pt-BR",
+      "baseURL": "https://housesaikai.net",
+      "mirrorURLs": []
+    }
+  ]
+}

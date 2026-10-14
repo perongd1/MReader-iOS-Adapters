@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.eighteenporncomic",
+  "name": "18 Porn Comic",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manga18",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5133553291675008671",
+      "name": "18 Porn Comic",
+      "language": "en",
+      "baseURL": "https://18porncomic.com",
+      "mirrorURLs": []
+    }
+  ]
+}

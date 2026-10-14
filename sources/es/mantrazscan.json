@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.mantrazscan",
+  "name": "Mantraz Scan",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mantrazscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7172992930543738693",
+      "name": "Mantraz Scan",
+      "language": "es",
+      "baseURL": "https://mantrazscanss.lat",
+      "mirrorURLs": []
+    }
+  ]
+}

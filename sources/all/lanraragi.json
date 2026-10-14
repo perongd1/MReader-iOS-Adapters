@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.lanraragi",
+  "name": "LANraragi",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/lanraragi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4482480338677079857",
+      "name": "LANraragi (1)",
+      "language": "all",
+      "baseURL": "http://127.0.0.1:3000",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6188058704030343819",
+      "name": "LANraragi (2)",
+      "language": "all",
+      "baseURL": "http://127.0.0.1:3000",
+      "mirrorURLs": []
+    }
+  ]
+}

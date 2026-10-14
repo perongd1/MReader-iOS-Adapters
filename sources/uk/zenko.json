@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.uk.zenko",
+  "name": "Zenko",
+  "version": "1.6.8",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/zenko/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8431849810637608898",
+      "name": "Zenko",
+      "language": "uk",
+      "baseURL": "https://zenko.online",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentaizap",
+  "name": "HentaiZap",
+  "version": "1.6.12",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaizap/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3055889891446984546",
+      "name": "HentaiZap",
+      "language": "en",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6555947477839387123",
+      "name": "HentaiZap",
+      "language": "ja",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4825793506555725623",
+      "name": "HentaiZap",
+      "language": "es",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7896453910191786163",
+      "name": "HentaiZap",
+      "language": "fr",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9190914504602528025",
+      "name": "HentaiZap",
+      "language": "ko",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1397842818609440667",
+      "name": "HentaiZap",
+      "language": "de",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6614026304171193007",
+      "name": "HentaiZap",
+      "language": "ru",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "279262715881564190",
+      "name": "HentaiZap",
+      "language": "all",
+      "baseURL": "https://hentaizap.com",
+      "mirrorURLs": []
+    }
+  ]
+}

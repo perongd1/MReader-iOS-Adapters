@@ -1,0 +1,106 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.saymanhwa",
+  "name": "SayManhwa",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/saymanhwa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7915151531599641879",
+      "name": "SayManhwa",
+      "language": "ar",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "718198470352266702",
+      "name": "SayManhwa",
+      "language": "de",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "160957764321519511",
+      "name": "SayManhwa",
+      "language": "en",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4746791862486594870",
+      "name": "SayManhwa",
+      "language": "es",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8842126332542772866",
+      "name": "SayManhwa",
+      "language": "fil",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1085765242853690038",
+      "name": "SayManhwa",
+      "language": "fr",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2860030111448556554",
+      "name": "SayManhwa",
+      "language": "id",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3346867097478116902",
+      "name": "SayManhwa",
+      "language": "ja",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6718937619873538111",
+      "name": "SayManhwa",
+      "language": "pt",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3836842608420894997",
+      "name": "SayManhwa",
+      "language": "th",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8278038049426902994",
+      "name": "SayManhwa",
+      "language": "vi",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6326978194357900073",
+      "name": "SayManhwa",
+      "language": "zh-Hans",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9161706686520081002",
+      "name": "SayManhwa",
+      "language": "zh-Hant",
+      "baseURL": "https://saymanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

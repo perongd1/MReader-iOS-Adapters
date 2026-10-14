@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.miaoqu",
+  "name": "Miaoqu Manhua",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/miaoqu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mccms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "116946528518438525",
+      "name": "喵趣漫画",
+      "language": "zh",
+      "baseURL": "https://www.miaoqumh.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.meosua",
+  "name": "MeoSua",
+  "version": "1.6.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/meosua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2280384130624669648",
+      "name": "MeoSua",
+      "language": "vi",
+      "baseURL": "https://meosua.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.insanosscan",
+  "name": "InsanosScan",
+  "version": "1.4.31",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/insanosscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5322003068520429479",
+      "name": "InsanosScan",
+      "language": "es",
+      "baseURL": "https://insanoslibrary.com",
+      "mirrorURLs": []
+    }
+  ]
+}

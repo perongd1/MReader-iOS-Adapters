@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.honeytoon",
+  "name": "Honeytoon",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/honeytoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8586216664933826829",
+      "name": "Honeytoon",
+      "language": "de",
+      "baseURL": "https://honeytoon.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1063521896373496908",
+      "name": "Honeytoon",
+      "language": "en",
+      "baseURL": "https://honeytoon.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5514199583083468982",
+      "name": "Honeytoon",
+      "language": "es",
+      "baseURL": "https://honeytoon.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6559632390565356882",
+      "name": "Honeytoon",
+      "language": "fr",
+      "baseURL": "https://honeytoon.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9071118557363497394",
+      "name": "Honeytoon",
+      "language": "it",
+      "baseURL": "https://honeytoon.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7482415595909557945",
+      "name": "Honeytoon",
+      "language": "pt-BR",
+      "baseURL": "https://honeytoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyentuoitho",
+  "name": "TruyenTuoiTho",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentuoitho/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "401563321854321005",
+      "name": "TruyenTuoiTho",
+      "language": "vi",
+      "baseURL": "https://truyentuoitho.com",
+      "mirrorURLs": []
+    }
+  ]
+}

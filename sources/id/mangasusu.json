@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.mangasusu",
+  "name": "Mangasusu",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangasusu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8157748444640827548",
+      "name": "Mangasusu",
+      "language": "id",
+      "baseURL": "https://mangasusuku.com",
+      "mirrorURLs": []
+    }
+  ]
+}

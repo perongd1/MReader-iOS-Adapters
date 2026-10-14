@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readjujutsukaisenmangaonline",
+  "name": "Read Jujutsu Kaisen Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readjujutsukaisenmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "808850989053853006",
+      "name": "Read Jujutsu Kaisen Manga Online",
+      "language": "en",
+      "baseURL": "https://ww6.readjujutsukaisen.com",
+      "mirrorURLs": []
+    }
+  ]
+}

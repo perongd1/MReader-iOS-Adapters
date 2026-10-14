@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.hadesnofansub",
+  "name": "Hades no Fansub",
+  "version": "1.6.60",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/hadesnofansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8311505150576608267",
+      "name": "Hades no Fansub",
+      "language": "es",
+      "baseURL": "https://lectorhades.latamtoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

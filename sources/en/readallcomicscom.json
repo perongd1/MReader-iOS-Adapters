@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readallcomicscom",
+  "name": "ReadAllComics",
+  "version": "1.4.8",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readallcomicscom/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "58328287106519523",
+      "name": "ReadAllComics",
+      "language": "en",
+      "baseURL": "https://readallcomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

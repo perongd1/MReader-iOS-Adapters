@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.eskimangalar",
+  "name": "Eski Mangalar",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/eskimangalar/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "uzaymanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "455290087526139932",
+      "name": "Eski Mangalar",
+      "language": "tr",
+      "baseURL": "https://eskimangalar.com",
+      "mirrorURLs": []
+    }
+  ]
+}

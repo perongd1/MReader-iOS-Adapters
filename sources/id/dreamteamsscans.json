@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.dreamteamsscans",
+  "name": "DreamTeams Scans",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/dreamteamsscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "loneseal",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4473891485969679132",
+      "name": "DreamTeams Scans",
+      "language": "id",
+      "baseURL": "https://dreamteams.space",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.xoxocomics",
+  "name": "XOXO Comics",
+  "version": "1.6.14",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/xoxocomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "wpcomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2385956107618754468",
+      "name": "XOXO Comics",
+      "language": "en",
+      "baseURL": "https://xoxocomic.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.yaoiscan",
+  "name": "YaoiScan",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoiscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4439807782838127935",
+      "name": "YaoiScan",
+      "language": "en",
+      "baseURL": "https://yaoiscan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

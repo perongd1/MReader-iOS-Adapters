@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.bymichiscan",
+  "name": "Bymichi Scan",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/bymichiscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4436777272781358384",
+      "name": "Bymichi Scan",
+      "language": "es",
+      "baseURL": "https://bymichiby.com",
+      "mirrorURLs": []
+    }
+  ]
+}

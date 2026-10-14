@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.uk.honeymanga",
+  "name": "HoneyManga",
+  "version": "1.6.11",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/honeymanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4712783922379490416",
+      "name": "HoneyManga",
+      "language": "uk",
+      "baseURL": "https://honey-manga.com.ua",
+      "mirrorURLs": []
+    }
+  ]
+}

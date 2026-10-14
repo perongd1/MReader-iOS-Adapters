@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.crotpedia",
+  "name": "CrotPedia",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/crotpedia/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4023890583976163058",
+      "name": "CrotPedia",
+      "language": "id",
+      "baseURL": "https://crotpedia.net",
+      "mirrorURLs": []
+    }
+  ]
+}

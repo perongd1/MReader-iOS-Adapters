@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.niadd",
+  "name": "Niadd",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/niadd/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7623485147777438032",
+      "name": "Niadd",
+      "language": "pt-BR",
+      "baseURL": "https://br.niadd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6237269852978906906",
+      "name": "Niadd",
+      "language": "en",
+      "baseURL": "https://www.niadd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1369970040009723082",
+      "name": "Niadd",
+      "language": "es",
+      "baseURL": "https://es.niadd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8223107200339513324",
+      "name": "Niadd",
+      "language": "it",
+      "baseURL": "https://it.niadd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1044418267385230402",
+      "name": "Niadd",
+      "language": "ru",
+      "baseURL": "https://ru.niadd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3358885026101433827",
+      "name": "Niadd",
+      "language": "de",
+      "baseURL": "https://de.niadd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2892666872128744723",
+      "name": "Niadd",
+      "language": "fr",
+      "baseURL": "https://fr.niadd.com",
+      "mirrorURLs": []
+    }
+  ]
+}

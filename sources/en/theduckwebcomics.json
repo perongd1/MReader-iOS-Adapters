@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.theduckwebcomics",
+  "name": "The Duck Webcomics",
+  "version": "1.6.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/theduckwebcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5361143498571709507",
+      "name": "The Duck Webcomics",
+      "language": "en",
+      "baseURL": "https://www.theduckwebcomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

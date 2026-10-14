@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.nyrascans",
+  "name": "Nyra Scans",
+  "version": "1.6.22",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyrascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1917870670428613627",
+      "name": "Nyra Scans",
+      "language": "en",
+      "baseURL": "https://nyrascans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

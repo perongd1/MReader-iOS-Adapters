@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.femjoyhunter",
+  "name": "Femjoy Hunter",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/femjoyhunter/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "masonry",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9185590742756804817",
+      "name": "Femjoy Hunter",
+      "language": "all",
+      "baseURL": "https://www.femjoyhunter.com",
+      "mirrorURLs": []
+    }
+  ]
+}

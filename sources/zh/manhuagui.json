@@ -1,0 +1,27 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.manhuagui",
+  "name": "ManHuaGui",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuagui/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7057750772596492765",
+      "name": "漫画柜",
+      "language": "zh",
+      "baseURL": "https://www.manhuagui.com",
+      "mirrorURLs": [
+        "https://www.manhuagui.com",
+        "https://tw.manhuagui.com",
+        "https://www.mhgui.com",
+        "https://tw.mhgui.com"
+      ]
+    }
+  ]
+}

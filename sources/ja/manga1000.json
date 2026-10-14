@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.manga1000",
+  "name": "Manga1000",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/manga1000/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2990178902658283254",
+      "name": "Manga1000",
+      "language": "ja",
+      "baseURL": "https://hachiraw.win",
+      "mirrorURLs": []
+    }
+  ]
+}

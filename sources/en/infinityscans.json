@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.infinityscans",
+  "name": "InfinityScans",
+  "version": "1.6.14",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/infinityscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7769612119788415733",
+      "name": "InfinityScans",
+      "language": "en",
+      "baseURL": "https://infinityscans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

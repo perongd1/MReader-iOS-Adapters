@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.lonertranslations",
+  "name": "Loner Translations",
+  "version": "1.6.14",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/lonertranslations/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "323105186892383931",
+      "name": "Loner Translations",
+      "language": "ar",
+      "baseURL": "https://loner-tl.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

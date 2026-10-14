@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.ohjoysextoy",
+  "name": "Oh Joy Sex Toy",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ohjoysextoy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4502591927177845825",
+      "name": "Oh Joy Sex Toy",
+      "language": "en",
+      "baseURL": "https://www.ohjoysextoy.com",
+      "mirrorURLs": []
+    }
+  ]
+}

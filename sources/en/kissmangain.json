@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kissmangain",
+  "name": "Kissmanga.in",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kissmangain/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3112384885023225761",
+      "name": "Kissmanga.in",
+      "language": "en",
+      "baseURL": "https://kissmanga.in",
+      "mirrorURLs": []
+    }
+  ]
+}

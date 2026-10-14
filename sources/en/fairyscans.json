@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.fairyscans",
+  "name": "Fairy Scans",
+  "version": "1.4.34",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/fairyscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7842496605600859779",
+      "name": "Fairy Scans",
+      "language": "en",
+      "baseURL": "https://fairyscans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

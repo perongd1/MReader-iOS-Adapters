@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.voyceme",
+  "name": "Voyce.Me",
+  "version": "1.6.7",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/voyceme/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4815322300278778429",
+      "name": "VoyceMe",
+      "language": "en",
+      "baseURL": "https://www.voyce.me",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangarawclub",
+  "name": "MangaGeko",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangarawclub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "734865402529567092",
+      "name": "MangaGeko",
+      "language": "en",
+      "baseURL": "https://www.mgeko.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

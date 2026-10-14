@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.mangalay",
+  "name": "Mangalay",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangalay/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7859511511298731707",
+      "name": "Mangalay",
+      "language": "id",
+      "baseURL": "http://mangalay.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

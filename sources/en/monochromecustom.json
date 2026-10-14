@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.monochromecustom",
+  "name": "Monochrome Custom",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/monochrome/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "monochrome",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1373514020932708527",
+      "name": "Monochrome Custom",
+      "language": "en",
+      "baseURL": "https://monochromecms.netlify.app",
+      "mirrorURLs": []
+    }
+  ]
+}

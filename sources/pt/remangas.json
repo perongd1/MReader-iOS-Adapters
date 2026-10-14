@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.remangas",
+  "name": "NoxManga",
+  "version": "1.6.54",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/remangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7462657023971681136",
+      "name": "NoxManga",
+      "language": "pt-BR",
+      "baseURL": "https://noxmangas.org",
+      "mirrorURLs": []
+    }
+  ]
+}

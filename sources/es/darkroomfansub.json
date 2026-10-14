@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.darkroomfansub",
+  "name": "Dark Room Fansub",
+  "version": "1.6.16",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/darkroomfansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2769673412724723872",
+      "name": "Dark Room Fansub",
+      "language": "es",
+      "baseURL": "https://lector-darkroomfansub.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

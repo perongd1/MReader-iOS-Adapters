@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.onfmangas",
+  "name": "ONF MANGAS",
+  "version": "1.6.7",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/onfmangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "438553037668091848",
+      "name": "ONF MANGAS",
+      "language": "es",
+      "baseURL": "https://onfmangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

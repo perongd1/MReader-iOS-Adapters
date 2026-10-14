@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.thohamngu",
+  "name": "Thỏ Ham Ngủ",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/thohamngu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "955691323709162100",
+      "name": "Thỏ Ham Ngủ",
+      "language": "vi",
+      "baseURL": "https://thohamngu.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

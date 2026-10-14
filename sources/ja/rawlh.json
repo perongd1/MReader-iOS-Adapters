@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.rawlh",
+  "name": "WeLoveManga",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawlh/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "fmreader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7595224096258102519",
+      "name": "WeLoveManga",
+      "language": "ja",
+      "baseURL": "https://weloma.net",
+      "mirrorURLs": []
+    }
+  ]
+}

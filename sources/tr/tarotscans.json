@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.tarotscans",
+  "name": "Tarot Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tarotscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8054539304013575208",
+      "name": "Tarot Scans",
+      "language": "tr",
+      "baseURL": "https://www.tarotscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

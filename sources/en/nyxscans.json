@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.nyxscans",
+  "name": "Nyx Scans",
+  "version": "1.6.31",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/nyxscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "iken",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "419822582289753882",
+      "name": "Nyx Scans",
+      "language": "en",
+      "baseURL": "https://nyxscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.fleurblanche",
+  "name": "Fleur Blanche",
+  "version": "1.6.60",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/fleurblanche/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2748000026130339026",
+      "name": "Fleur Blanche",
+      "language": "pt-BR",
+      "baseURL": "https://fbsquadx.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangawt",
+  "name": "MangaWT",
+  "version": "1.6.56",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangawt/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9068262319581900273",
+      "name": "MangaWT",
+      "language": "tr",
+      "baseURL": "https://mangawt.com",
+      "mirrorURLs": []
+    }
+  ]
+}

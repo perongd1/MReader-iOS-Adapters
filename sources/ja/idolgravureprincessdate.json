@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.idolgravureprincessdate",
+  "name": "Idol. gravureprincess .date",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/idolgravureprincessdate/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5414342435310010512",
+      "name": "Idol. gravureprincess .date",
+      "language": "ja",
+      "baseURL": "https://idol.gravureprincess.date",
+      "mirrorURLs": []
+    }
+  ]
+}

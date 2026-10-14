@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.playmatehunter",
+  "name": "Playmate Hunter",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/playmatehunter/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "masonry",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1082062847119890629",
+      "name": "Playmate Hunter",
+      "language": "all",
+      "baseURL": "https://pmatehunter.com",
+      "mirrorURLs": []
+    }
+  ]
+}

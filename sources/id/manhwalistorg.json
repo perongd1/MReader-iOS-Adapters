@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.manhwalistorg",
+  "name": "IsekaiKomik",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/manhwalistorg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1031213229391436059",
+      "name": "IsekaiKomik",
+      "language": "id",
+      "baseURL": "https://ch1.isekaikomik.site",
+      "mirrorURLs": []
+    }
+  ]
+}

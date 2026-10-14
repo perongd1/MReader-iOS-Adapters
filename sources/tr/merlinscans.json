@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.merlinscans",
+  "name": "Merlin Scans",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/merlinscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "initmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4883620005315879682",
+      "name": "Merlin Scans",
+      "language": "tr",
+      "baseURL": "https://merlintoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

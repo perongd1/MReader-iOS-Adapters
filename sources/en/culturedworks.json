@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.culturedworks",
+  "name": "CulturedWorks",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/culturedworks/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1019943013243665332",
+      "name": "CulturedWorks",
+      "language": "en",
+      "baseURL": "https://culturedworks.com",
+      "mirrorURLs": []
+    }
+  ]
+}

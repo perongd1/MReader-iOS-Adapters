@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.tapastic",
+  "name": "Tapas",
+  "version": "1.6.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/tapastic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5554748812413853237",
+      "name": "Tapas",
+      "language": "en",
+      "baseURL": "https://tapas.io",
+      "mirrorURLs": []
+    }
+  ]
+}

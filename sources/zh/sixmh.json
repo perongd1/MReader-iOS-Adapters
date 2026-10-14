@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.sixmh",
+  "name": "6Manhua",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/sixmh/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mccms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5183325399429659419",
+      "name": "六漫画",
+      "language": "zh",
+      "baseURL": "https://www.liumanhua.com",
+      "mirrorURLs": []
+    }
+  ]
+}

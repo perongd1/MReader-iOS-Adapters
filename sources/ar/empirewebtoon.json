@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.empirewebtoon",
+  "name": "Empire Webtoon",
+  "version": "1.6.61",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/empirewebtoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2655166136445570124",
+      "name": "Empire Webtoon",
+      "language": "ar",
+      "baseURL": "https://webtoonempire-bl.com",
+      "mirrorURLs": []
+    }
+  ]
+}

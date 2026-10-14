@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.geasscomics",
+  "name": "Geass Comics",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/geasscomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7839519253265657488",
+      "name": "Geass Comics",
+      "language": "pt-BR",
+      "baseURL": "https://geasscomics.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

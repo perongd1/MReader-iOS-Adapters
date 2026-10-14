@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.baozimhorg",
+  "name": "GoDa",
+  "version": "1.6.37",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "goda",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "774030471139699415",
+      "name": "GoDa漫画",
+      "language": "zh",
+      "baseURL": "https://baozimh.org",
+      "mirrorURLs": [
+        "https://baozimh.org",
+        "https://godamh.com",
+        "https://m.baozimh.one",
+        "https://bzmh.org",
+        "https://g-mh.org",
+        "https://m.g-mh.org"
+      ]
+    }
+  ]
+}

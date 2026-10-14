@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.zinmanganet",
+  "name": "Zinmanga.net",
+  "version": "1.6.56",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zinmanganet/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1987105317893699901",
+      "name": "Zinmanga.net",
+      "language": "en",
+      "baseURL": "https://www.zinmanga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

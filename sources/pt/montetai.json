@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.montetai",
+  "name": "Monte Tai",
+  "version": "1.6.59",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/montetai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7427054289018024291",
+      "name": "Monte Tai",
+      "language": "pt-BR",
+      "baseURL": "https://montetaiscanlator.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

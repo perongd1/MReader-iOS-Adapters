@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.zettruyen",
+  "name": "ZetTruyen",
+  "version": "1.6.14",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/zettruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "893747327087652119",
+      "name": "ZetTruyen",
+      "language": "vi",
+      "baseURL": "https://www.zettruyen3.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.tencentcomics",
+  "name": "Tencent Comics (ac.qq.com)",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/tencentcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6353436350537369479",
+      "name": "腾讯动漫",
+      "language": "zh-Hans",
+      "baseURL": "https://m.ac.qq.com",
+      "mirrorURLs": []
+    }
+  ]
+}

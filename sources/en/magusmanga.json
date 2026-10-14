@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.magusmanga",
+  "name": "Magus Manga",
+  "version": "1.6.73",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/magusmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "iken",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1589747287364201069",
+      "name": "Magus Manga",
+      "language": "en",
+      "baseURL": "https://magustoon.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.asacomi",
+  "name": "Asacomi",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/asacomi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6455606609436338494",
+      "name": "Asacomi",
+      "language": "ja",
+      "baseURL": "https://asacomi.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

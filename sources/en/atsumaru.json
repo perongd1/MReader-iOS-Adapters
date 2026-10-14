@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.atsumaru",
+  "name": "Atsumaru",
+  "version": "1.6.25",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/atsumaru/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2327480808438768017",
+      "name": "Atsumaru",
+      "language": "en",
+      "baseURL": "https://atsu.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

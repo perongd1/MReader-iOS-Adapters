@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.oremanga",
+  "name": "OreManga",
+  "version": "1.6.6",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/oremanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2081564483403474647",
+      "name": "OreManga",
+      "language": "th",
+      "baseURL": "https://www.oremanga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.manhuashe",
+  "name": "Manhuashe",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuashe/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6230622879116184108",
+      "name": "漫画社",
+      "language": "zh",
+      "baseURL": "https://www.311s.com",
+      "mirrorURLs": [
+        "https://www.311s.com",
+        "https://www.m206.com"
+      ]
+    }
+  ]
+}

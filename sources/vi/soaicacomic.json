@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.soaicacomic",
+  "name": "SoaiCaComic",
+  "version": "1.6.6",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/soaicacomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1014180023829533732",
+      "name": "SoaiCaComic",
+      "language": "vi",
+      "baseURL": "https://soaicacomic2.top",
+      "mirrorURLs": []
+    }
+  ]
+}

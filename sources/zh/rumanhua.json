@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.rumanhua",
+  "name": "Rumanhua",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/rumanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mmlook",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "392262758488714109",
+      "name": "如漫画",
+      "language": "zh",
+      "baseURL": "https://m.rumanhua2.com",
+      "mirrorURLs": []
+    }
+  ]
+}

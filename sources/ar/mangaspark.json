@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.mangaspark",
+  "name": "MangaSpark",
+  "version": "1.6.63",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangaspark/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2436176998646301840",
+      "name": "MangaSpark",
+      "language": "ar",
+      "baseURL": "https://sparkmanga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

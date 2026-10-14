@@ -1,0 +1,71 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.onisaga",
+  "name": "OniSaga",
+  "version": "1.6.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/onisaga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8616495687402045560",
+      "name": "OniSaga",
+      "language": "all",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2644848669022862951",
+      "name": "OniSaga",
+      "language": "en",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5431409047697637162",
+      "name": "OniSaga",
+      "language": "fr",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5205171098698400162",
+      "name": "OniSaga",
+      "language": "ja",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5348722599884573141",
+      "name": "OniSaga",
+      "language": "pt-BR",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3793216737618759530",
+      "name": "OniSaga",
+      "language": "pt",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5869426157802671832",
+      "name": "OniSaga",
+      "language": "es-419",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9030342464252097773",
+      "name": "OniSaga",
+      "language": "es",
+      "baseURL": "https://onisaga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

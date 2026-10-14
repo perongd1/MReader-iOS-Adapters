@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.batcave",
+  "name": "BatCave",
+  "version": "1.6.12",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/batcave/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7422099479605463706",
+      "name": "BatCave",
+      "language": "en",
+      "baseURL": "https://batcave.biz",
+      "mirrorURLs": []
+    }
+  ]
+}

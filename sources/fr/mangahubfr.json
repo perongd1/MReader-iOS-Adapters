@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.mangahubfr",
+  "name": "MangaHub.fr",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/mangahubfr/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3294884430139323314",
+      "name": "MangaHub.fr",
+      "language": "fr",
+      "baseURL": "https://mangahub.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

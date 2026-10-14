@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.softepsilonscan",
+  "name": "Soft Epsilon Scan",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/softepsilonscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pam",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4969929389259348100",
+      "name": "Soft Epsilon Scan",
+      "language": "fr",
+      "baseURL": "https://epsilonsoft.to",
+      "mirrorURLs": []
+    }
+  ]
+}

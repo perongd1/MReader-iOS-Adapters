@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.bakkin",
+  "name": "Bakkin",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/bakkin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "bakkin",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2005076600562293471",
+      "name": "Bakkin",
+      "language": "en",
+      "baseURL": "https://bakkin.moe/reader/",
+      "mirrorURLs": []
+    }
+  ]
+}

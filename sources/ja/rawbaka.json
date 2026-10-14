@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.rawbaka",
+  "name": "RawBaka",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawbaka/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6022634600056613514",
+      "name": "RawBaka",
+      "language": "ja",
+      "baseURL": "https://rawbaka.com",
+      "mirrorURLs": []
+    }
+  ]
+}

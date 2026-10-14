@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.scansfr",
+  "name": "ScansFR",
+  "version": "1.4.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scansfr/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2639384491930845930",
+      "name": "ScansFR",
+      "language": "fr",
+      "baseURL": "https://scansfr.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangaportali",
+  "name": "Manga Portalı",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangaportali/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2022032978410218674",
+      "name": "Manga Portalı",
+      "language": "tr",
+      "baseURL": "https://www.mangaportali.com",
+      "mirrorURLs": []
+    }
+  ]
+}

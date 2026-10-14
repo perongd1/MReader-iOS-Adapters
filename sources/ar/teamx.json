@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.teamx",
+  "name": "Team X",
+  "version": "1.6.33",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/teamx/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4110737012647435874",
+      "name": "Team X",
+      "language": "ar",
+      "baseURL": "https://olympustaff.com",
+      "mirrorURLs": []
+    }
+  ]
+}

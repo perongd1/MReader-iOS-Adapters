@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.divascans",
+  "name": "Diva Scans",
+  "version": "1.6.29",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/divascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "vinetheme",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3513996752712952755",
+      "name": "Diva Scans",
+      "language": "en",
+      "baseURL": "https://divascans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

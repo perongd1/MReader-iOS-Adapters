@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.sokuyomi",
+  "name": "Sokuyomi",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/sokuyomi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3115293328774708452",
+      "name": "Sokuyomi",
+      "language": "ja",
+      "baseURL": "https://sokuyomi.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

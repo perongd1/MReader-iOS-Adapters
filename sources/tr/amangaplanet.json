@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.amangaplanet",
+  "name": "Amanga Planet",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/amangaplanet/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5164979204020878495",
+      "name": "Amanga Planet",
+      "language": "tr",
+      "baseURL": "https://www.amangaplanet.com.tr",
+      "mirrorURLs": []
+    }
+  ]
+}

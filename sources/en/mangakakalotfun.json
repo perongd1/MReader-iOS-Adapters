@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangakakalotfun",
+  "name": "Mangakakalot.fun",
+  "version": "1.6.38",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6491120161556233904",
+      "name": "Mangakakalot.fun",
+      "language": "en",
+      "baseURL": "https://mangakakalot.fun",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.kemono",
+  "name": "Kemono",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/kemono/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "kemono",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2011050813940802605",
+      "name": "Kemono",
+      "language": "all",
+      "baseURL": "https://kemono.cr",
+      "mirrorURLs": []
+    }
+  ]
+}

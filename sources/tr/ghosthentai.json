@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.ghosthentai",
+  "name": "GhosToon",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ghosthentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8123244641427878412",
+      "name": "GhosToon",
+      "language": "tr",
+      "baseURL": "https://ghostoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.eternalmangas",
+  "name": "EternalMangas",
+  "version": "1.6.29",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/eternalmangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "iken",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1533901034425595323",
+      "name": "EternalMangas",
+      "language": "es",
+      "baseURL": "https://eternalmangas.org",
+      "mirrorURLs": []
+    }
+  ]
+}

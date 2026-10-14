@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.jeazscans",
+  "name": "Jeaz Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/jeazscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8103409233756077332",
+      "name": "Jeaz Scans",
+      "language": "es",
+      "baseURL": "https://lectorhub.j5z.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

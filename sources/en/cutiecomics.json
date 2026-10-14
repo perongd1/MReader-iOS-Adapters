@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.cutiecomics",
+  "name": "Cutie Comics",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cutiecomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7821715230468497947",
+      "name": "Cutie Comics",
+      "language": "en",
+      "baseURL": "https://cutiecomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

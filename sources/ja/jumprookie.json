@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.jumprookie",
+  "name": "Jump Rookie!",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/jumprookie/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4194563020378281165",
+      "name": "Jump Rookie!",
+      "language": "ja",
+      "baseURL": "https://rookie.shonenjump.com",
+      "mirrorURLs": []
+    }
+  ]
+}

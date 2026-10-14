@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.comickfan",
+  "name": "ComicK Fanmade",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comickfan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "569821715369244319",
+      "name": "ComicK Fanmade",
+      "language": "en",
+      "baseURL": "https://comickfan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

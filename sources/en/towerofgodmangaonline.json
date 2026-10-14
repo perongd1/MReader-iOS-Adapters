@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.towerofgodmangaonline",
+  "name": "Tower Of God Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/towerofgodmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7174981474350393136",
+      "name": "Tower Of God Manga Online",
+      "language": "en",
+      "baseURL": "https://w82.thetowerofgod.com",
+      "mirrorURLs": []
+    }
+  ]
+}

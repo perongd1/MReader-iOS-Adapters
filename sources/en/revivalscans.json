@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.revivalscans",
+  "name": "Revival Scans",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/revivalscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6875037148225675112",
+      "name": "Revival Scans",
+      "language": "en",
+      "baseURL": "https://www.revivalscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

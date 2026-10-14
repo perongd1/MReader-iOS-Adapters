@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.lesporoiniens",
+  "name": "Les Poroiniens",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/lesporoiniens/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7783284177278678538",
+      "name": "Les Poroiniens",
+      "language": "fr",
+      "baseURL": "https://lesporoiniens.org",
+      "mirrorURLs": []
+    }
+  ]
+}

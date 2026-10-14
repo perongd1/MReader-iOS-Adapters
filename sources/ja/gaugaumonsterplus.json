@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.gaugaumonsterplus",
+  "name": "Gaugau Monster Plus",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/gaugaumonsterplus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9220365500598403749",
+      "name": "がうがうモンスター＋",
+      "language": "ja",
+      "baseURL": "https://gaugau.futabanet.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

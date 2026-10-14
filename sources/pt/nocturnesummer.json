@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.nocturnesummer",
+  "name": "Nocturne Summer",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nocturnesummer/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5501311187877950699",
+      "name": "Nocturne Summer",
+      "language": "pt-BR",
+      "baseURL": "https://nocfsb.com",
+      "mirrorURLs": []
+    }
+  ]
+}

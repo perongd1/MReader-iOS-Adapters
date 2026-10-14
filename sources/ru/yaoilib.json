@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.yaoilib",
+  "name": "SlashLib",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/slashlib/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2730544188738947015",
+      "name": "SlashLib",
+      "language": "ru",
+      "baseURL": "https://slashlib.me",
+      "mirrorURLs": []
+    }
+  ]
+}

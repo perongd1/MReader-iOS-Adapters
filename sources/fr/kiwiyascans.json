@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.kiwiyascans",
+  "name": "Kiwiya Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/kiwiyascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8654267899929745421",
+      "name": "Kiwiya Scans",
+      "language": "fr",
+      "baseURL": "https://kiwiyascans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

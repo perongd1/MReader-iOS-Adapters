@@ -1,0 +1,169 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.nhentaicom",
+  "name": "nHentai.com (unoriginal)",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/nhentaicom/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "hentaihand",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9165839893600661480",
+      "name": "nHentai.com (unoriginal)",
+      "language": "all",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8504927104562262528",
+      "name": "nHentai.com (unoriginal)",
+      "language": "zh",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5591830863732393712",
+      "name": "nHentai.com (unoriginal)",
+      "language": "en",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8148939977393580424",
+      "name": "nHentai.com (unoriginal)",
+      "language": "ja",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5817327335315373850",
+      "name": "nHentai.com (unoriginal)",
+      "language": "other",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1773653553472615327",
+      "name": "nHentai.com (unoriginal)",
+      "language": "ar",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4984830439465026319",
+      "name": "nHentai.com (unoriginal)",
+      "language": "jv",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5355858532116403799",
+      "name": "nHentai.com (unoriginal)",
+      "language": "bg",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1144495813995437124",
+      "name": "nHentai.com (unoriginal)",
+      "language": "cs",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1872394332504252034",
+      "name": "nHentai.com (unoriginal)",
+      "language": "uk",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8189813976393792973",
+      "name": "nHentai.com (unoriginal)",
+      "language": "sk",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5464986831390726554",
+      "name": "nHentai.com (unoriginal)",
+      "language": "eo",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3640686393110022124",
+      "name": "nHentai.com (unoriginal)",
+      "language": "mn",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6750311061190710079",
+      "name": "nHentai.com (unoriginal)",
+      "language": "la",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8306394815737846919",
+      "name": "nHentai.com (unoriginal)",
+      "language": "ceb",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4352420071178605258",
+      "name": "nHentai.com (unoriginal)",
+      "language": "tl",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8555144793292118035",
+      "name": "nHentai.com (unoriginal)",
+      "language": "fi",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6423038744951581148",
+      "name": "nHentai.com (unoriginal)",
+      "language": "tr",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1001519209586733699",
+      "name": "nHentai.com (unoriginal)",
+      "language": "sr",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6038464145206378323",
+      "name": "nHentai.com (unoriginal)",
+      "language": "el",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6508316838749142103",
+      "name": "nHentai.com (unoriginal)",
+      "language": "ko",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8274834393370700931",
+      "name": "nHentai.com (unoriginal)",
+      "language": "ro",
+      "baseURL": "https://nhentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

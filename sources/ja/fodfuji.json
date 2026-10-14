@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.fodfuji",
+  "name": "FOD",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/fodfuji/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "813084616937908482",
+      "name": "FOD",
+      "language": "ja",
+      "baseURL": "https://manga.fod.fujitv.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

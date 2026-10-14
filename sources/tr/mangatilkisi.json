@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangatilkisi",
+  "name": "MangaTilkisi",
+  "version": "1.6.57",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangatilkisi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1820900722595855271",
+      "name": "MangaTilkisi",
+      "language": "tr",
+      "baseURL": "https://www.tilkiscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

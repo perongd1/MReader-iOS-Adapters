@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.klraw",
+  "name": "KL Raw",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/klraw/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7433897302034602657",
+      "name": "KL Raw",
+      "language": "ja",
+      "baseURL": "https://www.klraw.info",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.rawuwu",
+  "name": "Raw UwU",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawuwu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2270841189174019045",
+      "name": "Raw UwU",
+      "language": "ja",
+      "baseURL": "https://rawuwu.net",
+      "mirrorURLs": []
+    }
+  ]
+}

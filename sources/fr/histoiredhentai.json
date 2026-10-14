@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.histoiredhentai",
+  "name": "HistoireDHentai",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/histoiredhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6899189456839494153",
+      "name": "HistoireDHentai",
+      "language": "fr",
+      "baseURL": "https://hhentai.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.onemanga",
+  "name": "MangaBlackCat",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/mangablackcat/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2248402620929558947",
+      "name": "MangaBlackCat",
+      "language": "th",
+      "baseURL": "https://mangablackcat.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.tranh18",
+  "name": "Tranh18",
+  "version": "1.6.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/tranh18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1067821280191897902",
+      "name": "Tranh18",
+      "language": "vi",
+      "baseURL": "https://tranh18.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

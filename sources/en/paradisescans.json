@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.paradisescans",
+  "name": "Paradise Scans",
+  "version": "1.6.23",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/paradisescans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5928300995303689257",
+      "name": "Paradise Scans",
+      "language": "en",
+      "baseURL": "https://paradisescans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

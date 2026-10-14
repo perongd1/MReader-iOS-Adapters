@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.unicomics",
+  "name": "UniComics",
+  "version": "1.6.10",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/unicomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6859623422196397486",
+      "name": "UniComics",
+      "language": "ru",
+      "baseURL": "https://unicomics.ru",
+      "mirrorURLs": []
+    }
+  ]
+}

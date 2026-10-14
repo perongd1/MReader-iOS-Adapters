@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.arcurafansub",
+  "name": "Arcura Fansub",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/arcurafansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4787423248001527550",
+      "name": "Arcura Fansub",
+      "language": "tr",
+      "baseURL": "https://arcurafansub.com",
+      "mirrorURLs": []
+    }
+  ]
+}

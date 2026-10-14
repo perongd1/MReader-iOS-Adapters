@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.ecchidoujin",
+  "name": "Ecchi-Doujin",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/ecchidoujin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7257262636858275074",
+      "name": "Ecchi-Doujin",
+      "language": "th",
+      "baseURL": "https://ecchi-doujin.com",
+      "mirrorURLs": []
+    }
+  ]
+}

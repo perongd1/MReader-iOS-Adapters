@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.blossomscans",
+  "name": "Blossom Scans",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/blossomscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5819845963401393451",
+      "name": "Blossom Scans",
+      "language": "fr",
+      "baseURL": "https://blossom-scans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.madokami",
+  "name": "Madokami",
+  "version": "1.6.16",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/madokami/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7291521832235473745",
+      "name": "Madokami",
+      "language": "en",
+      "baseURL": "https://manga.madokami.al",
+      "mirrorURLs": []
+    }
+  ]
+}

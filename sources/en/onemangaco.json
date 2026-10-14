@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.onemangaco",
+  "name": "1Manga.co",
+  "version": "1.6.38",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6314378952940608115",
+      "name": "1Manga.co",
+      "language": "en",
+      "baseURL": "https://1manga.co",
+      "mirrorURLs": []
+    }
+  ]
+}

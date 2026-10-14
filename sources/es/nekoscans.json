@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.nekoscans",
+  "name": "NekoScans",
+  "version": "1.6.8",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/nekoscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8396340084333456288",
+      "name": "NekoScans",
+      "language": "es",
+      "baseURL": "https://nekoproject.org",
+      "mirrorURLs": []
+    }
+  ]
+}

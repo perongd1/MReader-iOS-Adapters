@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyentvn",
+  "name": "TruyenTVN",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentvn/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3322517246209230294",
+      "name": "TruyenTVN",
+      "language": "vi",
+      "baseURL": "https://truyentvn.net",
+      "mirrorURLs": []
+    }
+  ]
+}

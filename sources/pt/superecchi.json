@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.superecchi",
+  "name": "Super Ecchi",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/superecchi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3268085364816772879",
+      "name": "Super Ecchi",
+      "language": "pt-BR",
+      "baseURL": "https://superecchi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

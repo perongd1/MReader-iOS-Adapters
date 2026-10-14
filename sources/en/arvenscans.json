@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.arvenscans",
+  "name": "Vortex Scans",
+  "version": "1.6.89",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vortexscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2559570015828016575",
+      "name": "Vortex Scans",
+      "language": "en",
+      "baseURL": "https://vortexscans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

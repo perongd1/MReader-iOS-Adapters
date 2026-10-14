@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.mangaforfree",
+  "name": "MangaForFree.net",
+  "version": "1.6.57",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaforfree/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7450882931813509619",
+      "name": "MangaForFree.net",
+      "language": "en",
+      "baseURL": "https://mangaforfree.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2115363546279045008",
+      "name": "MangaForFree.net",
+      "language": "ko",
+      "baseURL": "https://mangaforfree.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3147518065805706",
+      "name": "MangaForFree.net",
+      "language": "all",
+      "baseURL": "https://mangaforfree.net",
+      "mirrorURLs": []
+    }
+  ]
+}

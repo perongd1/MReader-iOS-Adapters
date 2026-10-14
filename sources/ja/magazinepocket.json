@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.magazinepocket",
+  "name": "Magazine Pocket",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/magazinepocket/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "583369548372015159",
+      "name": "Magazine Pocket",
+      "language": "ja",
+      "baseURL": "https://pocket.shonenmagazine.com",
+      "mirrorURLs": []
+    }
+  ]
+}

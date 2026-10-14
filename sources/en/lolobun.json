@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.lolobun",
+  "name": "LoLoBun",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lolobun/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5291930108967632324",
+      "name": "LoLoBun",
+      "language": "en",
+      "baseURL": "https://www.lolobun.com",
+      "mirrorURLs": []
+    }
+  ]
+}

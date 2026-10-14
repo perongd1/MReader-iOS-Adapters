@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangabuddy",
+  "name": "MangaK",
+  "version": "1.6.34",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangabuddy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangak",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5020395055978987501",
+      "name": "MangaK",
+      "language": "en",
+      "baseURL": "https://mangak.io",
+      "mirrorURLs": []
+    }
+  ]
+}

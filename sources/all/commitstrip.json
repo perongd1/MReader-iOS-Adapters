@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.commitstrip",
+  "name": "Commit Strip",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/commitstrip/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5328240584854276436",
+      "name": "Commit Strip",
+      "language": "en",
+      "baseURL": "https://www.commitstrip.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4187575309418573632",
+      "name": "Commit Strip",
+      "language": "fr",
+      "baseURL": "https://www.commitstrip.com",
+      "mirrorURLs": []
+    }
+  ]
+}

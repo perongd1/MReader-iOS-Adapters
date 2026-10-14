@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.mangaromance",
+  "name": "Manga Romance",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangaromance/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3857421120061111113",
+      "name": "Manga Romance",
+      "language": "es",
+      "baseURL": "https://mangaromance19.com",
+      "mirrorURLs": []
+    }
+  ]
+}

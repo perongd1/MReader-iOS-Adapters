@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.toonz",
+  "name": "Toonz/Toonx",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "225310046014902430",
+      "name": "Toonz",
+      "language": "en",
+      "baseURL": "https://toonz.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3603837449597882885",
+      "name": "Toonx",
+      "language": "en",
+      "baseURL": "https://toonx.to",
+      "mirrorURLs": []
+    }
+  ]
+}

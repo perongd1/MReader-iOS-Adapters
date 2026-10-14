@@ -1,0 +1,50 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://mreader.example/schema/extension.schema.json",
+  "title": "MReader iOS extension catalog entry",
+  "type": "object",
+  "required": [
+    "schemaVersion",
+    "packageID",
+    "name",
+    "version",
+    "contentRating",
+    "adapter",
+    "sources"
+  ],
+  "properties": {
+    "schemaVersion": { "const": 1 },
+    "packageID": { "type": "string", "minLength": 1 },
+    "name": { "type": "string", "minLength": 1 },
+    "version": { "type": "string", "minLength": 1 },
+    "contentRating": { "enum": ["safe", "mixed", "nsfw", "unknown"] },
+    "iconURL": { "type": ["string", "null"], "format": "uri" },
+    "adapter": {
+      "type": "object",
+      "required": ["engine", "status", "options"],
+      "properties": {
+        "engine": { "type": "string", "minLength": 1 },
+        "status": { "enum": ["prototype", "supported", "unimplemented", "blocked"] },
+        "options": { "type": "object" },
+        "notes": { "type": "string" }
+      },
+      "additionalProperties": false
+    },
+    "sources": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": ["id", "name", "language", "baseURL", "mirrorURLs"],
+        "properties": {
+          "id": { "type": "string", "minLength": 1 },
+          "name": { "type": "string", "minLength": 1 },
+          "language": { "type": "string", "minLength": 1 },
+          "baseURL": { "type": "string" },
+          "mirrorURLs": { "type": "array", "items": { "type": "string" } }
+        },
+        "additionalProperties": false
+      }
+    }
+  },
+  "additionalProperties": false
+}

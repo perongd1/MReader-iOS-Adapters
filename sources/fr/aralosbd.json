@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.aralosbd",
+  "name": "AralosBD",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/aralosbd/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7086384324753337104",
+      "name": "AralosBD",
+      "language": "fr",
+      "baseURL": "https://aralosbd.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,771 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.mangamillion",
+  "name": "Manga Million",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangamillion/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5427621842719614942",
+      "name": "Manga Million",
+      "language": "en",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5892305961700928875",
+      "name": "Manga Million",
+      "language": "zh-TW",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2911411952354074492",
+      "name": "Manga Million",
+      "language": "th",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4065610833485359391",
+      "name": "Manga Million",
+      "language": "fr",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4577634664648892329",
+      "name": "Manga Million",
+      "language": "ko-KR",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8223155082496415999",
+      "name": "Manga Million",
+      "language": "es",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2734295754625319424",
+      "name": "Manga Million",
+      "language": "it",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5083522112166110729",
+      "name": "Manga Million",
+      "language": "de",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "268819630254308822",
+      "name": "Manga Million",
+      "language": "pt-BR",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2891770365728881681",
+      "name": "Manga Million",
+      "language": "es-MX",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1593100200301948195",
+      "name": "Manga Million",
+      "language": "zh-CN",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8091532565068406212",
+      "name": "Manga Million",
+      "language": "es-AR",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "887261003174638631",
+      "name": "Manga Million",
+      "language": "pl",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "915698175702500457",
+      "name": "Manga Million",
+      "language": "vi",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8658975145651377636",
+      "name": "Manga Million",
+      "language": "el",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4612647476728832671",
+      "name": "Manga Million",
+      "language": "sv",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "924136623947569832",
+      "name": "Manga Million",
+      "language": "tl",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1026064463101598575",
+      "name": "Manga Million",
+      "language": "id",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6213822016958763806",
+      "name": "Manga Million",
+      "language": "hi",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5282995690670742677",
+      "name": "Manga Million",
+      "language": "km",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4359581031612948871",
+      "name": "Manga Million",
+      "language": "tr",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4931345632004567033",
+      "name": "Manga Million",
+      "language": "zh-HK",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7072636103024322731",
+      "name": "Manga Million",
+      "language": "cs",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9147091841035376048",
+      "name": "Manga Million",
+      "language": "ru",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7668176795520775072",
+      "name": "Manga Million",
+      "language": "pt",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8929911308540155494",
+      "name": "Manga Million",
+      "language": "ar",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "15590040638864887",
+      "name": "Manga Million",
+      "language": "ca",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5551097741572713208",
+      "name": "Manga Million",
+      "language": "zu",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2315850565371135870",
+      "name": "Manga Million",
+      "language": "hu",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5584992036496630079",
+      "name": "Manga Million",
+      "language": "fi",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2666027548234219457",
+      "name": "Manga Million",
+      "language": "sr",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4441155752668321511",
+      "name": "Manga Million",
+      "language": "ro",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7011243828207286492",
+      "name": "Manga Million",
+      "language": "ms",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7289714396368196914",
+      "name": "Manga Million",
+      "language": "nl",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "929579237282545340",
+      "name": "Manga Million",
+      "language": "da",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6834657567401900124",
+      "name": "Manga Million",
+      "language": "no",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3631292524952989029",
+      "name": "Manga Million",
+      "language": "af",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2724363928085370876",
+      "name": "Manga Million",
+      "language": "am",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5387489493086876209",
+      "name": "Manga Million",
+      "language": "as",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "74723524335557167",
+      "name": "Manga Million",
+      "language": "be",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4216116073244413401",
+      "name": "Manga Million",
+      "language": "bg",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5558676463076824263",
+      "name": "Manga Million",
+      "language": "bho",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3018745948328779152",
+      "name": "Manga Million",
+      "language": "bo",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8386412190074568800",
+      "name": "Manga Million",
+      "language": "ceb",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1589325780108086386",
+      "name": "Manga Million",
+      "language": "cnr",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6358192501298664077",
+      "name": "Manga Million",
+      "language": "cy",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3338743057973942273",
+      "name": "Manga Million",
+      "language": "doi",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5117224405152253202",
+      "name": "Manga Million",
+      "language": "dv",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8543983008898706725",
+      "name": "Manga Million",
+      "language": "ee",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6667796628019328824",
+      "name": "Manga Million",
+      "language": "et",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1092903932409577182",
+      "name": "Manga Million",
+      "language": "eu",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5825756469321632200",
+      "name": "Manga Million",
+      "language": "ga",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4008356879355300750",
+      "name": "Manga Million",
+      "language": "gl",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "112772419269752319",
+      "name": "Manga Million",
+      "language": "gn",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1475200675181211833",
+      "name": "Manga Million",
+      "language": "gu",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8931530813150822045",
+      "name": "Manga Million",
+      "language": "haw",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6721398754773423468",
+      "name": "Manga Million",
+      "language": "he",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5979003215867695313",
+      "name": "Manga Million",
+      "language": "hmn",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "205807037691459493",
+      "name": "Manga Million",
+      "language": "hr",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "552427325553042322",
+      "name": "Manga Million",
+      "language": "hy",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8941426273009664978",
+      "name": "Manga Million",
+      "language": "ig",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5112376028850012057",
+      "name": "Manga Million",
+      "language": "ilo",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7396900340998325806",
+      "name": "Manga Million",
+      "language": "is",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "668705648188269062",
+      "name": "Manga Million",
+      "language": "ka",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5129348722421252665",
+      "name": "Manga Million",
+      "language": "kn",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1887628834357661808",
+      "name": "Manga Million",
+      "language": "kok",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6172049937493802478",
+      "name": "Manga Million",
+      "language": "la",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3446817490931327750",
+      "name": "Manga Million",
+      "language": "lb",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6781611018446292424",
+      "name": "Manga Million",
+      "language": "lg",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "186474585481417758",
+      "name": "Manga Million",
+      "language": "ln",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1323735580513513869",
+      "name": "Manga Million",
+      "language": "lo",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8452234242377665525",
+      "name": "Manga Million",
+      "language": "lt",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2439033374206567907",
+      "name": "Manga Million",
+      "language": "lus",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "928811675895839594",
+      "name": "Manga Million",
+      "language": "lv",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4523356718200470668",
+      "name": "Manga Million",
+      "language": "mai",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4309710104190905905",
+      "name": "Manga Million",
+      "language": "mg",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1086559103330444392",
+      "name": "Manga Million",
+      "language": "mi",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5359692889871618781",
+      "name": "Manga Million",
+      "language": "mk",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7641490256991935246",
+      "name": "Manga Million",
+      "language": "ml",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4536742856700281497",
+      "name": "Manga Million",
+      "language": "mn",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5811901247190415780",
+      "name": "Manga Million",
+      "language": "mni",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4345174336752891639",
+      "name": "Manga Million",
+      "language": "mr",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7787356654974754550",
+      "name": "Manga Million",
+      "language": "mt",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4800648865078737843",
+      "name": "Manga Million",
+      "language": "mww",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1802992798406129052",
+      "name": "Manga Million",
+      "language": "my",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6689704801281094754",
+      "name": "Manga Million",
+      "language": "ne",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5897946776363059777",
+      "name": "Manga Million",
+      "language": "nso",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4939099015813575199",
+      "name": "Manga Million",
+      "language": "ny",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4981801343671181438",
+      "name": "Manga Million",
+      "language": "or",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5588923649729104048",
+      "name": "Manga Million",
+      "language": "pa",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2249151303899858757",
+      "name": "Manga Million",
+      "language": "qu",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9222598220899280074",
+      "name": "Manga Million",
+      "language": "ro-MD",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4383326882432232725",
+      "name": "Manga Million",
+      "language": "rw",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8028445692840375802",
+      "name": "Manga Million",
+      "language": "sa",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8085814830678949590",
+      "name": "Manga Million",
+      "language": "sd",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8389235245594996421",
+      "name": "Manga Million",
+      "language": "si",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5129922190807736746",
+      "name": "Manga Million",
+      "language": "sk",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7699490908204038470",
+      "name": "Manga Million",
+      "language": "sl",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4823638889764957944",
+      "name": "Manga Million",
+      "language": "sm",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2498847956286711932",
+      "name": "Manga Million",
+      "language": "sn",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2214921022051163417",
+      "name": "Manga Million",
+      "language": "sw",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2387145796512839007",
+      "name": "Manga Million",
+      "language": "ta",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3410467517391157548",
+      "name": "Manga Million",
+      "language": "te",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8682211298851595282",
+      "name": "Manga Million",
+      "language": "ts",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4271245827756537297",
+      "name": "Manga Million",
+      "language": "uk",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2339118782898784757",
+      "name": "Manga Million",
+      "language": "xh",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5256277817512389247",
+      "name": "Manga Million",
+      "language": "yi",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6036938223018876930",
+      "name": "Manga Million",
+      "language": "yo",
+      "baseURL": "https://mangamillion.shueisha.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

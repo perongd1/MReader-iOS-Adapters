@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.duskoryvile",
+  "name": "Duskoryvile",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/duskoryvile/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4544396460505163576",
+      "name": "Duskoryvile",
+      "language": "ar",
+      "baseURL": "https://duskoryvile.com",
+      "mirrorURLs": []
+    }
+  ]
+}

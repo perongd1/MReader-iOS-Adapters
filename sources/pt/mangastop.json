@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mangastop",
+  "name": "Manga Stop",
+  "version": "1.6.13",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangastop/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "924359643993288771",
+      "name": "Manga Stop",
+      "language": "pt-BR",
+      "baseURL": "https://mangastop.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.twi4",
+  "name": "Twi4",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/twi4/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "493846804748918744",
+      "name": "Twi4",
+      "language": "ja",
+      "baseURL": "https://sai-zen-sen.jp/comics/twi4",
+      "mirrorURLs": []
+    }
+  ]
+}

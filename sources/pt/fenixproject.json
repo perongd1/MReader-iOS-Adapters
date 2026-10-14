@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.fenixproject",
+  "name": "Fenix Project",
+  "version": "1.6.59",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/fenixproject/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8852449878379679769",
+      "name": "Fenix Project",
+      "language": "pt-BR",
+      "baseURL": "https://fenixproject.website",
+      "mirrorURLs": []
+    }
+  ]
+}

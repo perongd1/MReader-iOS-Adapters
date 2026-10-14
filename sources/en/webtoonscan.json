@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.webtoonscan",
+  "name": "WebtoonScan",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/webtoonscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3062846066388633553",
+      "name": "WebtoonScan",
+      "language": "en",
+      "baseURL": "https://webtoonscan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

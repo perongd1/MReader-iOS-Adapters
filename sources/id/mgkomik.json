@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.mgkomik",
+  "name": "MG Komik",
+  "version": "1.6.79",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mgkomik/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5845004992097969882",
+      "name": "MG Komik",
+      "language": "id",
+      "baseURL": "https://id.mgkomik.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

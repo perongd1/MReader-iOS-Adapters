@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangareadercc",
+  "name": "MangaReader.in",
+  "version": "1.4.6",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangareadercc/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7388100486112484697",
+      "name": "MangaReader.in",
+      "language": "en",
+      "baseURL": "https://mangareader.in",
+      "mirrorURLs": []
+    }
+  ]
+}

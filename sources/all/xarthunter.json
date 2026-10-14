@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.xarthunter",
+  "name": "XArt Hunter",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xarthunter/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "masonry",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7425515716363969566",
+      "name": "XArt Hunter",
+      "language": "all",
+      "baseURL": "https://www.xarthunter.com",
+      "mirrorURLs": []
+    }
+  ]
+}

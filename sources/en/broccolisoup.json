@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.broccolisoup",
+  "name": "Broccoli Soup",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/broccolisoup/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2175678633501332475",
+      "name": "Broccoli Soup",
+      "language": "en",
+      "baseURL": "https://politeandgood.com",
+      "mirrorURLs": []
+    }
+  ]
+}

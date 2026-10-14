@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.eighteenmanhua",
+  "name": "18Manhua",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/eighteenmanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "goda",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5706270060628375954",
+      "name": "18漫画",
+      "language": "zh",
+      "baseURL": "https://18mh.org",
+      "mirrorURLs": []
+    }
+  ]
+}

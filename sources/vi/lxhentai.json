@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.lxhentai",
+  "name": "LXManga",
+  "version": "1.6.40",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/lxhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6495630445796108150",
+      "name": "LXManga",
+      "language": "vi",
+      "baseURL": "https://lxmanga.space",
+      "mirrorURLs": []
+    }
+  ]
+}

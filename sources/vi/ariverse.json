@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.ariverse",
+  "name": "Ariverse",
+  "version": "1.6.54",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/ariverse/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4480433466073326866",
+      "name": "Ariverse",
+      "language": "vi",
+      "baseURL": "https://arigl.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

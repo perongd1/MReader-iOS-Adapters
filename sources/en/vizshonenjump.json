@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.vizshonenjump",
+  "name": "VIZ",
+  "version": "1.6.29",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/vizshonenjump/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5065732785260259278",
+      "name": "VIZ Shonen Jump",
+      "language": "en",
+      "baseURL": "https://www.viz.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7652472715104061281",
+      "name": "VIZ Manga",
+      "language": "en",
+      "baseURL": "https://www.viz.com",
+      "mirrorURLs": []
+    }
+  ]
+}

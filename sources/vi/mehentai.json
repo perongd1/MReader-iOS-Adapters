@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.mehentai",
+  "name": "MeHentai",
+  "version": "1.6.12",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/mehentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manhwaz",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1503074002208879050",
+      "name": "MeHentai",
+      "language": "vi",
+      "baseURL": "https://mehentai.live",
+      "mirrorURLs": []
+    }
+  ]
+}

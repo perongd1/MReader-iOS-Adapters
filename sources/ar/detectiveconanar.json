@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.detectiveconanar",
+  "name": "Detective Conan Ar",
+  "version": "1.6.58",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/detectiveconanar/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5702082694566979718",
+      "name": "شبكة كونان العربية",
+      "language": "ar",
+      "baseURL": "https://manga.detectiveconanar.com",
+      "mirrorURLs": []
+    }
+  ]
+}

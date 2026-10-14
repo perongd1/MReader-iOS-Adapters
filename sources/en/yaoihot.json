@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.yaoihot",
+  "name": "YaoiHot",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yaoihot/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2792939609625225108",
+      "name": "YaoiHot",
+      "language": "en",
+      "baseURL": "https://yaoihot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

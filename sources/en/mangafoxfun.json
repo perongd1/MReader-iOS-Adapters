@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangafoxfun",
+  "name": "MangaFox.fun",
+  "version": "1.6.38",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8144054169452081697",
+      "name": "MangaFox.fun",
+      "language": "en",
+      "baseURL": "https://mangafox.fun",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.greedscans",
+  "name": "Greed Scans",
+  "version": "1.4.32",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/greedscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "288706940180085416",
+      "name": "Greed Scans",
+      "language": "en",
+      "baseURL": "https://gojoscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

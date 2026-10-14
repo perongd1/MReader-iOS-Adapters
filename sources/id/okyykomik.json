@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.okyykomik",
+  "name": "OkyyKomik",
+  "version": "1.6.16",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/okyykomik/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8361715798247396418",
+      "name": "OkyyKomik",
+      "language": "id",
+      "baseURL": "https://www.okyykomik.my.id",
+      "mirrorURLs": []
+    }
+  ]
+}

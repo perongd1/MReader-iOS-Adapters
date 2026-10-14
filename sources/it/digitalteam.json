@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.digitalteam",
+  "name": "DigitalTeam",
+  "version": "1.4.4",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/digitalteam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4450188005228586123",
+      "name": "DigitalTeam",
+      "language": "it",
+      "baseURL": "https://dgtread.com",
+      "mirrorURLs": []
+    }
+  ]
+}

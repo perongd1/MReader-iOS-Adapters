@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.kodokustudio",
+  "name": "Kodoku Studio",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kodokustudio/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4730948540511990292",
+      "name": "Kodoku Studio",
+      "language": "all",
+      "baseURL": "https://kodokueasyaccess.com",
+      "mirrorURLs": []
+    }
+  ]
+}

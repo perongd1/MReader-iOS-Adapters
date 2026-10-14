@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hentai3zcc",
+  "name": "Hentai3z.CC",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentai3zcc/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manga18",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1647077515907093606",
+      "name": "Hentai3z.CC",
+      "language": "en",
+      "baseURL": "https://hentai3z.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

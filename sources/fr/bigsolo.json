@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.bigsolo",
+  "name": "BigSolo",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/bigsolo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4410528266393104437",
+      "name": "BigSolo",
+      "language": "fr",
+      "baseURL": "https://bigsolo.org",
+      "mirrorURLs": []
+    }
+  ]
+}

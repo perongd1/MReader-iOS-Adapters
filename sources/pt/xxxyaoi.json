@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.xxxyaoi",
+  "name": "XXX Yaoi",
+  "version": "1.6.60",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/xxxyaoi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2490962516027621137",
+      "name": "XXX Yaoi",
+      "language": "pt-BR",
+      "baseURL": "https://3xyaoi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

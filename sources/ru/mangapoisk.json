@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.mangapoisk",
+  "name": "MangaPoisk",
+  "version": "1.6.16",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangapoisk/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4092015241327675443",
+      "name": "MangaPoisk",
+      "language": "ru",
+      "baseURL": "https://mangapoisk.me",
+      "mirrorURLs": []
+    }
+  ]
+}

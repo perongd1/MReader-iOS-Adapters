@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mrtenzus",
+  "name": "MR Tenzus",
+  "version": "1.6.56",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mrtenzus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4272456161813617008",
+      "name": "MR Tenzus",
+      "language": "pt-BR",
+      "baseURL": "https://mrtenzus.com",
+      "mirrorURLs": []
+    }
+  ]
+}

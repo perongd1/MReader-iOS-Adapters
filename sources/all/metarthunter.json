@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.metarthunter",
+  "name": "Metart Hunter",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/metarthunter/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "masonry",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3567512546321944475",
+      "name": "Metart Hunter",
+      "language": "all",
+      "baseURL": "https://www.metarthunter.com",
+      "mirrorURLs": []
+    }
+  ]
+}

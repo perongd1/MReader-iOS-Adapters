@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.hentaithaicom",
+  "name": "HentaiThai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/hentaithaicom/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2702202332509828044",
+      "name": "HentaiThai",
+      "language": "th",
+      "baseURL": "https://hentaithai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

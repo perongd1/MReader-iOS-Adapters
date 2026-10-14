@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.scanreader",
+  "name": "Scan Reader",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanreader/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "scanreader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6450715347254021327",
+      "name": "Scan Reader",
+      "language": "fr",
+      "baseURL": "https://scanreader.net",
+      "mirrorURLs": []
+    }
+  ]
+}

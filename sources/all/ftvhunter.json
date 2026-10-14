@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.ftvhunter",
+  "name": "FTV Hunter",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/ftvhunter/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "masonry",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2424130356866336342",
+      "name": "FTV Hunter",
+      "language": "all",
+      "baseURL": "https://www.ftvhunter.com",
+      "mirrorURLs": []
+    }
+  ]
+}

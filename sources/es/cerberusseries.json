@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.cerberusseries",
+  "name": "Cerberus Series",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/cerberusseries/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1814471239661920836",
+      "name": "Cerberus Series",
+      "language": "es",
+      "baseURL": "https://legionscans.com/wp",
+      "mirrorURLs": []
+    }
+  ]
+}

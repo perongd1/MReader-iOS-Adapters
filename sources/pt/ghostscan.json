@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.ghostscan",
+  "name": "Ghost Scan",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ghostscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2150748053027323425",
+      "name": "Ghost Scan",
+      "language": "pt-BR",
+      "baseURL": "https://ghostscan.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

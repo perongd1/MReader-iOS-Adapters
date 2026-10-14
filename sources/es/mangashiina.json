@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.mangashiina",
+  "name": "Manga Mukai",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangashiina/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "711368877221654433",
+      "name": "Manga Mukai",
+      "language": "es",
+      "baseURL": "https://mangamukai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

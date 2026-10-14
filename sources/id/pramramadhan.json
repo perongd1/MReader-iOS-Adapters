@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.pramramadhan",
+  "name": "Pramramadhan",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/pramramadhan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "637793516114361627",
+      "name": "Pramramadhan",
+      "language": "id",
+      "baseURL": "https://01.pramramadhan.my.id",
+      "mirrorURLs": []
+    }
+  ]
+}

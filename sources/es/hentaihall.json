@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.hentaihall",
+  "name": "HentaiHall",
+  "version": "1.4.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/hentaihall/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8488289812807090783",
+      "name": "HentaiHall",
+      "language": "es",
+      "baseURL": "https://hentaihall.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.reimanga",
+  "name": "ReiManga",
+  "version": "1.6.6",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/reimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5627909338430537186",
+      "name": "ReiManga",
+      "language": "en",
+      "baseURL": "https://reimanga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

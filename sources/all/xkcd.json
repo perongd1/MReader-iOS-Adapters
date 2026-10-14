@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.xkcd",
+  "name": "xkcd",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/xkcd/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1538249443376436084",
+      "name": "xkcd",
+      "language": "en",
+      "baseURL": "https://xkcd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6901469937775055420",
+      "name": "xkcd",
+      "language": "es",
+      "baseURL": "https://es.xkcd.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8162821425156695837",
+      "name": "xkcd",
+      "language": "zh",
+      "baseURL": "https://xkcd.tw",
+      "mirrorURLs": []
+    },
+    {
+      "id": "987306860406766740",
+      "name": "xkcd",
+      "language": "fr",
+      "baseURL": "https://xkcd.lapin.org",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3742763978853704441",
+      "name": "xkcd",
+      "language": "ru",
+      "baseURL": "https://xkcd.ru",
+      "mirrorURLs": []
+    }
+  ]
+}

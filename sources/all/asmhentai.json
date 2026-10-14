@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.asmhentai",
+  "name": "AsmHentai",
+  "version": "1.6.13",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/asmhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6135783261825346877",
+      "name": "AsmHentai",
+      "language": "en",
+      "baseURL": "https://asmhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7717437664180966273",
+      "name": "AsmHentai",
+      "language": "ja",
+      "baseURL": "https://asmhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2819783147032745073",
+      "name": "AsmHentai",
+      "language": "zh",
+      "baseURL": "https://asmhentai.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7786528235956058474",
+      "name": "AsmHentai",
+      "language": "all",
+      "baseURL": "https://asmhentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

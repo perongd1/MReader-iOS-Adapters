@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.manhuaren",
+  "name": "Manhuaren",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuaren/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3616827811449702173",
+      "name": "漫画人",
+      "language": "zh",
+      "baseURL": "https://mangaapi.manhuaren.com",
+      "mirrorURLs": []
+    }
+  ]
+}

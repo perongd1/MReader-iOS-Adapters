@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.joymiihub",
+  "name": "Joymii Hub",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/joymiihub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "masonry",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8421979328901634475",
+      "name": "Joymii Hub",
+      "language": "all",
+      "baseURL": "https://www.joymiihub.com",
+      "mirrorURLs": []
+    }
+  ]
+}

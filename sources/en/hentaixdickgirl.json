@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hentaixdickgirl",
+  "name": "HentaiXDickgirl",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaixdickgirl/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "918523496924275699",
+      "name": "HentaiXDickgirl",
+      "language": "en",
+      "baseURL": "https://hentaixdickgirl.com",
+      "mirrorURLs": []
+    }
+  ]
+}

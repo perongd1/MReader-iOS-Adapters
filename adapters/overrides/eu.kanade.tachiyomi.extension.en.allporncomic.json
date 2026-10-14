@@ -1,0 +1,8 @@
+{
+  "status": "prototype",
+  "options": {
+    "catalogPath": "porncomic",
+    "requiresWebView": true
+  },
+  "notes": "First Swift adapter prototype. The site may reject ordinary background HTTP requests."
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.girlstop",
+  "name": "GirlsTop",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/girlstop/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1368670128695001652",
+      "name": "GirlsTop",
+      "language": "en",
+      "baseURL": "https://en.girlstop.info",
+      "mirrorURLs": []
+    }
+  ]
+}

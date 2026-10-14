@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.collectedcurios",
+  "name": "Collected Curios",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/collectedcurios/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1896428900030795228",
+      "name": "Collected Curios",
+      "language": "en",
+      "baseURL": "https://www.collectedcurios.com",
+      "mirrorURLs": []
+    }
+  ]
+}

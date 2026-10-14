@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.yurionline",
+  "name": "Yuri-Online",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/yurionline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3410370616110029377",
+      "name": "Yuri-Online",
+      "language": "es",
+      "baseURL": "https://yuri-online.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.sunsetmanga",
+  "name": "Sunset Manga",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sunsetmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6406690174131145499",
+      "name": "Sunset Manga",
+      "language": "tr",
+      "baseURL": "https://sunsetmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

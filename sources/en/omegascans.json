@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.omegascans",
+  "name": "Omega Scans",
+  "version": "1.6.51",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/omegascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "heancms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1534451209269193504",
+      "name": "Omega Scans",
+      "language": "en",
+      "baseURL": "https://omegascans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

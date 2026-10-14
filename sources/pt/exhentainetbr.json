@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.exhentainetbr",
+  "name": "ExHentai.net.br",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/exhentainetbr/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1408140394859123923",
+      "name": "ExHentai.net.br",
+      "language": "pt-BR",
+      "baseURL": "https://exhentai.net.br",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.ravenscans",
+  "name": "Raven Scans",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ravenscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5160001879976399540",
+      "name": "Raven Scans",
+      "language": "en",
+      "baseURL": "https://ravenscans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.bigcomics",
+  "name": "Big Comics",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/bigcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2944603286439592172",
+      "name": "Big Comics",
+      "language": "ja",
+      "baseURL": "https://bigcomics.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

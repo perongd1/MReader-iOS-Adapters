@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.mangaailand",
+  "name": "Manga Ai Land",
+  "version": "1.6.14",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangaailand/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7109397520501699498",
+      "name": "Manga Ai Land",
+      "language": "ar",
+      "baseURL": "https://manga-ai-land.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

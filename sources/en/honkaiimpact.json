@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.honkaiimpact",
+  "name": "HonkaiImpact3",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/honkaiimpact/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5652636928388608981",
+      "name": "Honkai Impact 3rd",
+      "language": "en",
+      "baseURL": "https://manga.honkaiimpact3.com",
+      "mirrorURLs": []
+    }
+  ]
+}

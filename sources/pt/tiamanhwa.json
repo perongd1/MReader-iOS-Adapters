@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.tiamanhwa",
+  "name": "Tia Manhwa",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/tiamanhwa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8823653003339002799",
+      "name": "Tia Manhwa",
+      "language": "pt-BR",
+      "baseURL": "https://tiamanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

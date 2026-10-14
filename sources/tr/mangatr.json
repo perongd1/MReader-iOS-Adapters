@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangatr",
+  "name": "Manga-TR",
+  "version": "1.6.24",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangatr/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4990678311970770946",
+      "name": "Manga-TR",
+      "language": "tr",
+      "baseURL": "https://manga-tr.com",
+      "mirrorURLs": []
+    }
+  ]
+}

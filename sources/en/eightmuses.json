@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.eightmuses",
+  "name": "8Muses",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/eightmuses/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "eromuse",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1802675169972965535",
+      "name": "8Muses",
+      "language": "en",
+      "baseURL": "https://comics.8muses.com",
+      "mirrorURLs": []
+    }
+  ]
+}

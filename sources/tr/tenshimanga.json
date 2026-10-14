@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.tenshimanga",
+  "name": "Tenshi Manga",
+  "version": "1.6.8",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tenshimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "uzaymanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5906663076478194825",
+      "name": "Tenshi Manga",
+      "language": "tr",
+      "baseURL": "https://tenshimanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

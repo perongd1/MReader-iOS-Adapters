@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.vomic",
+  "name": "vomic",
+  "version": "1.4.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/vomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3329849726908639188",
+      "name": "vomic",
+      "language": "zh",
+      "baseURL": "https://www.vomicmh.com",
+      "mirrorURLs": []
+    }
+  ]
+}

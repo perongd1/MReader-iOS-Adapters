@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.hentaimode",
+  "name": "HentaiMode",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/hentaimode/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5208759847357095642",
+      "name": "HentaiMode",
+      "language": "es",
+      "baseURL": "https://hentaimode.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.rawkuma",
+  "name": "Rawkuma",
+  "version": "1.6.41",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawkuma/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "natsuid",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5746834068092446709",
+      "name": "Rawkuma",
+      "language": "ja",
+      "baseURL": "https://rawkuma.net",
+      "mirrorURLs": []
+    }
+  ]
+}

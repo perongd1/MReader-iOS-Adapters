@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.foamgirl",
+  "name": "FoamGirl",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/foamgirl/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5874068195320206396",
+      "name": "FoamGirl",
+      "language": "all",
+      "baseURL": "https://foamgirl.net",
+      "mirrorURLs": []
+    }
+  ]
+}

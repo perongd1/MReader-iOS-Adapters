@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.afroditscans",
+  "name": "Afrodit Scans",
+  "version": "1.6.37",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/afroditscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "uzaymanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4839000923958753250",
+      "name": "Afrodit Scans",
+      "language": "tr",
+      "baseURL": "https://afroditscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

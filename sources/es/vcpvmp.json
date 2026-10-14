@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.vcpvmp",
+  "name": "VCPVMP",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/vcpvmp/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "vercomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8472215287946707583",
+      "name": "VCP",
+      "language": "es",
+      "baseURL": "https://vercomicsporno.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4952451593357491304",
+      "name": "VMP",
+      "language": "es",
+      "baseURL": "https://vermangasporno.com",
+      "mirrorURLs": []
+    }
+  ]
+}

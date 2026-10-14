@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.animexnovel",
+  "name": "AnimeXNovel",
+  "version": "1.6.19",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/animexnovel/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3639622845750368999",
+      "name": "AnimeXNovel",
+      "language": "pt-BR",
+      "baseURL": "https://www.animexnovel.com",
+      "mirrorURLs": []
+    }
+  ]
+}

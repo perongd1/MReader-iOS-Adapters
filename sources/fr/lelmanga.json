@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.lelmanga",
+  "name": "Lelmanga",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/lelmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8647761747185981431",
+      "name": "Lelmanga",
+      "language": "fr",
+      "baseURL": "https://www.lelmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

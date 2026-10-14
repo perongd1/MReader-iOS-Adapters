@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.khomanhwa",
+  "name": "KhoManhwa",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/khomanhwa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6490656436246726670",
+      "name": "KhoManhwa",
+      "language": "vi",
+      "baseURL": "https://khomanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

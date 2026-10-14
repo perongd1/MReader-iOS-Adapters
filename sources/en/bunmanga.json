@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.bunmanga",
+  "name": "Bun Manga",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bunmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5944672760629857205",
+      "name": "Bun Manga",
+      "language": "en",
+      "baseURL": "https://bunmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

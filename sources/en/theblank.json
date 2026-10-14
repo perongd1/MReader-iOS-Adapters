@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.theblank",
+  "name": "The Blank",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/theblank/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pam",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7514642512113015247",
+      "name": "The Blank",
+      "language": "en",
+      "baseURL": "https://theblank.net",
+      "mirrorURLs": []
+    }
+  ]
+}

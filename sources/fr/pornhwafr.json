@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.pornhwafr",
+  "name": "Pornhwa.fr",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/pornhwafr/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4388148978547727168",
+      "name": "Pornwha.fr",
+      "language": "fr",
+      "baseURL": "https://pornhwa.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

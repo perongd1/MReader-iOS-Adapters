@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangadiyari",
+  "name": "Manga Diyarı",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangadiyari/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1376929341843631623",
+      "name": "Manga Diyarı",
+      "language": "tr",
+      "baseURL": "https://mangadiyari.com",
+      "mirrorURLs": []
+    }
+  ]
+}

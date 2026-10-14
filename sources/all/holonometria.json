@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.holonometria",
+  "name": "HOLONOMETRIA",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/holonometria/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8779183423368672304",
+      "name": "HOLONOMETRIA",
+      "language": "ja",
+      "baseURL": "https://holoearth.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1334492919632049277",
+      "name": "HOLONOMETRIA",
+      "language": "en",
+      "baseURL": "https://holoearth.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5054301488874110968",
+      "name": "HOLONOMETRIA",
+      "language": "id",
+      "baseURL": "https://holoearth.com",
+      "mirrorURLs": []
+    }
+  ]
+}

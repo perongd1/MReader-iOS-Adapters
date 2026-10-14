@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.scanhentaimenu",
+  "name": "X-Manga",
+  "version": "1.6.59",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/scanhentaimenu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4153742697148883998",
+      "name": "X-Manga",
+      "language": "fr",
+      "baseURL": "https://x-manga.org",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.manhuaonline",
+  "name": "SamuraiScan",
+  "version": "1.6.72",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhuaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5713083996691468192",
+      "name": "SamuraiScan",
+      "language": "es",
+      "baseURL": "https://samurai.j5z.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

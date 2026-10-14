@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicride",
+  "name": "Comic Ride",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicride/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6786869574657969795",
+      "name": "Comic Ride",
+      "language": "ja",
+      "baseURL": "https://comicride.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

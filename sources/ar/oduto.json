@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.oduto",
+  "name": "Oduto",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/oduto/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1862668423724227387",
+      "name": "Oduto",
+      "language": "ar",
+      "baseURL": "https://nb19u.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

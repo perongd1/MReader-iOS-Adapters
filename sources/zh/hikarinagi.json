@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.hikarinagi",
+  "name": "Hikarinagi",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hikarinagi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3266193817034354049",
+      "name": "Hikarinagi",
+      "language": "zh",
+      "baseURL": "https://www.hikarinagi.org",
+      "mirrorURLs": []
+    }
+  ]
+}

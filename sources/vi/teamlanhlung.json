@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.teamlanhlung",
+  "name": "Team Lanh Lung",
+  "version": "1.6.40",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/teamlanhlung/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1832370231745386795",
+      "name": "Team Lạnh Lùng",
+      "language": "vi",
+      "baseURL": "https://lanhlungteam3.top",
+      "mirrorURLs": []
+    }
+  ]
+}

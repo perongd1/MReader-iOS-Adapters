@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.gingertoon",
+  "name": "GingeRTooN",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gingertoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4205510315534778593",
+      "name": "GingeRTooN",
+      "language": "en",
+      "baseURL": "https://gingertoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

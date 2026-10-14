@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.arthurscan",
+  "name": "Arthur Scan",
+  "version": "1.6.63",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/arthurscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1641160681602874924",
+      "name": "Arthur Scan",
+      "language": "pt-BR",
+      "baseURL": "https://arthurscan.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

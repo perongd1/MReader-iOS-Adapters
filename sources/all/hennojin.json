@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hennojin",
+  "name": "Hennojin",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hennojin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2486465102799235219",
+      "name": "Hennojin",
+      "language": "en",
+      "baseURL": "https://hennojin.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6754172311859665554",
+      "name": "Hennojin",
+      "language": "ja",
+      "baseURL": "https://hennojin.com",
+      "mirrorURLs": []
+    }
+  ]
+}

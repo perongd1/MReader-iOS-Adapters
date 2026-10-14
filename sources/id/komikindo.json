@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komikindo",
+  "name": "Komikindo",
+  "version": "1.6.9",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikindo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1210328269637877420",
+      "name": "Komikindo",
+      "language": "id",
+      "baseURL": "https://1.komikindo.shop",
+      "mirrorURLs": []
+    }
+  ]
+}

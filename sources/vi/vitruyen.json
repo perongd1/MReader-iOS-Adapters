@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.vitruyen",
+  "name": "ViTruyen",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/vitruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2855631357866421200",
+      "name": "ViTruyen",
+      "language": "vi",
+      "baseURL": "https://vitruyen1.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.catharsisworld",
+  "name": "Catharsis World",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/catharsisworld/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2240276887816651754",
+      "name": "Catharsis World",
+      "language": "es",
+      "baseURL": "https://newcatharsis.dig-it.info",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.izneo",
+  "name": "izneo (webtoons)",
+  "version": "1.4.8",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/izneo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7160867804476891075",
+      "name": "izneo",
+      "language": "en",
+      "baseURL": "https://www.izneo.com/en/webtoon",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1002111777562806129",
+      "name": "izneo",
+      "language": "fr",
+      "baseURL": "https://www.izneo.com/fr/webtoon",
+      "mirrorURLs": []
+    }
+  ]
+}

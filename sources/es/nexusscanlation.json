@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.nexusscanlation",
+  "name": "NexusScanlation",
+  "version": "1.6.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/nexusscanlation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4086183896761281232",
+      "name": "NexusScanlation",
+      "language": "es",
+      "baseURL": "https://nexusscanlation.com",
+      "mirrorURLs": []
+    }
+  ]
+}

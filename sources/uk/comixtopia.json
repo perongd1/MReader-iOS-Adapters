@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.uk.comixtopia",
+  "name": "ComixTopia",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/uk/comixtopia/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7425856965491574725",
+      "name": "ComixTopia",
+      "language": "uk",
+      "baseURL": "https://comixtopia.in.ua",
+      "mirrorURLs": []
+    }
+  ]
+}

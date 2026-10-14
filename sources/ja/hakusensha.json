@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.hakusensha",
+  "name": "Hakusensha e-net",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/hakusensha/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3812676510487645204",
+      "name": "Hakusensha e-net",
+      "language": "ja",
+      "baseURL": "https://www.hakusensha-e.net",
+      "mirrorURLs": []
+    }
+  ]
+}

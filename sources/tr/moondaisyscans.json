@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.moondaisyscans",
+  "name": "Moon Daisy Scans",
+  "version": "1.6.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/moondaisyscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2732049206654972364",
+      "name": "Moon Daisy Scans",
+      "language": "tr",
+      "baseURL": "https://moondaisyscans.pro",
+      "mirrorURLs": []
+    }
+  ]
+}

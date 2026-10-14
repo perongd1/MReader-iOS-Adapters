@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.thebeginningaftertheendmangaonline",
+  "name": "Read The Beginning After The End Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/thebeginningaftertheendmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1751128597475577885",
+      "name": "Read The Beginning After The End Manga Online",
+      "language": "en",
+      "baseURL": "https://w22.thebeginningaftertheendmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

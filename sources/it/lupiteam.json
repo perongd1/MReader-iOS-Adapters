@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.lupiteam",
+  "name": "LupiTeam",
+  "version": "1.6.8",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/lupiteam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "148102640598931038",
+      "name": "LupiTeam",
+      "language": "it",
+      "baseURL": "https://lupiteam.net",
+      "mirrorURLs": []
+    }
+  ]
+}

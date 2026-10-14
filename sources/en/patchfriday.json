@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.patchfriday",
+  "name": "Patch Friday",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/patchfriday/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5782663927698937256",
+      "name": "Patch Friday",
+      "language": "en",
+      "baseURL": "https://patchfriday.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komikzoid",
+  "name": "Komikzoid",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikzoid/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "colorlibanime",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2556223347862084050",
+      "name": "Komikzoid",
+      "language": "id",
+      "baseURL": "https://01.komikzoid.id",
+      "mirrorURLs": []
+    }
+  ]
+}

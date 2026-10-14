@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.kmansin09",
+  "name": "Kmansin09",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kmansin09/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4046163527731172053",
+      "name": "Kmansin09",
+      "language": "ja",
+      "baseURL": "https://kmansin09.top",
+      "mirrorURLs": []
+    }
+  ]
+}

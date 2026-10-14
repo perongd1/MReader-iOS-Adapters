@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.yomonga",
+  "name": "Yomonga",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/yomonga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7561635982432447429",
+      "name": "Yomonga",
+      "language": "ja",
+      "baseURL": "https://www.yomonga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.mangakuri",
+  "name": "Mangakuri",
+  "version": "1.6.37",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mangakuri/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "loneseal",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8634079728231059906",
+      "name": "Mangakuri",
+      "language": "id",
+      "baseURL": "https://lc2.mangakuri.online",
+      "mirrorURLs": []
+    }
+  ]
+}

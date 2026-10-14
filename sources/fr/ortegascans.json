@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.ortegascans",
+  "name": "Ortega Scans",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/ortegascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8598370605081191622",
+      "name": "Ortega Scans",
+      "language": "fr",
+      "baseURL": "https://ortegascans.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

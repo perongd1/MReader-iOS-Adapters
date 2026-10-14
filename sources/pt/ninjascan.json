@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.ninjascan",
+  "name": "Ninja Scan",
+  "version": "1.6.58",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/ninjascan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4392067503694697213",
+      "name": "Ninja Scan",
+      "language": "pt-BR",
+      "baseURL": "https://ninjacomics.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

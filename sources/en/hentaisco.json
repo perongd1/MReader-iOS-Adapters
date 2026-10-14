@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hentaisco",
+  "name": "HentaiSco",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaisco/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6741034623728813910",
+      "name": "HentaiSco",
+      "language": "en",
+      "baseURL": "https://hentaisco.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

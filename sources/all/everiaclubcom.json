@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.everiaclubcom",
+  "name": "EveriaClub (unoriginal)",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/everiaclubcom/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8698756602692547891",
+      "name": "EveriaClub (unoriginal)",
+      "language": "all",
+      "baseURL": "https://www.everiaclub.com",
+      "mirrorURLs": []
+    }
+  ]
+}

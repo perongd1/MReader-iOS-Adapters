@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.manhwaweb",
+  "name": "ManhwaWeb",
+  "version": "1.6.13",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaweb/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5943212552955476721",
+      "name": "ManhwaWeb",
+      "language": "es",
+      "baseURL": "https://manhwaweb.com",
+      "mirrorURLs": []
+    }
+  ]
+}

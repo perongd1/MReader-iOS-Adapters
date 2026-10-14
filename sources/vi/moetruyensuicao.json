@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.moetruyensuicao",
+  "name": "MoeTruyenSuiCao (unoriginal)",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyensuicao/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7257946851767599928",
+      "name": "MoeTruyenSuiCao (unoriginal)",
+      "language": "vi",
+      "baseURL": "https://moe.suicaodex.com",
+      "mirrorURLs": []
+    }
+  ]
+}

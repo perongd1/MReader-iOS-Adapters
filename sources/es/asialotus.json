@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.asialotus",
+  "name": "Asia Lotus",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/asialotus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3655128076360662290",
+      "name": "Asia Lotus",
+      "language": "es",
+      "baseURL": "https://asialotuss.com",
+      "mirrorURLs": []
+    }
+  ]
+}

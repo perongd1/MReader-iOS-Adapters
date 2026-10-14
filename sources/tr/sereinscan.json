@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.sereinscan",
+  "name": "Serein Scan",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/sereinscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1993924607457500259",
+      "name": "Serein Scan",
+      "language": "tr",
+      "baseURL": "https://sereinscan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

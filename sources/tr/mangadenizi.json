@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mangadenizi",
+  "name": "MangaDenizi",
+  "version": "1.6.8",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mangadenizi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5186628758186958017",
+      "name": "MangaDenizi",
+      "language": "tr",
+      "baseURL": "https://mangadenizi.net",
+      "mirrorURLs": []
+    }
+  ]
+}

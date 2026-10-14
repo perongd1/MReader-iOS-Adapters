@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.rawdevartart",
+  "name": "Rawdevart.art",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawdevartart/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3401714773439070137",
+      "name": "Rawdevart.art",
+      "language": "ja",
+      "baseURL": "https://rawdevart.art",
+      "mirrorURLs": []
+    }
+  ]
+}

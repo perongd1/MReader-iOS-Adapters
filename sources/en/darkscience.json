@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.darkscience",
+  "name": "Dark Science",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/darkscience/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2059482759352416637",
+      "name": "Dark Science",
+      "language": "en",
+      "baseURL": "https://dresdencodak.com",
+      "mirrorURLs": []
+    }
+  ]
+}

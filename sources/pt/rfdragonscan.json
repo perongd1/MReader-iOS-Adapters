@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.rfdragonscan",
+  "name": "RF Dragon Scan",
+  "version": "1.4.13",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/rfdragonscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3492404357721425345",
+      "name": "RF Dragon Scan",
+      "language": "pt-BR",
+      "baseURL": "https://rfdragonscan.net",
+      "mirrorURLs": []
+    }
+  ]
+}

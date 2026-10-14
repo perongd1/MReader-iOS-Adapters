@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.mh1234",
+  "name": "MH1234",
+  "version": "1.6.5",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/mh1234/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7895725080195720063",
+      "name": "漫画1234",
+      "language": "zh",
+      "baseURL": "https://m.wmh1234.com",
+      "mirrorURLs": []
+    }
+  ]
+}

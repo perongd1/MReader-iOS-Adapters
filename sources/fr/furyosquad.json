@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.furyosquad",
+  "name": "FuryoSquad",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/furyosquad/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "267710359229814456",
+      "name": "FuryoSquad",
+      "language": "fr",
+      "baseURL": "https://www.furyosociety.com",
+      "mirrorURLs": []
+    }
+  ]
+}

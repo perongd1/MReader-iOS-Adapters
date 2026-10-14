@@ -1,0 +1,43 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentairox",
+  "name": "HentaiRox",
+  "version": "1.6.10",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentairox/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2799291971714927306",
+      "name": "HentaiRox",
+      "language": "en",
+      "baseURL": "https://hentairox.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2013504679812912827",
+      "name": "HentaiRox",
+      "language": "ja",
+      "baseURL": "https://hentairox.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3457657507803543601",
+      "name": "HentaiRox",
+      "language": "zh",
+      "baseURL": "https://hentairox.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3310562162433401964",
+      "name": "HentaiRox",
+      "language": "all",
+      "baseURL": "https://hentairox.com",
+      "mirrorURLs": []
+    }
+  ]
+}

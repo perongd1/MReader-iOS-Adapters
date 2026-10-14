@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.reapertrans",
+  "name": "ReaperTrans",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/reapertrans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9050053825457509475",
+      "name": "ReaperTrans",
+      "language": "th",
+      "baseURL": "https://reapertrans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

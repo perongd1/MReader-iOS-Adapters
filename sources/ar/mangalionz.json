@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.mangalionz",
+  "name": "MangaLionz",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalionz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2589550143244611118",
+      "name": "MangaLionz",
+      "language": "ar",
+      "baseURL": "https://manga-lionz.org",
+      "mirrorURLs": []
+    }
+  ]
+}

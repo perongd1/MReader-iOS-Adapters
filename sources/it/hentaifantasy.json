@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.hentaifantasy",
+  "name": "HentaiFantasy",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/hentaifantasy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "398037379041422243",
+      "name": "HentaiFantasy",
+      "language": "it",
+      "baseURL": "https://hentaifantasy.it",
+      "mirrorURLs": []
+    }
+  ]
+}

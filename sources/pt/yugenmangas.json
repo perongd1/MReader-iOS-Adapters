@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.yugenmangas",
+  "name": "Yugen Mangás",
+  "version": "1.4.52",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/yugenmangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8900485893586998299",
+      "name": "Yugen Mangás",
+      "language": "pt-BR",
+      "baseURL": "https://yugenmangasbr.dxtg.online",
+      "mirrorURLs": []
+    }
+  ]
+}

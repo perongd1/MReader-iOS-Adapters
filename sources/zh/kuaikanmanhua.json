@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.kuaikanmanhua",
+  "name": "Kuaikanmanhua",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/kuaikanmanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8099870292642776005",
+      "name": "快看漫画",
+      "language": "zh-Hans",
+      "baseURL": "https://www.kuaikanmanhua.com",
+      "mirrorURLs": []
+    }
+  ]
+}

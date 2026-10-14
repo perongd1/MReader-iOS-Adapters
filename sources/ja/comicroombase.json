@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicroombase",
+  "name": "Comic Room Base",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicroombase/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1887776535756811938",
+      "name": "Comic Room Base",
+      "language": "ja",
+      "baseURL": "https://comic-room-base.com",
+      "mirrorURLs": []
+    }
+  ]
+}

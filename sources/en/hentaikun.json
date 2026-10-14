@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hentaikun",
+  "name": "HentaiKun",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaikun/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2420370334023011697",
+      "name": "HentaiKun",
+      "language": "en",
+      "baseURL": "https://hentaikun.com",
+      "mirrorURLs": []
+    }
+  ]
+}

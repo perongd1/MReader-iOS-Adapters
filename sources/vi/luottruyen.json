@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.luottruyen",
+  "name": "LuotTruyen",
+  "version": "1.6.12",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/luottruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6560112192335153780",
+      "name": "LuotTruyen",
+      "language": "vi",
+      "baseURL": "https://luottruyen999.com",
+      "mirrorURLs": []
+    }
+  ]
+}

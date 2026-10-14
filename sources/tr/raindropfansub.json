@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.raindropfansub",
+  "name": "Raindrop Fansub",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/raindropfansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5020277403848576351",
+      "name": "Raindrop Fansub",
+      "language": "tr",
+      "baseURL": "https://www.raindropteamfan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

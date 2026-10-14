@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readhorimiyaonline",
+  "name": "Read Horimiya Online",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readhorimiyaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "855674716623999161",
+      "name": "Read Horimiya Online",
+      "language": "en",
+      "baseURL": "https://read-horimiya.online",
+      "mirrorURLs": []
+    }
+  ]
+}

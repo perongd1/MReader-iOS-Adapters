@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.sirenscansfr",
+  "name": "Siren Scans FR",
+  "version": "1.6.22",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/sirenscansfr/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9130638185861146476",
+      "name": "Siren Scans FR",
+      "language": "fr",
+      "baseURL": "https://sirenscans.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

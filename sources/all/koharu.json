@@ -1,0 +1,67 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.koharu",
+  "name": "SchaleNetwork",
+  "version": "1.4.20",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/koharu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "713326856395200688",
+      "name": "SchaleNetwork",
+      "language": "all",
+      "baseURL": "https://schale.network",
+      "mirrorURLs": [
+        "https://schale.network",
+        "https://anchira.to",
+        "https://gehenna.jp",
+        "https://niyaniya.moe",
+        "https://shupogaki.moe"
+      ]
+    },
+    {
+      "id": "1484902275639232927",
+      "name": "SchaleNetwork",
+      "language": "en",
+      "baseURL": "https://schale.network",
+      "mirrorURLs": [
+        "https://schale.network",
+        "https://anchira.to",
+        "https://gehenna.jp",
+        "https://niyaniya.moe",
+        "https://shupogaki.moe"
+      ]
+    },
+    {
+      "id": "8512356093551591735",
+      "name": "SchaleNetwork",
+      "language": "ja",
+      "baseURL": "https://schale.network",
+      "mirrorURLs": [
+        "https://schale.network",
+        "https://anchira.to",
+        "https://gehenna.jp",
+        "https://niyaniya.moe",
+        "https://shupogaki.moe"
+      ]
+    },
+    {
+      "id": "8839994618804276749",
+      "name": "SchaleNetwork",
+      "language": "zh",
+      "baseURL": "https://schale.network",
+      "mirrorURLs": [
+        "https://schale.network",
+        "https://anchira.to",
+        "https://gehenna.jp",
+        "https://niyaniya.moe",
+        "https://shupogaki.moe"
+      ]
+    }
+  ]
+}

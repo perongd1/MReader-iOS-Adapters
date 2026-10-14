@@ -1,0 +1,253 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentaihand",
+  "name": "HentaiHand",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaihand/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "hentaihand",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1235047015955289468",
+      "name": "HentaiHand",
+      "language": "all",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4992571563369273240",
+      "name": "HentaiHand",
+      "language": "ja",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1438773694780928937",
+      "name": "HentaiHand",
+      "language": "en",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "866133291730804205",
+      "name": "HentaiHand",
+      "language": "zh",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7561346598466986562",
+      "name": "HentaiHand",
+      "language": "bg",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2136686110556284465",
+      "name": "HentaiHand",
+      "language": "ceb",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7302549142935671434",
+      "name": "HentaiHand",
+      "language": "other",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8205998909543626240",
+      "name": "HentaiHand",
+      "language": "tl",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5494684486943087247",
+      "name": "HentaiHand",
+      "language": "ar",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9098484674492839156",
+      "name": "HentaiHand",
+      "language": "el",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "259350817779848434",
+      "name": "HentaiHand",
+      "language": "sr",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8174384290387590645",
+      "name": "HentaiHand",
+      "language": "jv",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "299569391162966579",
+      "name": "HentaiHand",
+      "language": "uk",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6304497572870246566",
+      "name": "HentaiHand",
+      "language": "tr",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4855613465785451164",
+      "name": "HentaiHand",
+      "language": "fi",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3078530910469685147",
+      "name": "HentaiHand",
+      "language": "la",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4197081087116305652",
+      "name": "HentaiHand",
+      "language": "mn",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6189674531673390664",
+      "name": "HentaiHand",
+      "language": "eo",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3548394435548008920",
+      "name": "HentaiHand",
+      "language": "sk",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6818645358118704394",
+      "name": "HentaiHand",
+      "language": "cs",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2772498967425526818",
+      "name": "HentaiHand",
+      "language": "ko",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5788099943016900736",
+      "name": "HentaiHand",
+      "language": "ru",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8272502917504358946",
+      "name": "HentaiHand",
+      "language": "it",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1049245690865797006",
+      "name": "HentaiHand",
+      "language": "es",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2516244587139644000",
+      "name": "HentaiHand",
+      "language": "pt-BR",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "392245224742696225",
+      "name": "HentaiHand",
+      "language": "th",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2304134427430911086",
+      "name": "HentaiHand",
+      "language": "fr",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "202981519301875762",
+      "name": "HentaiHand",
+      "language": "id",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "474754362133655719",
+      "name": "HentaiHand",
+      "language": "vi",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8300414741852788090",
+      "name": "HentaiHand",
+      "language": "de",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6173663752022195918",
+      "name": "HentaiHand",
+      "language": "pl",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6490746811386262494",
+      "name": "HentaiHand",
+      "language": "hu",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7899387259192038112",
+      "name": "HentaiHand",
+      "language": "nl",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1337874080374168573",
+      "name": "HentaiHand",
+      "language": "hi",
+      "baseURL": "https://hentaihand.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.youngchampion",
+  "name": "Young Champion",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/youngchampion/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "162182610453532778",
+      "name": "Young Champion",
+      "language": "ja",
+      "baseURL": "https://youngchampion.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

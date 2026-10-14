@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.walpurgisscan",
+  "name": "Walpurgi Scan",
+  "version": "1.6.7",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/walpurgisscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6566957355096372149",
+      "name": "Walpurgi Scan",
+      "language": "it",
+      "baseURL": "https://www.walpurgiscan.it",
+      "mirrorURLs": []
+    }
+  ]
+}

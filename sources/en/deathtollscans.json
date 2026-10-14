@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.deathtollscans",
+  "name": "Death Toll Scans",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/deathtollscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "foolslide",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4722346859737894698",
+      "name": "Death Toll Scans",
+      "language": "en",
+      "baseURL": "https://reader.deathtollscans.net",
+      "mirrorURLs": []
+    }
+  ]
+}

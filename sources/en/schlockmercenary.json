@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.schlockmercenary",
+  "name": "Schlock Mercenary",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/schlockmercenary/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4705692208637300585",
+      "name": "Schlock Mercenary",
+      "language": "en",
+      "baseURL": "https://www.schlockmercenary.com",
+      "mirrorURLs": []
+    }
+  ]
+}

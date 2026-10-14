@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.creativecomic",
+  "name": "Creative Comic Collection",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/creativecomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8346821279138091413",
+      "name": "CCC追漫台",
+      "language": "zh-Hant",
+      "baseURL": "https://www.creative-comic.tw",
+      "mirrorURLs": []
+    }
+  ]
+}

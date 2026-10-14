@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readonepiecemangaonline",
+  "name": "Read One Piece Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1061544757733451419",
+      "name": "Read One Piece Manga Online",
+      "language": "en",
+      "baseURL": "https://ww13.readonepiece.com",
+      "mirrorURLs": []
+    }
+  ]
+}

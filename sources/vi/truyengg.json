@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyengg",
+  "name": "FoxTruyen",
+  "version": "1.6.13",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyengg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1458993267006200127",
+      "name": "FoxTruyen",
+      "language": "vi",
+      "baseURL": "https://foxtruyen2.com",
+      "mirrorURLs": []
+    }
+  ]
+}

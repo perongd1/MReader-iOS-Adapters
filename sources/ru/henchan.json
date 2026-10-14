@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.henchan",
+  "name": "HenChan",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/henchan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "multichan",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5504588601186153612",
+      "name": "HenChan",
+      "language": "ru",
+      "baseURL": "https://xxl.hentaichan.live",
+      "mirrorURLs": []
+    }
+  ]
+}

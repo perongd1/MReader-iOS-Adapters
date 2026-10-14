@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.athreascans",
+  "name": "Athrea Scans",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/athreascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "427734044452073936",
+      "name": "Athrea Scans",
+      "language": "en",
+      "baseURL": "https://athreascans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

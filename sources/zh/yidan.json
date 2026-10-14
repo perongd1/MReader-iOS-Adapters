@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.yidan",
+  "name": "Yidan Girl",
+  "version": "1.4.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/yidan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2417676426413230210",
+      "name": "一耽女孩",
+      "language": "zh",
+      "baseURL": "https://yidan9.club",
+      "mirrorURLs": []
+    }
+  ]
+}

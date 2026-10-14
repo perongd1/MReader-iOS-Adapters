@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.pantheonscan",
+  "name": "Pantheon Scan",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/pantheonscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1615599506055429686",
+      "name": "Pantheon Scan",
+      "language": "fr",
+      "baseURL": "https://pantheon-scan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.borutoexplorer",
+  "name": "Boruto Explorer",
+  "version": "1.6.57",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/borutoexplorer/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2962682340286299668",
+      "name": "Boruto Explorer",
+      "language": "pt-BR",
+      "baseURL": "https://leitor.borutoexplorer.com.br",
+      "mirrorURLs": []
+    }
+  ]
+}

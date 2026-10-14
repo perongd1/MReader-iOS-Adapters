@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.manta",
+  "name": "Manta Comics",
+  "version": "1.6.11",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manta/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8753096034341798862",
+      "name": "Manta",
+      "language": "en",
+      "baseURL": "https://manta.net/en",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2857546552946901153",
+      "name": "Manta",
+      "language": "es",
+      "baseURL": "https://manta.net/es",
+      "mirrorURLs": []
+    }
+  ]
+}

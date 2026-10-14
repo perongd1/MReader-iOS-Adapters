@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.lunatoons",
+  "name": "Luna Toons",
+  "version": "1.6.23",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lunatoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4513668905743562887",
+      "name": "Luna Toons",
+      "language": "en",
+      "baseURL": "https://lunatoons.net",
+      "mirrorURLs": []
+    }
+  ]
+}

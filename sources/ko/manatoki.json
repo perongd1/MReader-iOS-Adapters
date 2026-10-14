@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ko.manatoki",
+  "name": "Manatoki",
+  "version": "1.4.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/manatoki/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3581741214949868596",
+      "name": "Manatoki",
+      "language": "ko",
+      "baseURL": "https://manatoki552.net",
+      "mirrorURLs": []
+    }
+  ]
+}

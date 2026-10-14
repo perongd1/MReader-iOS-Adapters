@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.timelesstoons",
+  "name": "TimelessToons",
+  "version": "1.6.23",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/timelesstoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9063123408669132087",
+      "name": "TimelessToons",
+      "language": "en",
+      "baseURL": "https://timelesstoons.org",
+      "mirrorURLs": []
+    }
+  ]
+}

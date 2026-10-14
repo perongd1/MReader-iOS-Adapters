@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.doujinio",
+  "name": "Doujin.io - J18",
+  "version": "1.6.4",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/doujinio/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2738692054520731722",
+      "name": "Doujin.io - J18",
+      "language": "en",
+      "baseURL": "https://doujin.io",
+      "mirrorURLs": []
+    }
+  ]
+}

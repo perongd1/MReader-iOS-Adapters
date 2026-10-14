@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.evascans",
+  "name": "Eva Scans",
+  "version": "1.6.4",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/evascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1911019612901009263",
+      "name": "Eva Scans",
+      "language": "en",
+      "baseURL": "https://evascans.net",
+      "mirrorURLs": []
+    }
+  ]
+}

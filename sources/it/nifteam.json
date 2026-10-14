@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.nifteam",
+  "name": "NIFTeam",
+  "version": "1.6.7",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/nifteam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "foolslide",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7816508865953731299",
+      "name": "NIFTeam",
+      "language": "it",
+      "baseURL": "https://read-nifteam.info",
+      "mirrorURLs": []
+    }
+  ]
+}

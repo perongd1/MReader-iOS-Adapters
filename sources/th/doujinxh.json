@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.doujinxh",
+  "name": "Doujinx-H",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinxh/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3749607867432167357",
+      "name": "Doujinx-H",
+      "language": "th",
+      "baseURL": "https://doujinx-h.com",
+      "mirrorURLs": []
+    }
+  ]
+}

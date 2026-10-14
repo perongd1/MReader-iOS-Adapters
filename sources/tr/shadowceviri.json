@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.shadowceviri",
+  "name": "Shadow Çeviri",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/shadowceviri/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3852979672050614736",
+      "name": "Shadow Çeviri",
+      "language": "tr",
+      "baseURL": "https://shadowceviri.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

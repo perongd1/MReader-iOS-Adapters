@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.solarisscans",
+  "name": "Solaris Scans",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/solarisscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1172624746268381921",
+      "name": "Solaris Scans",
+      "language": "fr",
+      "baseURL": "https://solaris-scans.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

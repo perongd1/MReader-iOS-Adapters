@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.hentaiscanreader",
+  "name": "Hentai Scan Reader",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/hentaiscanreader/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "scanreader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8376548397716758785",
+      "name": "Hentai Scan Reader",
+      "language": "fr",
+      "baseURL": "https://hentai.scanreader.net",
+      "mirrorURLs": []
+    }
+  ]
+}

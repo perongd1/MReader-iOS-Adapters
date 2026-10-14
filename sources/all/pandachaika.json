@@ -1,0 +1,155 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.pandachaika",
+  "name": "PandaChaika",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/pandachaika/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8212157560459310944",
+      "name": "PandaChaika",
+      "language": "all",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3599272016034823454",
+      "name": "PandaChaika",
+      "language": "en",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7139811400769884559",
+      "name": "PandaChaika",
+      "language": "zh",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7369333952028993476",
+      "name": "PandaChaika",
+      "language": "ko",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "627361661169334808",
+      "name": "PandaChaika",
+      "language": "es",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5221951741432177903",
+      "name": "PandaChaika",
+      "language": "ru",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1651657038100823298",
+      "name": "PandaChaika",
+      "language": "pt",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7652967240448142818",
+      "name": "PandaChaika",
+      "language": "fr",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1932020840797180157",
+      "name": "PandaChaika",
+      "language": "th",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2772885510390273147",
+      "name": "PandaChaika",
+      "language": "vi",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3512076228855715276",
+      "name": "PandaChaika",
+      "language": "ja",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2553504349329211397",
+      "name": "PandaChaika",
+      "language": "id",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6895465518314218980",
+      "name": "PandaChaika",
+      "language": "ar",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1808484200237690514",
+      "name": "PandaChaika",
+      "language": "uk",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6830559705127350757",
+      "name": "PandaChaika",
+      "language": "tr",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4709631253767612322",
+      "name": "PandaChaika",
+      "language": "cs",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6984430285308868948",
+      "name": "PandaChaika",
+      "language": "tl",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5347846950927890201",
+      "name": "PandaChaika",
+      "language": "fi",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5421363896303671586",
+      "name": "PandaChaika",
+      "language": "jv",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8814661622406768937",
+      "name": "PandaChaika",
+      "language": "el",
+      "baseURL": "https://panda.chaika.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

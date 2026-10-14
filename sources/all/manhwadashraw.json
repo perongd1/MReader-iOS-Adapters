@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.manhwadashraw",
+  "name": "Manhwa-raw",
+  "version": "1.6.57",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwadashraw/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5617855959190673282",
+      "name": "Manhwa-raw",
+      "language": "all",
+      "baseURL": "https://manhwa-raw.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.yurineko",
+  "name": "YuriNeko",
+  "version": "1.6.7",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/yurineko/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4413681066613655890",
+      "name": "YuriNeko",
+      "language": "vi",
+      "baseURL": "https://yurinekoz.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.lunascans",
+  "name": "Luna Scans",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/lunascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6989973853577548620",
+      "name": "Luna Scans",
+      "language": "tr",
+      "baseURL": "https://tuhafscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

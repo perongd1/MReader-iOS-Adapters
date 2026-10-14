@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mangalivre",
+  "name": "ToonLivre",
+  "version": "1.6.89",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivre/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2834885536325274328",
+      "name": "ToonLivre",
+      "language": "pt-BR",
+      "baseURL": "https://toonlivre.net",
+      "mirrorURLs": []
+    }
+  ]
+}

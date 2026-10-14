@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.yorai",
+  "name": "Yorai",
+  "version": "1.4.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yorai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2467588305419524836",
+      "name": "Yorai",
+      "language": "en",
+      "baseURL": "https://yorai.io",
+      "mirrorURLs": []
+    }
+  ]
+}

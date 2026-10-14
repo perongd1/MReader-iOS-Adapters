@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.slowmanga",
+  "name": "Slow Manga",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/slowmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3894617311216312574",
+      "name": "Slow Manga",
+      "language": "th",
+      "baseURL": "https://www.slow-manga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

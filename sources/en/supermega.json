@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.supermega",
+  "name": "SUPER MEGA",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/supermega/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7900982727014582653",
+      "name": "SUPER MEGA",
+      "language": "en",
+      "baseURL": "https://www.supermegacomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

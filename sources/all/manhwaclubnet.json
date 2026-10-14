@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.manhwaclubnet",
+  "name": "ManhwaClub.net",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/manhwaclubnet/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6720687475375335817",
+      "name": "ManhwaClub.net",
+      "language": "en",
+      "baseURL": "https://manhwaclub.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3482736208073357647",
+      "name": "ManhwaClub.net",
+      "language": "ko",
+      "baseURL": "https://manhwaclub.net",
+      "mirrorURLs": []
+    }
+  ]
+}

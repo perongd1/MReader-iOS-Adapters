@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.nebulosascan",
+  "name": "Nebulosa Scan",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/nebulosascan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1410750574939174515",
+      "name": "Nebulosa Scan",
+      "language": "pt-BR",
+      "baseURL": "https://nebulosascan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

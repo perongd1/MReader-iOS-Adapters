@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.allanime",
+  "name": "AllManga",
+  "version": "1.6.29",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allanime/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4709139914729853090",
+      "name": "AllManga",
+      "language": "en",
+      "baseURL": "https://mkissa.to",
+      "mirrorURLs": [
+        "https://mkissa.to",
+        "https://isekai2nd.com"
+      ]
+    }
+  ]
+}

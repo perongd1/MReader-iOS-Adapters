@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hentaifox",
+  "name": "HentaiFox",
+  "version": "1.6.18",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hentaifox/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "galleryadults",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7945033982379409892",
+      "name": "HentaiFox",
+      "language": "en",
+      "baseURL": "https://hentaifox.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8640201438684762638",
+      "name": "HentaiFox",
+      "language": "ja",
+      "baseURL": "https://hentaifox.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3252050349835097844",
+      "name": "HentaiFox",
+      "language": "zh",
+      "baseURL": "https://hentaifox.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2146024794445748144",
+      "name": "HentaiFox",
+      "language": "ko",
+      "baseURL": "https://hentaifox.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2697587119837846427",
+      "name": "HentaiFox",
+      "language": "all",
+      "baseURL": "https://hentaifox.com",
+      "mirrorURLs": []
+    }
+  ]
+}

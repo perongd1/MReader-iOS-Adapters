@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.yakshacomics",
+  "name": "YakshaComics",
+  "version": "1.6.57",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/yakshacomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4871612284225100668",
+      "name": "YakshaComics",
+      "language": "en",
+      "baseURL": "https://yakshacomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

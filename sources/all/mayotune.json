@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.mayotune",
+  "name": "MayoTune",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mayotune/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1480743237782384863",
+      "name": "MayoTune",
+      "language": "en",
+      "baseURL": "https://mayochuu.xyz",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6644592287307303034",
+      "name": "MayoTune",
+      "language": "ja",
+      "baseURL": "https://mayochuu.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

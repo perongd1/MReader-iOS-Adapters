@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.shojoscans",
+  "name": "Violet Scans",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/violetscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9079184529211162476",
+      "name": "Violet Scans",
+      "language": "en",
+      "baseURL": "https://violetmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

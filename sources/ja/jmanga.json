@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.jmanga",
+  "name": "Jmanga",
+  "version": "1.6.10",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/jmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6141590427749684419",
+      "name": "Jmanga",
+      "language": "ja",
+      "baseURL": "https://jmanga.cyou",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.daomeoden",
+  "name": "DaoMeoDen",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/daomeoden/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3635786412332322062",
+      "name": "DaoMeoDen",
+      "language": "vi",
+      "baseURL": "https://daomeoden.net",
+      "mirrorURLs": []
+    }
+  ]
+}

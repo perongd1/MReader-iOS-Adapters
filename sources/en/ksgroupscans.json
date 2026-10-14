@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.ksgroupscans",
+  "name": "KSGroupScans",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ksgroupscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4307007494151154546",
+      "name": "KSGroupScans",
+      "language": "en",
+      "baseURL": "https://ksgroupscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

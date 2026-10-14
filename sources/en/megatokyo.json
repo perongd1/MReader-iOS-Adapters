@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.megatokyo",
+  "name": "Megatokyo",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/megatokyo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2609498548705590664",
+      "name": "Megatokyo",
+      "language": "en",
+      "baseURL": "https://megatokyo.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.tcbscans",
+  "name": "TCB Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/tcbscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1435116756378369709",
+      "name": "TCB Scans",
+      "language": "en",
+      "baseURL": "https://tcbonepiecechapters.com",
+      "mirrorURLs": []
+    }
+  ]
+}

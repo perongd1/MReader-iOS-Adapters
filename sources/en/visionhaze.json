@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.visionhaze",
+  "name": "Vision Haze",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/visionhaze/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3416472212573239071",
+      "name": "Vision Haze",
+      "language": "en",
+      "baseURL": "https://www.visionhaze.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.inmortalscan",
+  "name": "Inmortal Scan",
+  "version": "1.6.60",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/inmortalscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8879875375160764811",
+      "name": "Inmortal Scan",
+      "language": "es",
+      "baseURL": "https://scan-inmortal.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.sayhentai",
+  "name": "SayHentai",
+  "version": "1.6.24",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/sayhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manhwaz",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4370817879994829481",
+      "name": "SayHentai",
+      "language": "vi",
+      "baseURL": "https://sayhentai.cx",
+      "mirrorURLs": []
+    }
+  ]
+}

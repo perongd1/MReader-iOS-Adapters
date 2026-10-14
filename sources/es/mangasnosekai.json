@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.mangasnosekai",
+  "name": "Mangas No Sekai",
+  "version": "1.6.75",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasnosekai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "829053423099062956",
+      "name": "Mangas No Sekai",
+      "language": "es",
+      "baseURL": "https://mangasnosekai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

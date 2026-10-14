@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.hdoujin",
+  "name": "HDoujin",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/hdoujin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2220258354919443918",
+      "name": "HDoujin",
+      "language": "all",
+      "baseURL": "https://hdoujin.org",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3677056573528884471",
+      "name": "HDoujin",
+      "language": "en",
+      "baseURL": "https://hdoujin.org",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6580865433441960135",
+      "name": "HDoujin",
+      "language": "es",
+      "baseURL": "https://hdoujin.org",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4628927315861565171",
+      "name": "HDoujin",
+      "language": "ja",
+      "baseURL": "https://hdoujin.org",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8377507648400729012",
+      "name": "HDoujin",
+      "language": "ko",
+      "baseURL": "https://hdoujin.org",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2603728112834757616",
+      "name": "HDoujin",
+      "language": "zh",
+      "baseURL": "https://hdoujin.org",
+      "mirrorURLs": []
+    }
+  ]
+}

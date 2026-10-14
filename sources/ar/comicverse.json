@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.comicverse",
+  "name": "Comic Verse",
+  "version": "1.6.17",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/comicverse/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7487319247633385575",
+      "name": "Comic Verse",
+      "language": "ar",
+      "baseURL": "https://arcomixverse.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

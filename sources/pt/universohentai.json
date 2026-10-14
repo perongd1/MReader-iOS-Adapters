@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.universohentai",
+  "name": "Universo Hentai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/universohentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gattsu",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4207492914234184899",
+      "name": "Universo Hentai",
+      "language": "pt-BR",
+      "baseURL": "https://universohentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

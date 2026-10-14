@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.celestialmoon",
+  "name": "Celestial Moon",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/celestialmoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7771256386177960897",
+      "name": "Celestial Moon",
+      "language": "es",
+      "baseURL": "https://celestialmoonscan.es",
+      "mirrorURLs": []
+    }
+  ]
+}

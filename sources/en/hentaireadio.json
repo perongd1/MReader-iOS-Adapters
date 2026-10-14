@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hentaireadio",
+  "name": "HentaiRead.io",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hentaireadio/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1055804712296309124",
+      "name": "HentaiRead.io",
+      "language": "en",
+      "baseURL": "https://hentairead.io",
+      "mirrorURLs": []
+    }
+  ]
+}

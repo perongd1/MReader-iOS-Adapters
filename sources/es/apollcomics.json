@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.apollcomics",
+  "name": "ApollComics",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/apollcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3044113561993269522",
+      "name": "ApollComics",
+      "language": "es",
+      "baseURL": "https://apollcomics.es",
+      "mirrorURLs": []
+    }
+  ]
+}

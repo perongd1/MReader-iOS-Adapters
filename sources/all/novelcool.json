@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.novelcool",
+  "name": "NovelCool",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/novelcool/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7570101320206504111",
+      "name": "NovelCool",
+      "language": "en",
+      "baseURL": "https://www.novelcool.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "438359803442833644",
+      "name": "NovelCool",
+      "language": "es",
+      "baseURL": "https://es.novelcool.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4806085996472938237",
+      "name": "NovelCool",
+      "language": "de",
+      "baseURL": "https://de.novelcool.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2000643041937250352",
+      "name": "NovelCool",
+      "language": "ru",
+      "baseURL": "https://ru.novelcool.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1430309870605719983",
+      "name": "NovelCool",
+      "language": "it",
+      "baseURL": "https://it.novelcool.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2431307934077353736",
+      "name": "NovelCool",
+      "language": "pt-BR",
+      "baseURL": "https://br.novelcool.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1619259951234748770",
+      "name": "NovelCool",
+      "language": "fr",
+      "baseURL": "https://fr.novelcool.com",
+      "mirrorURLs": []
+    }
+  ]
+}

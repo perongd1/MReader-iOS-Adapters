@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangaspa",
+  "name": "Manga SPA",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangaspa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2566686121922544500",
+      "name": "Manga SPA",
+      "language": "ja",
+      "baseURL": "https://mangaspa.nikkan-spa.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

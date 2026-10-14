@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.dflowscans",
+  "name": "DFlowScans",
+  "version": "1.4.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/dflowscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5731115645938971449",
+      "name": "DFlowScans",
+      "language": "en",
+      "baseURL": "https://dflow.alwaysdata.net",
+      "mirrorURLs": []
+    }
+  ]
+}

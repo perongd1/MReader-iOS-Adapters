@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.uchuujinprojects",
+  "name": "Uchuujin Projects",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/uchuujinprojects/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3953107753690791431",
+      "name": "Uchuujin Projects",
+      "language": "es",
+      "baseURL": "https://uchuujinmangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

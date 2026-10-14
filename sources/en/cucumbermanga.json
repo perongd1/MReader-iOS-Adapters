@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.cucumbermanga",
+  "name": "Cucumber Manga",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cucumbermanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3890119680043332770",
+      "name": "Cucumber Manga",
+      "language": "en",
+      "baseURL": "https://cucumbermanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

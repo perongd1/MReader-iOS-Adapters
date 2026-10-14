@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.hayacomic",
+  "name": "HAYA Comic",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/hayacomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5820719158683766054",
+      "name": "HAYA Comic",
+      "language": "ja",
+      "baseURL": "https://hayacomic.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komikindoid",
+  "name": "KomikIndoID",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikindoid/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5384836574731339537",
+      "name": "KomikIndoID",
+      "language": "id",
+      "baseURL": "https://komikindo.ch",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readblackclovermangaonline",
+  "name": "Read Black Clover Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangacatalog/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6485938153129890061",
+      "name": "Read Black Clover Manga Online",
+      "language": "en",
+      "baseURL": "https://ww10.readblackclover.com",
+      "mirrorURLs": []
+    }
+  ]
+}

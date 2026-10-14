@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.doujinmoon",
+  "name": "Doujin Moon",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/doujinmoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1953904877869380978",
+      "name": "Doujin Moon",
+      "language": "th",
+      "baseURL": "https://doujinmoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

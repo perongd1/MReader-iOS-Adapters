@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangagun",
+  "name": "NihonKuni",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangagun/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "fmreader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3811800324362294701",
+      "name": "NihonKuni",
+      "language": "ja",
+      "baseURL": "https://nihonkuni.com",
+      "mirrorURLs": []
+    }
+  ]
+}

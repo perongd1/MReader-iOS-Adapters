@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.minotruyen",
+  "name": "MinoTruyen",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/minotruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1911829101129863006",
+      "name": "MinoTruyen Manga",
+      "language": "vi",
+      "baseURL": "https://minotruyenv5.xyz",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3751671803647824606",
+      "name": "MinoTruyen Comics",
+      "language": "vi",
+      "baseURL": "https://minotruyenv5.xyz",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5865133728324986123",
+      "name": "MinoTruyen Hentai",
+      "language": "vi",
+      "baseURL": "https://minotruyenv5.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.areamanga",
+  "name": "Area Manga",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/areamanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8112280317896333809",
+      "name": "أريا مانجا",
+      "language": "ar",
+      "baseURL": "https://ar.kenmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

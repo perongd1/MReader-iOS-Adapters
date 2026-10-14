@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.nettruyens",
+  "name": "NetTruyenS (unoriginal)",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyens/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6085559443545258070",
+      "name": "NetTruyenS (unoriginal)",
+      "language": "vi",
+      "baseURL": "https://nettruyen14s.com",
+      "mirrorURLs": []
+    }
+  ]
+}

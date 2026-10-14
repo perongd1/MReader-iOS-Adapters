@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.inkapk",
+  "name": "Inkapk",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/inkapk/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8541224312340631016",
+      "name": "Inkapk",
+      "language": "pt-BR",
+      "baseURL": "https://inkapk.net",
+      "mirrorURLs": []
+    }
+  ]
+}

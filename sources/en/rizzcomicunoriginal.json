@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.rizzcomicunoriginal",
+  "name": "Rizz Comic (unoriginal)",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rizzcomicunoriginal/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8957809252307939773",
+      "name": "Rizz Comic (unoriginal)",
+      "language": "en",
+      "baseURL": "https://rizzcomic.com",
+      "mirrorURLs": []
+    }
+  ]
+}

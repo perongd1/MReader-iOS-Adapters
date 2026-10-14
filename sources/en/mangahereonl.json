@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangahereonl",
+  "name": "MangaHere.onl",
+  "version": "1.6.38",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3901872639081578162",
+      "name": "MangaHere.onl",
+      "language": "en",
+      "baseURL": "https://mangahere.onl",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.inkstory",
+  "name": "InkStory",
+  "version": "1.6.4",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/inkstory/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "inkstory",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2026387314200968454",
+      "name": "InkStory",
+      "language": "ru",
+      "baseURL": "https://inkstory.net",
+      "mirrorURLs": []
+    }
+  ]
+}

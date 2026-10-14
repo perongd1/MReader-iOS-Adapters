@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.jiuermanhua",
+  "name": "92Manhua",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/jiuermanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "sinmh",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1520913911854846698",
+      "name": "92漫画",
+      "language": "zh",
+      "baseURL": "http://www.92mh.com",
+      "mirrorURLs": []
+    }
+  ]
+}

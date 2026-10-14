@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.ichicomi",
+  "name": "Ichicomi",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ichicomi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2248461957459826404",
+      "name": "Ichicomi",
+      "language": "ja",
+      "baseURL": "https://ichicomi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

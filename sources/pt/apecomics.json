@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.apecomics",
+  "name": "Capitoons",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/apecomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangawork",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4475020039832513819",
+      "name": "Capitoons",
+      "language": "pt-BR",
+      "baseURL": "https://capitoons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.shiraiscans",
+  "name": "Shirai Scans",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/shiraiscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8366859060427643716",
+      "name": "Shirai Scans",
+      "language": "pt-BR",
+      "baseURL": "https://shiraixis.space",
+      "mirrorURLs": []
+    }
+  ]
+}

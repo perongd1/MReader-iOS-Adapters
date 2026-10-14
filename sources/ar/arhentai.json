@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.arhentai",
+  "name": "AR Hentai",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7652862112029693411",
+      "name": "آر هنتاي",
+      "language": "ar",
+      "baseURL": "https://arhentai.net",
+      "mirrorURLs": []
+    }
+  ]
+}

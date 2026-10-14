@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.manganyx",
+  "name": "Manga NXY",
+  "version": "1.6.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/manganyx/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "aurora",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5545056451990986567",
+      "name": "Manga NXY",
+      "language": "pt-BR",
+      "baseURL": "https://manganyx.com",
+      "mirrorURLs": []
+    }
+  ]
+}

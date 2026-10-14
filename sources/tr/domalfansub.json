@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.domalfansub",
+  "name": "Domal Fansub",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/domalfansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1807480150517467938",
+      "name": "Domal Fansub",
+      "language": "tr",
+      "baseURL": "https://dom4lfansub.online",
+      "mirrorURLs": []
+    }
+  ]
+}

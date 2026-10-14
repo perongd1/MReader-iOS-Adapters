@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kappabeast",
+  "name": "Kappa Beast",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kappabeast/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2598579144085032375",
+      "name": "Kappa Beast",
+      "language": "en",
+      "baseURL": "https://kappabeast.com",
+      "mirrorURLs": []
+    }
+  ]
+}

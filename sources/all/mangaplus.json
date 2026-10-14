@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.mangaplus",
+  "name": "MANGA Plus by SHUEISHA",
+  "version": "1.6.66",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangaplus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1998944621602463790",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "en",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1286073245950890830",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "es",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7642759409549978864",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "fr",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "932564577108614127",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "id",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3444662672352788181",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "pt-BR",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3520485566708512181",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "ru",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6345211913721743017",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "th",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4696259977267090434",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "vi",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1893513843840146580",
+      "name": "MANGA Plus by SHUEISHA",
+      "language": "de",
+      "baseURL": "https://mangaplus.shueisha.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

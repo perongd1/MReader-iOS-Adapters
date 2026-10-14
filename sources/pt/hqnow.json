@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hqnow",
+  "name": "HQ Now!",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hqnow/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1639829368022947378",
+      "name": "HQ Now!",
+      "language": "pt-BR",
+      "baseURL": "https://www.hq-now.com",
+      "mirrorURLs": []
+    }
+  ]
+}

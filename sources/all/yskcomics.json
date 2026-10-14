@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.yskcomics",
+  "name": "YSK Comics",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/yskcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9170389107417152397",
+      "name": "YSK Comics",
+      "language": "ar",
+      "baseURL": "https://www.ysk-comics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "177448809266948921",
+      "name": "YSK Comics",
+      "language": "en",
+      "baseURL": "https://www.ysk-comics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

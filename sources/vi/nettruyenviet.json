@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.nettruyenviet",
+  "name": "NetTruyenViet (unoriginal)",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyenviet/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3975552840628459451",
+      "name": "NetTruyenViet (unoriginal)",
+      "language": "vi",
+      "baseURL": "https://nettruyenviet10.com",
+      "mirrorURLs": []
+    }
+  ]
+}

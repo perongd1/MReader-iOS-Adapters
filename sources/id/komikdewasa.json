@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komikdewasa",
+  "name": "Komik Dewasa",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikdewasa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8753851309776247979",
+      "name": "Komik Dewasak",
+      "language": "id",
+      "baseURL": "https://komikdewasa.mom",
+      "mirrorURLs": []
+    }
+  ]
+}

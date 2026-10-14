@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.sektedoujin",
+  "name": "Sekte Doujin",
+  "version": "1.6.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/sektedoujin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7949854430526190429",
+      "name": "Sekte Doujin",
+      "language": "id",
+      "baseURL": "https://sektedoujin.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

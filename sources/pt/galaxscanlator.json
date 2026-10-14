@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.galaxscanlator",
+  "name": "GALAX Scans",
+  "version": "1.6.16",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/galaxscanlator/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5553519415877811746",
+      "name": "GALAX Scans",
+      "language": "pt-BR",
+      "baseURL": "https://galaxscanlator.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

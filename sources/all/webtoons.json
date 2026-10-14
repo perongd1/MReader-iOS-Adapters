@@ -1,0 +1,64 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.webtoons",
+  "name": "Webtoons.com",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/webtoons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2522335540328470744",
+      "name": "Webtoons.com",
+      "language": "en",
+      "baseURL": "https://www.webtoons.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8749627068478740298",
+      "name": "Webtoons.com",
+      "language": "id",
+      "baseURL": "https://www.webtoons.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3330861233813615504",
+      "name": "Webtoons.com",
+      "language": "th",
+      "baseURL": "https://www.webtoons.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8664735734660636295",
+      "name": "Webtoons.com",
+      "language": "es",
+      "baseURL": "https://www.webtoons.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8251758253314457060",
+      "name": "Webtoons.com",
+      "language": "fr",
+      "baseURL": "https://www.webtoons.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2959982438613576472",
+      "name": "Webtoons.com",
+      "language": "zh-Hant",
+      "baseURL": "https://www.webtoons.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1486822823904297379",
+      "name": "Webtoons.com",
+      "language": "de",
+      "baseURL": "https://www.webtoons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

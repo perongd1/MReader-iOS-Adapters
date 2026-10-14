@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.ohtawebcomic",
+  "name": "Ohta Web Comic",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ohtawebcomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1056568527385317039",
+      "name": "Ohta Web Comic",
+      "language": "ja",
+      "baseURL": "https://webcomic.ohtabooks.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwatoon",
+  "name": "Manhwa Toon",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwatoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3590279382085161370",
+      "name": "Manhwa Toon",
+      "language": "en",
+      "baseURL": "https://www.manhwatoon.me",
+      "mirrorURLs": []
+    }
+  ]
+}

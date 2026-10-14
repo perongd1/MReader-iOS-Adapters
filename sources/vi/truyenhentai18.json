@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyenhentai18",
+  "name": "Truyen Hentai 18+",
+  "version": "1.6.12",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyenhentai18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6484094278517548634",
+      "name": "Truyện Hentai 18+",
+      "language": "vi",
+      "baseURL": "https://truyenhentai18.net",
+      "mirrorURLs": []
+    }
+  ]
+}

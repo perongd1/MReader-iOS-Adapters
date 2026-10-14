@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.lunapieces",
+  "name": "Luna Pieces",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lunapieces/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "688847276247637882",
+      "name": "Luna Pieces",
+      "language": "es",
+      "baseURL": "https://lunapiecesfansub.com",
+      "mirrorURLs": []
+    }
+  ]
+}

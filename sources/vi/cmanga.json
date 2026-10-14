@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.cmanga",
+  "name": "CManga",
+  "version": "1.6.5",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/cmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5975790728262229465",
+      "name": "CManga",
+      "language": "vi",
+      "baseURL": "https://cmangax18.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.chochox",
+  "name": "ChoChoX",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/chochox/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "vercomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1434289653753200808",
+      "name": "ChoChoX",
+      "language": "es",
+      "baseURL": "https://chochox.com",
+      "mirrorURLs": []
+    }
+  ]
+}

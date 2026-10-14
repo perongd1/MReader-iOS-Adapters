@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.manhwabreakup",
+  "name": "ManhwaBreakup",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/manhwabreakup/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4798104006981431448",
+      "name": "ManhwaBreakup",
+      "language": "th",
+      "baseURL": "https://www.manhwabreakup.com",
+      "mirrorURLs": []
+    }
+  ]
+}

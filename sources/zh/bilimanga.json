@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.bilimanga",
+  "name": "BiliManga",
+  "version": "1.6.14",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/bilimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7289707411592168382",
+      "name": "嗶哩漫畫",
+      "language": "zh",
+      "baseURL": "https://www.bilimanga.net",
+      "mirrorURLs": []
+    }
+  ]
+}

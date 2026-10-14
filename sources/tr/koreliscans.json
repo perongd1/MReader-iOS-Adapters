@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.koreliscans",
+  "name": "Koreli Scans",
+  "version": "1.6.19",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/koreliscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1475942648540931708",
+      "name": "Koreli Scans",
+      "language": "tr",
+      "baseURL": "https://www.nabicix.com",
+      "mirrorURLs": []
+    }
+  ]
+}

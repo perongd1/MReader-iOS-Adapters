@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komikcast",
+  "name": "VoraToon",
+  "version": "1.6.86",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/voratoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "972717448578983812",
+      "name": "VoraToon",
+      "language": "id",
+      "baseURL": "https://v5.voratoon.com",
+      "mirrorURLs": []
+    }
+  ]
+}

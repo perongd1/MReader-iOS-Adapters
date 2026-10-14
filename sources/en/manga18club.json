@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manga18club",
+  "name": "Manga18.Club",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/manga18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manga18",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3436561761894030433",
+      "name": "Manga18.Club",
+      "language": "en",
+      "baseURL": "https://manga18.club",
+      "mirrorURLs": []
+    }
+  ]
+}

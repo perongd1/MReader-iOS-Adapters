@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.mangaworldadult",
+  "name": "MangaworldAdult",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangaworld/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangaworld",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "392961957042768607",
+      "name": "MangaworldAdult",
+      "language": "it",
+      "baseURL": "https://www.mangaworldadult.net",
+      "mirrorURLs": []
+    }
+  ]
+}

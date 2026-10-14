@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kenscans",
+  "name": "Ken Scans",
+  "version": "1.6.37",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kenscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "iken",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7831933086917318633",
+      "name": "Ken Scans",
+      "language": "en",
+      "baseURL": "https://kencomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

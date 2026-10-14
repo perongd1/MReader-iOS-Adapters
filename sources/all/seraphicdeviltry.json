@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.seraphicdeviltry",
+  "name": "SeraphicDeviltry",
+  "version": "1.6.57",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/seraphicdeviltry/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5395306515630347602",
+      "name": "SeraphicDeviltry",
+      "language": "en",
+      "baseURL": "https://seraphic-deviltry.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6626112947749020527",
+      "name": "SeraphicDeviltry",
+      "language": "es",
+      "baseURL": "https://spanish.seraphic-deviltry.com",
+      "mirrorURLs": []
+    }
+  ]
+}

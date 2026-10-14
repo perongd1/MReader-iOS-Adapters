@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.goda",
+  "name": "Goda",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/goda/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "goda",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4273874799952447458",
+      "name": "Goda",
+      "language": "en",
+      "baseURL": "https://manhuascans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

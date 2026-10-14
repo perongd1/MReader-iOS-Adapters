@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.ngomik",
+  "name": "Ngomik (unoriginal)",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ngomik/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5360960267485387879",
+      "name": "Ngomik (unoriginal)",
+      "language": "id",
+      "baseURL": "https://02.ngomik.cc",
+      "mirrorURLs": []
+    }
+  ]
+}

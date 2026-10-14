@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.leermanhwas",
+  "name": "LeerManhwas",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/leermanhwas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8701445043633550960",
+      "name": "LeerManhwas",
+      "language": "es",
+      "baseURL": "https://leermanhwas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.pixivcomic",
+  "name": "Pixiv Comic",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/pixivcomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2937751339618832603",
+      "name": "Pixivコミック",
+      "language": "ja",
+      "baseURL": "https://comic.pixiv.net",
+      "mirrorURLs": []
+    }
+  ]
+}

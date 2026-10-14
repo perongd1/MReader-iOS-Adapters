@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.corocoroonline",
+  "name": "Corocoro Online",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/corocoroonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7153368437486297689",
+      "name": "Corocoro Online",
+      "language": "ja",
+      "baseURL": "https://www.corocoro.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

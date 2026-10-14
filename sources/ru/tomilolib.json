@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.tomilolib",
+  "name": "Tomilo-lib",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/tomilolib/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7420534233267322527",
+      "name": "Tomilo-lib",
+      "language": "ru",
+      "baseURL": "https://tomilo-lib.ru",
+      "mirrorURLs": []
+    }
+  ]
+}

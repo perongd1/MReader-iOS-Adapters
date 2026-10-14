@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.rokaricomics",
+  "name": "RokariComics",
+  "version": "1.6.4",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rokaricomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "830150807344972132",
+      "name": "RokariComics",
+      "language": "en",
+      "baseURL": "https://rokaricomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

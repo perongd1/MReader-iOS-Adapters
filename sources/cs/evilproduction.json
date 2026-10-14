@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.cs.evilproduction",
+  "name": "Evil production",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/cs/evilproduction/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1108925046016173676",
+      "name": "Evil production",
+      "language": "cs",
+      "baseURL": "https://evil-manga.eu",
+      "mirrorURLs": []
+    }
+  ]
+}

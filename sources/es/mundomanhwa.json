@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.mundomanhwa",
+  "name": "Mundo Manhwa",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mundomanhwa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7121772696835562045",
+      "name": "Mundo Manhwa",
+      "language": "es",
+      "baseURL": "https://mundomanhwa.com",
+      "mirrorURLs": []
+    }
+  ]
+}

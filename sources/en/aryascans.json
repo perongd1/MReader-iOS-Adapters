@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.aryascans",
+  "name": "BrainRotComics",
+  "version": "1.6.58",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/brainrotcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7621724834621233483",
+      "name": "BrainRotComics",
+      "language": "en",
+      "baseURL": "https://brainrotcomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

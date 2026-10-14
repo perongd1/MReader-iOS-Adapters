@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.spicyscan",
+  "name": "Spicy Scan",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/spicyscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2665002677795338092",
+      "name": "Spicy Scan",
+      "language": "es",
+      "baseURL": "https://spicyseries.com",
+      "mirrorURLs": []
+    }
+  ]
+}

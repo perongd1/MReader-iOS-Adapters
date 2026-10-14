@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.manhwaonline",
+  "name": "ManhwaOnline",
+  "version": "1.6.57",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/manhwaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5414998368888208528",
+      "name": "ManhwaOnline",
+      "language": "es",
+      "baseURL": "https://manhwa-online.com",
+      "mirrorURLs": []
+    }
+  ]
+}

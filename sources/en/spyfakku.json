@@ -1,0 +1,26 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.spyfakku",
+  "name": "SpyFakku",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/spyfakku/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6202325652827735606",
+      "name": "SpyFakku",
+      "language": "en",
+      "baseURL": "https://hentalk.pw",
+      "mirrorURLs": [
+        "https://hentalk.pw",
+        "https://fakku.cc",
+        "https://fakkuonion.airdns.org:4096"
+      ]
+    }
+  ]
+}

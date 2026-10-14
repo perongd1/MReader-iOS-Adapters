@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.narasininja",
+  "name": "Narasi Ninja",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/narasininja/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4748581925941451102",
+      "name": "NarasiNinja",
+      "language": "id",
+      "baseURL": "https://narasininja.net",
+      "mirrorURLs": []
+    }
+  ]
+}

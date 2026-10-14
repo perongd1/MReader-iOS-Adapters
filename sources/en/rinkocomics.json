@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.rinkocomics",
+  "name": "Rinko Comics",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/rinkocomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4915548839286527736",
+      "name": "Rinko Comics",
+      "language": "en",
+      "baseURL": "https://rinkocomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

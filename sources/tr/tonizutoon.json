@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.tonizutoon",
+  "name": "TonizuToon",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tonizutoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5222101826721428426",
+      "name": "TonizuToon",
+      "language": "tr",
+      "baseURL": "https://tonizu.top",
+      "mirrorURLs": []
+    }
+  ]
+}

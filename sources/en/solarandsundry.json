@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.solarandsundry",
+  "name": "Solar and Sundry",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/solarandsundry/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7250486205199627024",
+      "name": "Solar and Sundry",
+      "language": "en",
+      "baseURL": "https://sas-api.fly.dev",
+      "mirrorURLs": []
+    }
+  ]
+}

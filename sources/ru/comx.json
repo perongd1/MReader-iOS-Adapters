@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.comx",
+  "name": "Com-X",
+  "version": "1.6.42",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/comx/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1114173092141608635",
+      "name": "Com-X",
+      "language": "ru",
+      "baseURL": "https://ru.com-x.life",
+      "mirrorURLs": [
+        "https://ru.com-x.life",
+        "https://com-x.life"
+      ]
+    }
+  ]
+}

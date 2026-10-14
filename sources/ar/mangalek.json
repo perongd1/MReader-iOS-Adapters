@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.mangalek",
+  "name": "Mangalek",
+  "version": "1.6.68",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangalek/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "918460697583900080",
+      "name": "مانجا ليك",
+      "language": "ar",
+      "baseURL": "https://mangalik.net",
+      "mirrorURLs": [
+        "https://mangalik.net",
+        "https://lekmanga.online",
+        "https://like-manga.net",
+        "https://lekmanga.site",
+        "https://manga-leko.site"
+      ]
+    }
+  ]
+}

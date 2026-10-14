@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.myhentaicomics",
+  "name": "MyHentaiComics",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/myhentaicomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4899971628155084225",
+      "name": "MyHentaiComics",
+      "language": "en",
+      "baseURL": "https://myhentaicomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

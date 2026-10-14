@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.luvevaland",
+  "name": "LuvEvaLand",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/luvevaland/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4980383988041274982",
+      "name": "LuvEvaLand",
+      "language": "vi",
+      "baseURL": "https://luvevalands2.co",
+      "mirrorURLs": []
+    }
+  ]
+}

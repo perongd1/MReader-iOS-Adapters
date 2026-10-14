@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.valirscans",
+  "name": "Valir Scans",
+  "version": "1.6.26",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/valirscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "vinetheme",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9114028255622294379",
+      "name": "Valir Scans",
+      "language": "en",
+      "baseURL": "https://valirscans.org",
+      "mirrorURLs": []
+    }
+  ]
+}

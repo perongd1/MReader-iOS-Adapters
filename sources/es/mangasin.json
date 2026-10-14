@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.mangasin",
+  "name": "Mangas.in",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/mangasin/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mmrcms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3344386250058668105",
+      "name": "Mangas.in",
+      "language": "es",
+      "baseURL": "https://m440.in",
+      "mirrorURLs": []
+    }
+  ]
+}

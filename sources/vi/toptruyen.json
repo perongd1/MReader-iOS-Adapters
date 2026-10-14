@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.toptruyen",
+  "name": "Top Truyen",
+  "version": "1.6.48",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/toptruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "wpcomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1166901607721102706",
+      "name": "Top Truyen",
+      "language": "vi",
+      "baseURL": "https://www.toptruyenzone12.com",
+      "mirrorURLs": []
+    }
+  ]
+}

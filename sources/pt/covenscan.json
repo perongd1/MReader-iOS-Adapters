@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.covenscan",
+  "name": "Coven Scan",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/covenscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5558728935088189480",
+      "name": "Coven Scan",
+      "language": "pt-BR",
+      "baseURL": "https://covendasbruxonas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

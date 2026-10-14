@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.ososedki",
+  "name": "OSOSEDKI",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/ososedki/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "703138310497011533",
+      "name": "OSOSEDKI",
+      "language": "all",
+      "baseURL": "https://ososedki.com",
+      "mirrorURLs": []
+    }
+  ]
+}

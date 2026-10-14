@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mangalivreto",
+  "name": "Manga Livre.to",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mangalivreto/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1281902081932329042",
+      "name": "Manga Livre.to",
+      "language": "pt-BR",
+      "baseURL": "https://mangalivre.to",
+      "mirrorURLs": []
+    }
+  ]
+}

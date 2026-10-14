@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.ragnarscans",
+  "name": "Ragnar Scans",
+  "version": "1.6.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/ragnarscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "initmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1571842183434448758",
+      "name": "Ragnar Scans",
+      "language": "tr",
+      "baseURL": "https://ragnarscans.net",
+      "mirrorURLs": []
+    }
+  ]
+}

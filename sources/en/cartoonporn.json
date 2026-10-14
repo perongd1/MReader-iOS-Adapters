@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.cartoonporn",
+  "name": "CartoonPorn",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/cartoonporn/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7034264791241222160",
+      "name": "CartoonPorn",
+      "language": "en",
+      "baseURL": "https://cartoonporn.to",
+      "mirrorURLs": []
+    }
+  ]
+}

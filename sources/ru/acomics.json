@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.acomics",
+  "name": "AComics",
+  "version": "1.6.9",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/acomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1396426423555611180",
+      "name": "AComics",
+      "language": "ru",
+      "baseURL": "https://acomics.ru",
+      "mirrorURLs": []
+    }
+  ]
+}

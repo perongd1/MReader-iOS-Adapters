@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.imanevilgod",
+  "name": "I'm An Evil God",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/imanevilgod/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7749515081735994760",
+      "name": "I'm An Evil God",
+      "language": "en",
+      "baseURL": "https://imanevilgod.com",
+      "mirrorURLs": []
+    }
+  ]
+}

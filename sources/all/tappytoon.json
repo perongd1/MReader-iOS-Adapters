@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.tappytoon",
+  "name": "Tappytoon",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/tappytoon/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7049142072741547166",
+      "name": "Tappytoon",
+      "language": "en",
+      "baseURL": "https://www.tappytoon.com/en",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8311223969496865438",
+      "name": "Tappytoon",
+      "language": "fr",
+      "baseURL": "https://www.tappytoon.com/fr",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8708489334089410870",
+      "name": "Tappytoon",
+      "language": "de",
+      "baseURL": "https://www.tappytoon.com/de",
+      "mirrorURLs": []
+    }
+  ]
+}

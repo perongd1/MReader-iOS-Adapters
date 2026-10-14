@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.begatranslation",
+  "name": "Bega Translation",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/begatranslation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6757330205319558057",
+      "name": "Bega Translation",
+      "language": "es",
+      "baseURL": "https://begatranslation.com",
+      "mirrorURLs": []
+    }
+  ]
+}

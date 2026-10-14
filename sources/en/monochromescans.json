@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.monochromescans",
+  "name": "Monochrome Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/monochrome/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "monochrome",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6808348229250819000",
+      "name": "Monochrome Scans",
+      "language": "en",
+      "baseURL": "https://manga.d34d.one",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.hentaicrot",
+  "name": "Hentai Crot",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/hentaicrot/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "oceanwp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1764268677652741702",
+      "name": "Hentai Crot",
+      "language": "id",
+      "baseURL": "https://hentaicrot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

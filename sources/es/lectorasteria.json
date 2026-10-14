@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.lectorasteria",
+  "name": "Lector Asteria",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectorasteria/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "moonlighttl",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "698506559036250327",
+      "name": "Lector Asteria",
+      "language": "es",
+      "baseURL": "https://visor.chifa-tong.online",
+      "mirrorURLs": []
+    }
+  ]
+}

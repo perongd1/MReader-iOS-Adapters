@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hotcabaretscan",
+  "name": "Hot Cabaret Scan",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hotcabaretscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8778000927023046626",
+      "name": "Hot Cabaret Scan",
+      "language": "pt-BR",
+      "baseURL": "https://hotcabaretscan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

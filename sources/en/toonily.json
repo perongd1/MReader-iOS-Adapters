@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.toonily",
+  "name": "Toonily",
+  "version": "1.6.72",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/toonily/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5190569675461947007",
+      "name": "Toonily",
+      "language": "en",
+      "baseURL": "https://toonily.com",
+      "mirrorURLs": []
+    }
+  ]
+}

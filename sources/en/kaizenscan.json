@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kaizenscan",
+  "name": "Kaizen Scan",
+  "version": "1.6.22",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kaizenscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1145415569668934781",
+      "name": "Kaizen Scan",
+      "language": "en",
+      "baseURL": "https://kaizenscan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

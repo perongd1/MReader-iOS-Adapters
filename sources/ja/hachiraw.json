@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.hachiraw",
+  "name": "Hachiraw",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/hachiraw/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8574043921162024664",
+      "name": "Hachiraw",
+      "language": "ja",
+      "baseURL": "https://hachiraw.net",
+      "mirrorURLs": []
+    }
+  ]
+}

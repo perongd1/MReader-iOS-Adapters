@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.armageddon",
+  "name": "SilentQuill",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/silentquill/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3696994059835859589",
+      "name": "SilentQuill",
+      "language": "en",
+      "baseURL": "https://silentquill.net",
+      "mirrorURLs": []
+    }
+  ]
+}

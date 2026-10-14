@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangafreak",
+  "name": "Mangafreak",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangafreak/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1201694572804778862",
+      "name": "Mangafreak",
+      "language": "en",
+      "baseURL": "https://ww3.mangafreak.me",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.arabshentai",
+  "name": "Arabs Hentai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/arabshentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3472625749271868375",
+      "name": "هنتاي العرب",
+      "language": "ar",
+      "baseURL": "https://arabshentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

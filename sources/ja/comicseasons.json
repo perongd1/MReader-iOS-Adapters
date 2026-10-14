@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicseasons",
+  "name": "Comic Seasons",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicseasons/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5198063407173750376",
+      "name": "Comic Seasons",
+      "language": "ja",
+      "baseURL": "https://comic-seasons.com",
+      "mirrorURLs": []
+    }
+  ]
+}

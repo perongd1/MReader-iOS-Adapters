@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.beauty3600000",
+  "name": "3600000 Beauty",
+  "version": "1.4.6",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/beauty3600000/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5498091984644576825",
+      "name": "3600000 Beauty",
+      "language": "all",
+      "baseURL": "https://3600000.xyz",
+      "mirrorURLs": []
+    }
+  ]
+}

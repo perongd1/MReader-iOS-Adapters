@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.zebrack",
+  "name": "Zebrack",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/zebrack/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1426538841423697673",
+      "name": "Zebrack",
+      "language": "ja",
+      "baseURL": "https://zebrack-comic.shueisha.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

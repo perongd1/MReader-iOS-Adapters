@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.anzmanga",
+  "name": "AnzManga",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/anzmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mmrcms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7374498796507972405",
+      "name": "AnzManga",
+      "language": "es",
+      "baseURL": "https://www.anzmanga25.com",
+      "mirrorURLs": []
+    }
+  ]
+}

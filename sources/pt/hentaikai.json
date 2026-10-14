@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hentaikai",
+  "name": "Hentai Kai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/hentaikai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8041889466081243774",
+      "name": "Hentai Kai",
+      "language": "pt",
+      "baseURL": "https://hentaikai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,78 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.toomics",
+  "name": "Toomics",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/toomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7004582542854505662",
+      "name": "Toomics (Only free chapters)",
+      "language": "en",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2191753978421234924",
+      "name": "Toomics (Only free chapters)",
+      "language": "zh-Hans",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "371640888113435809",
+      "name": "Toomics (Only free chapters)",
+      "language": "zh-Hant",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7362369816539610504",
+      "name": "Toomics (Only free chapters)",
+      "language": "es-419",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4863693274136077953",
+      "name": "Toomics (Only free chapters)",
+      "language": "es",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7652402685655897221",
+      "name": "Toomics (Only free chapters)",
+      "language": "it",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4230797637510582729",
+      "name": "Toomics (Only free chapters)",
+      "language": "de",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2289891939341407590",
+      "name": "Toomics (Only free chapters)",
+      "language": "fr",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4488498756724948818",
+      "name": "Toomics (Only free chapters)",
+      "language": "pt-BR",
+      "baseURL": "https://global.toomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.mangastarz",
+  "name": "Manga Starz",
+  "version": "1.6.65",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/mangastarz/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6058166507489091982",
+      "name": "Manga Starz",
+      "language": "ar",
+      "baseURL": "https://starzmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

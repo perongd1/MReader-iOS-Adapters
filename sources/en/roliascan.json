@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.roliascan",
+  "name": "Rolia Scan",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/roliascan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangataro",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3390167717659783669",
+      "name": "Rolia Scan",
+      "language": "en",
+      "baseURL": "https://roliascan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

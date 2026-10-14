@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.peppercarrot",
+  "name": "Pepper&Carrot",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/peppercarrot/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "279282683217001983",
+      "name": "Pepper&Carrot",
+      "language": "all",
+      "baseURL": "https://www.peppercarrot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.koinoboriscan",
+  "name": "Koinobori Scan",
+  "version": "1.4.40",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/koinoboriscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5873846881094044177",
+      "name": "Koinobori Scan",
+      "language": "es",
+      "baseURL": "https://visorkoi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

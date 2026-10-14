@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.webcomics",
+  "name": "Webcomics",
+  "version": "1.6.11",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/webcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5830834696627804450",
+      "name": "Webcomics",
+      "language": "en",
+      "baseURL": "https://webcomicsapp.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5885774493166465039",
+      "name": "Webcomics",
+      "language": "fr",
+      "baseURL": "https://webcomicsapp.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3396104446323720599",
+      "name": "Webcomics",
+      "language": "pt",
+      "baseURL": "https://webcomicsapp.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8965174723997547979",
+      "name": "Webcomics",
+      "language": "es",
+      "baseURL": "https://webcomicsapp.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1203016038113719139",
+      "name": "Webcomics",
+      "language": "id",
+      "baseURL": "https://webcomicsapp.com",
+      "mirrorURLs": []
+    }
+  ]
+}

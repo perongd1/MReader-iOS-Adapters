@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.sssscanlator",
+  "name": "Yomu Comics",
+  "version": "1.6.60",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/sssscanlator/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1497838059713668619",
+      "name": "Yomu Comics",
+      "language": "pt-BR",
+      "baseURL": "https://yomu.com.br",
+      "mirrorURLs": []
+    }
+  ]
+}

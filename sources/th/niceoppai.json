@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.niceoppai",
+  "name": "Niceoppai",
+  "version": "1.6.30",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/niceoppai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7720269837249664423",
+      "name": "Niceoppai",
+      "language": "th",
+      "baseURL": "https://www.niceoppai.net",
+      "mirrorURLs": []
+    }
+  ]
+}

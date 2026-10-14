@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.truyentranhdammy",
+  "name": "Truyen tranh dam my",
+  "version": "1.6.58",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/truyentranhdammy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3809566188515992024",
+      "name": "Truyện tranh đam mỹ",
+      "language": "vi",
+      "baseURL": "https://truyentranhdammyy.site",
+      "mirrorURLs": []
+    }
+  ]
+}

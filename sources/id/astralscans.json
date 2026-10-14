@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.astralscans",
+  "name": "Astral Scans",
+  "version": "1.6.8",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/astralscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "829250309114015686",
+      "name": "Astral Scans",
+      "language": "id",
+      "baseURL": "https://astralscans.site",
+      "mirrorURLs": []
+    }
+  ]
+}

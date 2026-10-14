@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.tumanhwasclub",
+  "name": "ManhwasMe",
+  "version": "1.4.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/tumanhwasclub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8004442288770923365",
+      "name": "ManhwasMe",
+      "language": "es",
+      "baseURL": "https://manhwas.me",
+      "mirrorURLs": []
+    }
+  ]
+}

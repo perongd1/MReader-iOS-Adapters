@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.ngamenkomik",
+  "name": "NgamenKomik",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/ngamenkomik/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4607768416266139943",
+      "name": "NgamenKomik",
+      "language": "id",
+      "baseURL": "https://ngamenkomik05.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

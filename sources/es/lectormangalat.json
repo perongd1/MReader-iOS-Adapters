@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.lectormangalat",
+  "name": "LectorManga.lat",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/lectormangalat/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7178038133263703638",
+      "name": "LectorManga.lat",
+      "language": "es",
+      "baseURL": "https://lector-mangas.lat",
+      "mirrorURLs": []
+    }
+  ]
+}

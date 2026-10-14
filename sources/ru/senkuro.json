@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.senkuro",
+  "name": "Senkuro",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/senkuro/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "senkuro",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1452500215874655811",
+      "name": "Senkuro",
+      "language": "ru",
+      "baseURL": "https://senkuro.me",
+      "mirrorURLs": [
+        "https://senkuro.me",
+        "https://senkuro.com"
+      ]
+    }
+  ]
+}

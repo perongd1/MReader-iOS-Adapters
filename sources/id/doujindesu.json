@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.doujindesu",
+  "name": "Doujindesu",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/doujindesu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7704282043609669342",
+      "name": "Doujindesu",
+      "language": "id",
+      "baseURL": "https://doujin.desu.xxx",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.raijinscans",
+  "name": "Raijin Scans",
+  "version": "1.4.68",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/raijinscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8373267671495516033",
+      "name": "Raijin Scans",
+      "language": "fr",
+      "baseURL": "https://raijin-scans.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

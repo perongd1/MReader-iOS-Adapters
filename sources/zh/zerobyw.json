@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.zerobyw",
+  "name": "Zerobyw",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/zerobyw/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8743284448117690086",
+      "name": "zero搬运网",
+      "language": "zh",
+      "baseURL": "http://www.zerobyw33.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.cartoon18",
+  "name": "Cartoon18",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/cartoon18/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "28664779574072063",
+      "name": "Cartoon18",
+      "language": "zh",
+      "baseURL": "https://www.cartoon18.com",
+      "mirrorURLs": []
+    }
+  ]
+}

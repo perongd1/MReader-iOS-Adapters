@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.nhentaiclub",
+  "name": "NhentaiClub",
+  "version": "1.6.4",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nhentaiclub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9124366814387777661",
+      "name": "NhentaiClub",
+      "language": "vi",
+      "baseURL": "https://nhentaiclub.online",
+      "mirrorURLs": []
+    }
+  ]
+}

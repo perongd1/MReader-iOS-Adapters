@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.tsundokutraducoes",
+  "name": "Tsundoku Traduções",
+  "version": "1.6.10",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/tsundokutraducoes/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2091088265283814173",
+      "name": "Tsundoku Traduções",
+      "language": "pt-BR",
+      "baseURL": "https://tsundoku.com.br",
+      "mirrorURLs": []
+    }
+  ]
+}

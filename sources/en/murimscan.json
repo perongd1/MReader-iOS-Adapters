@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.murimscan",
+  "name": "MurimScan",
+  "version": "1.6.50",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/murimscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5524031489110351257",
+      "name": "MurimScan",
+      "language": "en",
+      "baseURL": "https://www.murimscans.site",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.boylove",
+  "name": "BoyLove",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/boylove/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1471112097704477289",
+      "name": "香香腐宅",
+      "language": "zh",
+      "baseURL": "https://boylove.cc",
+      "mirrorURLs": [
+        "https://boylove.cc",
+        "https://boylove4.xyz"
+      ]
+    }
+  ]
+}

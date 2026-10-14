@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.temakimangas",
+  "name": "Temaki mangás",
+  "version": "1.6.14",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/temakimangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "677370205708439700",
+      "name": "Temaki mangás",
+      "language": "pt-BR",
+      "baseURL": "https://temakimangas.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

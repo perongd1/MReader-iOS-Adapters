@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangaonlinefun",
+  "name": "MangaOnline.fun",
+  "version": "1.6.38",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5320360676060919240",
+      "name": "MangaOnline.fun",
+      "language": "en",
+      "baseURL": "https://mangaonline.fun",
+      "mirrorURLs": []
+    }
+  ]
+}

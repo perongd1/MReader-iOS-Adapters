@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.manhuawu",
+  "name": "Manhuawu",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/manhuawu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mccms",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3279300917142951720",
+      "name": "漫画屋",
+      "language": "zh",
+      "baseURL": "https://www.mhua5.com",
+      "mirrorURLs": []
+    }
+  ]
+}

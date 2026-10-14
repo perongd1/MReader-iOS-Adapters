@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mlbblore",
+  "name": "MLBB Lore",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mlbblore/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1211137741907860722",
+      "name": "MLBB Lore Comics",
+      "language": "en",
+      "baseURL": "https://play.mobilelegends.com",
+      "mirrorURLs": []
+    }
+  ]
+}

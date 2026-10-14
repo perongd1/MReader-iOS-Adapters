@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.limonmanga",
+  "name": "Limon Manga",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/limonmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "uzaymanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7878720572813992644",
+      "name": "Limon Manga",
+      "language": "tr",
+      "baseURL": "https://limonmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

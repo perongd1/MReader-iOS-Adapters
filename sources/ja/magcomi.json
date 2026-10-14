@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.magcomi",
+  "name": "MAGCOMI",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/magcomi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8643773902904736600",
+      "name": "MAGCOMI",
+      "language": "ja",
+      "baseURL": "https://magcomi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

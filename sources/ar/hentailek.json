@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.hentailek",
+  "name": "Hentai Lek",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/hentailek/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1258840903039841012",
+      "name": "هنتاي ليك",
+      "language": "ar",
+      "baseURL": "https://hentailek.com",
+      "mirrorURLs": []
+    }
+  ]
+}

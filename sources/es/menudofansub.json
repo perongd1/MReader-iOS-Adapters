@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.menudofansub",
+  "name": "Menudo-Fansub",
+  "version": "1.6.7",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/menudofansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "foolslide",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3505996597464989970",
+      "name": "Menudo-Fansub",
+      "language": "es",
+      "baseURL": "https://www.menudo-fansub.com",
+      "mirrorURLs": []
+    }
+  ]
+}

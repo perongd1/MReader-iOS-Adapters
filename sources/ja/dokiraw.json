@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.dokiraw",
+  "name": "Dokiraw",
+  "version": "1.6.15",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/dokiraw/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3967449247820755680",
+      "name": "Dokiraw",
+      "language": "ja",
+      "baseURL": "https://dokiraw.click",
+      "mirrorURLs": []
+    }
+  ]
+}

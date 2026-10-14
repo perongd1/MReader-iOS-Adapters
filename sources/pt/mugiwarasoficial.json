@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.mugiwarasoficial",
+  "name": "Mugiwaras Oficial",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/mugiwarasoficial/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "aurora",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5560103996308474844",
+      "name": "Mugiwaras Oficial",
+      "language": "pt-BR",
+      "baseURL": "https://mugiwarasoficial.org",
+      "mirrorURLs": []
+    }
+  ]
+}

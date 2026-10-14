@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.monopolyscan",
+  "name": "Monopoly Scan",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/monopolyscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5862188113261788590",
+      "name": "Monopoly Scan",
+      "language": "es",
+      "baseURL": "https://monopolymanhua.com",
+      "mirrorURLs": []
+    }
+  ]
+}

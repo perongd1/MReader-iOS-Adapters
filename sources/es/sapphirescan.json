@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.sapphirescan",
+  "name": "SapphireScan",
+  "version": "1.6.54",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/sapphirescan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8955531858664387570",
+      "name": "SapphireScan",
+      "language": "es",
+      "baseURL": "https://www.sapphirescan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

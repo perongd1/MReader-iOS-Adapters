@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.hv2tcomics",
+  "name": "Học Viện 2Ten",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/hv2tcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8944173268012372984",
+      "name": "Học Viện 2Ten",
+      "language": "vi",
+      "baseURL": "https://hv2tcomics.net",
+      "mirrorURLs": []
+    }
+  ]
+}

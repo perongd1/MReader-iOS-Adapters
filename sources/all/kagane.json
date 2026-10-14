@@ -1,0 +1,141 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.kagane",
+  "name": "Kagane",
+  "version": "1.6.31",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/kagane/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4024736764982024684",
+      "name": "Kagane",
+      "language": "en",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1157710231944574609",
+      "name": "Kagane",
+      "language": "ja",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1720654391539317254",
+      "name": "Kagane",
+      "language": "ko",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "538178062602483073",
+      "name": "Kagane",
+      "language": "zh",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6291099060619088371",
+      "name": "Kagane",
+      "language": "es",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3249170492103400191",
+      "name": "Kagane",
+      "language": "es-419",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6053574930456302165",
+      "name": "Kagane",
+      "language": "fr",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "253007717341293260",
+      "name": "Kagane",
+      "language": "de",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3281832279225761326",
+      "name": "Kagane",
+      "language": "pt",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8929946374100381402",
+      "name": "Kagane",
+      "language": "pt-BR",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8751507648303673848",
+      "name": "Kagane",
+      "language": "ru",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1471532184931679941",
+      "name": "Kagane",
+      "language": "it",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7702420917357144001",
+      "name": "Kagane",
+      "language": "id",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8791972639916297003",
+      "name": "Kagane",
+      "language": "vi",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2006734767320263070",
+      "name": "Kagane",
+      "language": "th",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1008382500205235233",
+      "name": "Kagane",
+      "language": "pl",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9016992318016575502",
+      "name": "Kagane",
+      "language": "hi",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7861921616625741963",
+      "name": "Kagane",
+      "language": "ar",
+      "baseURL": "https://kagane.to",
+      "mirrorURLs": []
+    }
+  ]
+}

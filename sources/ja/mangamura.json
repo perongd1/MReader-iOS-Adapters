@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangamura",
+  "name": "Manga Mura",
+  "version": "1.6.6",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangamura/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1006356371941619891",
+      "name": "Manga Mura",
+      "language": "ja",
+      "baseURL": "https://mangamura.me",
+      "mirrorURLs": []
+    }
+  ]
+}

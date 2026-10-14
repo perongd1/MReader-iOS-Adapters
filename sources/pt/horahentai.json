@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.horahentai",
+  "name": "Hora Hentai",
+  "version": "1.6.2",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/horahentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "542325806354392983",
+      "name": "Hora Hentai",
+      "language": "pt-BR",
+      "baseURL": "https://horahentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

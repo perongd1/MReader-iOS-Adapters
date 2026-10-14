@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readattackontitanshingekinokyojinmanga",
+  "name": "Read Attack on Titan Shingeki no Kyojin Manga",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readattackontitanshingekinokyojinmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8930801332831394412",
+      "name": "Read Attack on Titan Shingeki no Kyojin Manga",
+      "language": "en",
+      "baseURL": "https://ww12.readsnk.com",
+      "mirrorURLs": []
+    }
+  ]
+}

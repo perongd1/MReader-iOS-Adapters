@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.moetruyen",
+  "name": "MoeTruyen",
+  "version": "1.6.19",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/moetruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8689080191405841403",
+      "name": "MoeTruyen",
+      "language": "vi",
+      "baseURL": "https://moetruyen.net",
+      "mirrorURLs": [
+        "https://moetruyen.net",
+        "https://truyen.moe"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komiktap",
+  "name": "Komiktap",
+  "version": "1.6.4",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komiktap/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8162933120097302217",
+      "name": "Komiktap",
+      "language": "id",
+      "baseURL": "https://komiktap.info",
+      "mirrorURLs": []
+    }
+  ]
+}

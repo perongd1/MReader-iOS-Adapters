@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.ynjn",
+  "name": "Young Jump+",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ynjn/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3322701627784242064",
+      "name": "Young Jump+",
+      "language": "ja",
+      "baseURL": "https://ynjn.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

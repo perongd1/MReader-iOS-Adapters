@@ -1,0 +1,57 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.thelibraryofohara",
+  "name": "The Library of Ohara",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/thelibraryofohara/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4379246890416497052",
+      "name": "The Library of Ohara",
+      "language": "id",
+      "baseURL": "https://thelibraryofohara.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2727140669803764425",
+      "name": "The Library of Ohara",
+      "language": "en",
+      "baseURL": "https://thelibraryofohara.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1081764220356482621",
+      "name": "The Library of Ohara",
+      "language": "es",
+      "baseURL": "https://thelibraryofohara.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "282587253597010652",
+      "name": "The Library of Ohara",
+      "language": "it",
+      "baseURL": "https://thelibraryofohara.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8205252065972088770",
+      "name": "The Library of Ohara",
+      "language": "ar",
+      "baseURL": "https://thelibraryofohara.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7219503638837099253",
+      "name": "The Library of Ohara",
+      "language": "fr",
+      "baseURL": "https://thelibraryofohara.com",
+      "mirrorURLs": []
+    }
+  ]
+}

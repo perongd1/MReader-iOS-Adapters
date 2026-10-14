@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.yellownote",
+  "name": "YellowNote",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/yellownote/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "170542391855030753",
+      "name": "小黄书",
+      "language": "zh-Hans",
+      "baseURL": "https://xchina.co",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4899554363948814001",
+      "name": "小黄书",
+      "language": "zh-Hant",
+      "baseURL": "https://tw.xchina.co",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6844007153169388830",
+      "name": "小黄书",
+      "language": "en",
+      "baseURL": "https://en.xchina.co",
+      "mirrorURLs": []
+    },
+    {
+      "id": "385228898502560286",
+      "name": "小黄书",
+      "language": "es",
+      "baseURL": "https://es.xchina.co",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7263133157381353850",
+      "name": "小黄书",
+      "language": "ko",
+      "baseURL": "https://kr.xchina.co",
+      "mirrorURLs": []
+    }
+  ]
+}

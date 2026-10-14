@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.zazamanga",
+  "name": "Zazamanga",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/zazamanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1264036757248780997",
+      "name": "Zazamanga",
+      "language": "en",
+      "baseURL": "https://www.zazamanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

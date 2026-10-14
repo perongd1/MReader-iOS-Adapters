@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.cubari",
+  "name": "Cubari",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/cubari/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6338219619148105941",
+      "name": "Cubari",
+      "language": "en",
+      "baseURL": "https://cubari.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1470847599087460255",
+      "name": "Cubari",
+      "language": "all",
+      "baseURL": "https://cubari.moe",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2013845246758512290",
+      "name": "Cubari",
+      "language": "other",
+      "baseURL": "https://cubari.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.hattoriscans",
+  "name": "Hattori Scans",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/hattoriscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6626267008161352237",
+      "name": "Hattori Scans",
+      "language": "tr",
+      "baseURL": "https://hattoriscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

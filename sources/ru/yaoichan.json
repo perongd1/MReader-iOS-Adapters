@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.yaoichan",
+  "name": "YaoiChan",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/yaoichan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "multichan",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2466512768990363955",
+      "name": "YaoiChan",
+      "language": "ru",
+      "baseURL": "https://yaoi-chan.me",
+      "mirrorURLs": []
+    }
+  ]
+}

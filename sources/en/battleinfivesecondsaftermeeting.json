@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.battleinfivesecondsaftermeeting",
+  "name": "Battle In 5 Seconds After Meeting",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/battleinfivesecondsaftermeeting/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2529980242070778875",
+      "name": "Battle In 5 Seconds After Meeting",
+      "language": "en",
+      "baseURL": "https://www.deatte5.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.vihentai",
+  "name": "ViHentai",
+  "version": "1.6.5",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/vihentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4004369226840135398",
+      "name": "ViHentai",
+      "language": "vi",
+      "baseURL": "https://vi-hentai.moe",
+      "mirrorURLs": [
+        "https://vi-hentai.moe",
+        "https://vi-hentai.pro"
+      ]
+    }
+  ]
+}

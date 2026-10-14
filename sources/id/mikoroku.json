@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.mikoroku",
+  "name": "MikoRoku",
+  "version": "1.6.22",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/mikoroku/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6023755854762172558",
+      "name": "MikoRoku",
+      "language": "id",
+      "baseURL": "https://mikoroku.com",
+      "mirrorURLs": []
+    }
+  ]
+}

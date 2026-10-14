@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicgardo",
+  "name": "Comic Gardo",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicgardo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3118962894631295374",
+      "name": "Comic Gardo",
+      "language": "ja",
+      "baseURL": "https://comic-gardo.com",
+      "mirrorURLs": []
+    }
+  ]
+}

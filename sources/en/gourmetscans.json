@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.gourmetscans",
+  "name": "Gourmet Scans",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gourmetscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3694940277826033657",
+      "name": "Gourmet Scans",
+      "language": "en",
+      "baseURL": "https://gourmetsupremacy.com",
+      "mirrorURLs": []
+    }
+  ]
+}

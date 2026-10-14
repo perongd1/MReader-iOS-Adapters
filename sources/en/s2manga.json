@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.s2manga",
+  "name": "S2Manga",
+  "version": "1.6.60",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/s2manga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4870917758913494428",
+      "name": "S2Manga",
+      "language": "en",
+      "baseURL": "https://s2read.com",
+      "mirrorURLs": []
+    }
+  ]
+}

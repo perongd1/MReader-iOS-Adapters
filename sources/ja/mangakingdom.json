@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.mangakingdom",
+  "name": "Manga Kingdom",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/mangakingdom/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3806352284314527898",
+      "name": "Manga Kingdom",
+      "language": "ja",
+      "baseURL": "https://comic.k-manga.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

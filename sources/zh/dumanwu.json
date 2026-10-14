@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.dumanwu",
+  "name": "Dumanwu",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/dumanwu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mmlook",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7167507050606280098",
+      "name": "读漫屋",
+      "language": "zh",
+      "baseURL": "https://m.dumanwu1.com",
+      "mirrorURLs": []
+    }
+  ]
+}

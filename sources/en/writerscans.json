@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.writerscans",
+  "name": "Writer Scans",
+  "version": "1.6.22",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/writerscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "561830040001881975",
+      "name": "Writer Scans",
+      "language": "en",
+      "baseURL": "https://writerscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

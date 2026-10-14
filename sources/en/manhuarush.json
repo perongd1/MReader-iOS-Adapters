@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhuarush",
+  "name": "Manhua Rush",
+  "version": "1.4.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhuarush/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5670748624310603730",
+      "name": "Manhua Rush",
+      "language": "en",
+      "baseURL": "https://manhuarush.vercel.app",
+      "mirrorURLs": []
+    }
+  ]
+}

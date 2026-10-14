@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.acervoeremita",
+  "name": "AcervoEremita",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/acervoeremita/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7769570061083458124",
+      "name": "AcervoEremita",
+      "language": "pt-BR",
+      "baseURL": "https://acervoeremita.com",
+      "mirrorURLs": []
+    }
+  ]
+}

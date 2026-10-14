@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.komiic",
+  "name": "Komiic",
+  "version": "1.6.10",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/komiic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "792932060924485302",
+      "name": "Komiic",
+      "language": "zh",
+      "baseURL": "https://komiic.com",
+      "mirrorURLs": [
+        "https://komiic.com",
+        "https://komiic.cc"
+      ]
+    }
+  ]
+}

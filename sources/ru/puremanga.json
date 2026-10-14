@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.puremanga",
+  "name": "PureManga",
+  "version": "1.6.4",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/puremanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "inkstory",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "501392872283294667",
+      "name": "PureManga",
+      "language": "ru",
+      "baseURL": "https://v1.puremanga.me",
+      "mirrorURLs": []
+    }
+  ]
+}

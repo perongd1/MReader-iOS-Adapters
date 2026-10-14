@@ -1,0 +1,274 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.dragonballmultiverse",
+  "name": "Dragon Ball Multiverse",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/dragonballmultiverse/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5855032551259176250",
+      "name": "Dragon Ball Multiverse",
+      "language": "en",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7989144075938821809",
+      "name": "Dragon Ball Multiverse",
+      "language": "fr",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2033023429560344772",
+      "name": "Dragon Ball Multiverse",
+      "language": "ja",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4903395296014438593",
+      "name": "Dragon Ball Multiverse",
+      "language": "zh",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2743233241005498558",
+      "name": "Dragon Ball Multiverse",
+      "language": "es",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8107468051584194246",
+      "name": "Dragon Ball Multiverse",
+      "language": "it",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5511951724437637256",
+      "name": "Dragon Ball Multiverse",
+      "language": "pt",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7576053878109850761",
+      "name": "Dragon Ball Multiverse",
+      "language": "de",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8371548443782837856",
+      "name": "Dragon Ball Multiverse",
+      "language": "pl",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5007169057258882420",
+      "name": "Dragon Ball Multiverse",
+      "language": "nl",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7492246554765916610",
+      "name": "Dragon Ball Multiverse",
+      "language": "tr",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1618337326936347760",
+      "name": "Dragon Ball Multiverse",
+      "language": "pt-BR",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "525585394857906081",
+      "name": "Dragon Ball Multiverse",
+      "language": "hu",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4704003050199034697",
+      "name": "Dragon Ball Multiverse",
+      "language": "ga",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8851885792094862644",
+      "name": "Dragon Ball Multiverse",
+      "language": "ca",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6890714885948456521",
+      "name": "Dragon Ball Multiverse",
+      "language": "no",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7944056408443917590",
+      "name": "Dragon Ball Multiverse",
+      "language": "ru",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2620385605605077513",
+      "name": "Dragon Ball Multiverse",
+      "language": "ro",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5961569572141989337",
+      "name": "Dragon Ball Multiverse",
+      "language": "eu",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5710504167796125606",
+      "name": "Dragon Ball Multiverse",
+      "language": "lt",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8978307150219982189",
+      "name": "Dragon Ball Multiverse",
+      "language": "hr",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2035574753584485369",
+      "name": "Dragon Ball Multiverse",
+      "language": "ko",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3125099729987730580",
+      "name": "Dragon Ball Multiverse",
+      "language": "fi",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5131201512681860705",
+      "name": "Dragon Ball Multiverse",
+      "language": "he",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4845919081798207608",
+      "name": "Dragon Ball Multiverse",
+      "language": "bg",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1446884092638094471",
+      "name": "Dragon Ball Multiverse",
+      "language": "sv",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "9218696211252404910",
+      "name": "Dragon Ball Multiverse",
+      "language": "el",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4156406679136971778",
+      "name": "Dragon Ball Multiverse",
+      "language": "es-419",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3744905183009204736",
+      "name": "Dragon Ball Multiverse",
+      "language": "ar",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3217346477673086342",
+      "name": "Dragon Ball Multiverse",
+      "language": "fil",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4102859909531263289",
+      "name": "Dragon Ball Multiverse",
+      "language": "la",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3145772760974227844",
+      "name": "Dragon Ball Multiverse",
+      "language": "da",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8542101819541236153",
+      "name": "Dragon Ball Multiverse",
+      "language": "co",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "1106049048608045535",
+      "name": "Dragon Ball Multiverse",
+      "language": "br",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6824599919928625662",
+      "name": "Dragon Ball Multiverse",
+      "language": "vec",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "8795012289956874023",
+      "name": "Dragon Ball Multiverse",
+      "language": "lmo",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5582703984897222132",
+      "name": "Dragon Ball Multiverse Parody",
+      "language": "fr",
+      "baseURL": "https://www.dragonball-multiverse.com",
+      "mirrorURLs": []
+    }
+  ]
+}

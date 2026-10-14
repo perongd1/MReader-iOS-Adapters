@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.kuragebunch",
+  "name": "Kurage Bunch",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kuragebunch/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3000787516439188863",
+      "name": "Kurage Bunch",
+      "language": "ja",
+      "baseURL": "https://kuragebunch.com",
+      "mirrorURLs": []
+    }
+  ]
+}

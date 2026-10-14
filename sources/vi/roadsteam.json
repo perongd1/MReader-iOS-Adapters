@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.roadsteam",
+  "name": "Roads Team",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/roadsteam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7171061492842070313",
+      "name": "Roads Team",
+      "language": "vi",
+      "baseURL": "https://nhaduong.com",
+      "mirrorURLs": []
+    }
+  ]
+}

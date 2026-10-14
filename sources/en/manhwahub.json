@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwahub",
+  "name": "ManhwaHub",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwahub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manhwaz",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1620136505388614489",
+      "name": "ManhwaHub",
+      "language": "en",
+      "baseURL": "https://manhwahub.net",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.ikigaimangas",
+  "name": "Ikigai Mangas",
+  "version": "1.6.40",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/ikigaimangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7749406396573482811",
+      "name": "Ikigai Mangas",
+      "language": "es",
+      "baseURL": "https://visorikigai.gettocaboca.com",
+      "mirrorURLs": []
+    }
+  ]
+}

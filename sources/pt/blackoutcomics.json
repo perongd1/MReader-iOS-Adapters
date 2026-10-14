@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.blackoutcomics",
+  "name": "Blackout Comics",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/blackoutcomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4905303791571172293",
+      "name": "Blackout Comics",
+      "language": "pt-BR",
+      "baseURL": "https://blackoutcomics.com",
+      "mirrorURLs": []
+    }
+  ]
+}

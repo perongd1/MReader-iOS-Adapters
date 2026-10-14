@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.taurusfansub",
+  "name": "Taurus Fansub",
+  "version": "1.6.65",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/taurusfansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5157867187592331768",
+      "name": "Taurus Fansub",
+      "language": "es",
+      "baseURL": "https://lectortaurus.com",
+      "mirrorURLs": []
+    }
+  ]
+}

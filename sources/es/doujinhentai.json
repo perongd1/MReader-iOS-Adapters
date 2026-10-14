@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.doujinhentai",
+  "name": "DoujinHentai",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/doujinhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3895171315878328595",
+      "name": "DoujinHentai",
+      "language": "es",
+      "baseURL": "https://doujinhentai.net",
+      "mirrorURLs": []
+    }
+  ]
+}

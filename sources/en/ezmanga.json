@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.ezmanga",
+  "name": "EZmanga",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/ezmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "ezmanhwa",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3317136566565343717",
+      "name": "EZmanga",
+      "language": "en",
+      "baseURL": "https://ezmanga.org",
+      "mirrorURLs": []
+    }
+  ]
+}

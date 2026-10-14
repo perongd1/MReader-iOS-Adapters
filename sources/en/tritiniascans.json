@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.tritiniascans",
+  "name": "TritiniaScans",
+  "version": "1.6.59",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/tritiniascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6032516943051342273",
+      "name": "TritiniaScans",
+      "language": "en",
+      "baseURL": "https://tritinia.org",
+      "mirrorURLs": []
+    }
+  ]
+}

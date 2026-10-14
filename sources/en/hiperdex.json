@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hiperdex",
+  "name": "Hiperdex",
+  "version": "1.6.89",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hiperdex/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "hiper",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3064755045370217842",
+      "name": "Hiperdex",
+      "language": "en",
+      "baseURL": "https://hiperdex.tv",
+      "mirrorURLs": []
+    }
+  ]
+}

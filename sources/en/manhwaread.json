@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.manhwaread",
+  "name": "ManhwaRead",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/manhwaread/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "492596911850505683",
+      "name": "ManhwaRead",
+      "language": "en",
+      "baseURL": "https://manhwaread.com",
+      "mirrorURLs": [
+        "https://manhwaread.com",
+        "https://manhwaread.org"
+      ]
+    }
+  ]
+}

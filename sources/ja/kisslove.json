@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.kisslove",
+  "name": "KissLove",
+  "version": "1.6.20",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/kisslove/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6304246026723672697",
+      "name": "KissLove",
+      "language": "ja",
+      "baseURL": "https://klz9.com",
+      "mirrorURLs": []
+    }
+  ]
+}

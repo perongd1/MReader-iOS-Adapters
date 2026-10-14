@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.fmteam",
+  "name": "FMTEAM",
+  "version": "1.6.8",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/fmteam/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7699632518084274667",
+      "name": "FMTEAM",
+      "language": "fr",
+      "baseURL": "https://fmteam.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

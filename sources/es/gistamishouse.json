@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.gistamishouse",
+  "name": "Gistamis House",
+  "version": "1.6.16",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/gistamishouse/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1284110018292651928",
+      "name": "Gistamis House",
+      "language": "es",
+      "baseURL": "https://gistamishousefansub.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

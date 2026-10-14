@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.yurimoonsub",
+  "name": "Yuri Moon Sub",
+  "version": "1.6.16",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/yurimoonsub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7833471811016150678",
+      "name": "Yuri Moon Sub",
+      "language": "ar",
+      "baseURL": "https://yurimoonsub.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

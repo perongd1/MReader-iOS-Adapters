@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.weebcentral",
+  "name": "Weeb Central",
+  "version": "1.6.25",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/weebcentral/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2131019126180322627",
+      "name": "Weeb Central",
+      "language": "en",
+      "baseURL": "https://weebcentral.com",
+      "mirrorURLs": []
+    }
+  ]
+}

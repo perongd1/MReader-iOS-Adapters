@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.uzaymanga",
+  "name": "Uzay Manga",
+  "version": "1.6.48",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/uzaymanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "uzaymanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "9155782272853059412",
+      "name": "Uzay Manga",
+      "language": "tr",
+      "baseURL": "https://uzaymanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

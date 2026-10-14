@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.phoenixscans",
+  "name": "Phoenix Scans",
+  "version": "1.6.9",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/phoenixscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6272882172599295519",
+      "name": "Phoenix Scans",
+      "language": "it",
+      "baseURL": "https://www.phoenixscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

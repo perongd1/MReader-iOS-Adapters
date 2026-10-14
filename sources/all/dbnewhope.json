@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.dbnewhope",
+  "name": "DB New Hope",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/dbnewhope/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "909008906078523978",
+      "name": "DB New Hope",
+      "language": "all",
+      "baseURL": "https://dbnewhope.com",
+      "mirrorURLs": []
+    }
+  ]
+}

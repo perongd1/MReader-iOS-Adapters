@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.kuromangas",
+  "name": "KuroMangas",
+  "version": "1.4.12",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/kuromangas/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "73579729889528478",
+      "name": "KuroMangas",
+      "language": "pt-BR",
+      "baseURL": "https://kuromangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

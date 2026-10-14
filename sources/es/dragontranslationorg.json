@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.dragontranslationorg",
+  "name": "DragonTranslation.org",
+  "version": "1.6.59",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/dragontranslationorg/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4647982373411241498",
+      "name": "DragonTranslation.org",
+      "language": "es",
+      "baseURL": "https://dragontranslation.org",
+      "mirrorURLs": []
+    }
+  ]
+}

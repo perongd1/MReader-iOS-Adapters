@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.pinkrosa",
+  "name": "Pink Rosa",
+  "version": "1.6.16",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/pinkrosa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8456404960509331854",
+      "name": "Pink Rosa",
+      "language": "pt-BR",
+      "baseURL": "https://scanpinkrosa.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

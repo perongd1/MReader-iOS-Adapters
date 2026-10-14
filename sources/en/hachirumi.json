@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.hachirumi",
+  "name": "Hachirumi",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/hachirumi/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "guya",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "593241987912872030",
+      "name": "Hachirumi",
+      "language": "en",
+      "baseURL": "https://hachirumi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

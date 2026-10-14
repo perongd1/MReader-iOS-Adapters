@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.onlythebesthentai",
+  "name": "Only The Best Hentai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/onlythebesthentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5862792365006156918",
+      "name": "Only The Best Hentai",
+      "language": "en",
+      "baseURL": "https://onlythebesthentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

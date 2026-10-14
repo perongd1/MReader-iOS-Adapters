@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.mangapandaonl",
+  "name": "MangaPanda.onl",
+  "version": "1.6.38",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/mangapandaonl/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangahub",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7661417715431651982",
+      "name": "MangaPanda.onl",
+      "language": "en",
+      "baseURL": "https://mangapanda.onl",
+      "mirrorURLs": []
+    }
+  ]
+}

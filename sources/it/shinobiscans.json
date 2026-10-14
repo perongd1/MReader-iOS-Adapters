@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.shinobiscans",
+  "name": "Shinobi Scans",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/shinobiscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7733551911826034167",
+      "name": "Shinobi Scans",
+      "language": "it",
+      "baseURL": "https://shinobiscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

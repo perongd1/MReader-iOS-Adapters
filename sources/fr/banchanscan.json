@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.banchanscan",
+  "name": "Banchan Scan",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/banchanscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8593333389489308586",
+      "name": "Banchan Scan",
+      "language": "fr",
+      "baseURL": "https://banchanscan.fr",
+      "mirrorURLs": []
+    }
+  ]
+}

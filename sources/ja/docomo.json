@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.docomo",
+  "name": "Docomo",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/docomo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2833994049092509182",
+      "name": "Docomo",
+      "language": "ja",
+      "baseURL": "https://dbook.docomo.ne.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

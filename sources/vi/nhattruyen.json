@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.nhattruyen",
+  "name": "NhatTruyen",
+  "version": "1.6.30",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nhattruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "wpcomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6861496002170366525",
+      "name": "NhatTruyen",
+      "language": "vi",
+      "baseURL": "https://nhattruyenqq.com",
+      "mirrorURLs": []
+    }
+  ]
+}

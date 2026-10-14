@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.deviantart",
+  "name": "DeviantArt",
+  "version": "1.6.11",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/deviantart/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5211324870873630158",
+      "name": "DeviantArt",
+      "language": "all",
+      "baseURL": "https://www.deviantart.com",
+      "mirrorURLs": []
+    }
+  ]
+}

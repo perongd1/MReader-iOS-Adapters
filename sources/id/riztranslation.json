@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.riztranslation",
+  "name": "Riztranslation",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/riztranslation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7209416153926734838",
+      "name": "Riztranslation",
+      "language": "id",
+      "baseURL": "https://riztranslation.pages.dev",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.manga3asq",
+  "name": "3asq",
+  "version": "1.6.59",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/manga3asq/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1073624495230267708",
+      "name": "مانجا العاشق",
+      "language": "ar",
+      "baseURL": "https://3asq.online",
+      "mirrorURLs": []
+    }
+  ]
+}

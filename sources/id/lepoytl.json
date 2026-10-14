@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.lepoytl",
+  "name": "LepoyTL",
+  "version": "1.6.16",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/lepoytl/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1601772753251290758",
+      "name": "LepoyTL",
+      "language": "id",
+      "baseURL": "https://www.lepoytl.my.id",
+      "mirrorURLs": []
+    }
+  ]
+}

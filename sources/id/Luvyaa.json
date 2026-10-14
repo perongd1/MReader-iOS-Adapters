@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.Luvyaa",
+  "name": "Luvyaa",
+  "version": "1.6.5",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/Luvyaa/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1316015886884953118",
+      "name": "Luvyaa",
+      "language": "id",
+      "baseURL": "https://v5.luvyaa.co",
+      "mirrorURLs": []
+    }
+  ]
+}

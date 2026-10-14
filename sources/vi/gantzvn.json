@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.gantzvn",
+  "name": "GantzVN",
+  "version": "1.6.56",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/gantzvn/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "934565583439501324",
+      "name": "GantzVN",
+      "language": "vi",
+      "baseURL": "https://gantzvn.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.plumacomics",
+  "name": "Pluma Comics",
+  "version": "1.6.51",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/plumacomics/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7420625896970441024",
+      "name": "Pluma Comics",
+      "language": "pt-BR",
+      "baseURL": "https://plumacomics.cloud",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.allporncomicio",
+  "name": "AllPornComic.io",
+  "version": "1.6.55",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/allporncomicio/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6660493687892371703",
+      "name": "AllPornComic.io",
+      "language": "en",
+      "baseURL": "https://allporncomic.io",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.juinjutsuteamreader",
+  "name": "Juin Jutsu Team Reader",
+  "version": "1.6.6",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/juinjutsuteamreader/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "foolslide",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1779918793601923139",
+      "name": "Juin Jutsu Team Reader",
+      "language": "it",
+      "baseURL": "https://www.juinjutsureader.ovh",
+      "mirrorURLs": []
+    }
+  ]
+}

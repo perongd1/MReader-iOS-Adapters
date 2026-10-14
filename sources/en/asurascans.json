@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.asurascans",
+  "name": "Asura Scans",
+  "version": "1.6.69",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/asurascans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6247824327199706550",
+      "name": "Asura Scans",
+      "language": "en",
+      "baseURL": "https://asurascans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

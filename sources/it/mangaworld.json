@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.mangaworld",
+  "name": "Mangaworld",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/mangaworld/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangaworld",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7114846210461894145",
+      "name": "Mangaworld",
+      "language": "it",
+      "baseURL": "https://www.mangaworld.mx",
+      "mirrorURLs": []
+    }
+  ]
+}

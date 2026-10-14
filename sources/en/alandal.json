@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.alandal",
+  "name": "Alandal",
+  "version": "1.4.2",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/alandal/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2048669781308052214",
+      "name": "Alandal",
+      "language": "en",
+      "baseURL": "https://alandal.com",
+      "mirrorURLs": []
+    }
+  ]
+}

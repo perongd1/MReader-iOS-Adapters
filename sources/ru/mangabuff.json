@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ru.mangabuff",
+  "name": "MangaBuff",
+  "version": "1.6.7",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ru/mangabuff/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4008409601887986192",
+      "name": "MangaBuff",
+      "language": "ru",
+      "baseURL": "https://mangabuff.ru",
+      "mirrorURLs": []
+    }
+  ]
+}

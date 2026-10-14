@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.webtoonoku",
+  "name": "WebtoonOku",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/webtoonoku/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5965966687692704047",
+      "name": "WebtoonOku",
+      "language": "tr",
+      "baseURL": "https://webtoonoku.org",
+      "mirrorURLs": []
+    }
+  ]
+}

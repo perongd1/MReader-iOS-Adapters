@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.ebookjapan",
+  "name": "eBookJapan",
+  "version": "1.6.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/ebookjapan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "124967435702149192",
+      "name": "eBookJapan",
+      "language": "ja",
+      "baseURL": "https://ebookjapan.yahoo.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

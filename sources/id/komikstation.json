@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.komikstation",
+  "name": "Komik Station",
+  "version": "1.6.8",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/komikstation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6148605743576635261",
+      "name": "Komik Station",
+      "language": "id",
+      "baseURL": "https://komikstation.org",
+      "mirrorURLs": []
+    }
+  ]
+}

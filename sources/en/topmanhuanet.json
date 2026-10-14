@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.topmanhuanet",
+  "name": "TopManhua.net",
+  "version": "1.6.55",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/topmanhuanet/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6421630287504544593",
+      "name": "TopManhua.net",
+      "language": "en",
+      "baseURL": "https://topmanhua.net",
+      "mirrorURLs": []
+    }
+  ]
+}

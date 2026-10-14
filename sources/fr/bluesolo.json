@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.bluesolo",
+  "name": "Blue Solo",
+  "version": "1.6.5",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/bluesolo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "pizzareader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2095949455655924623",
+      "name": "Blue Solo",
+      "language": "fr",
+      "baseURL": "https://bluesolo.org",
+      "mirrorURLs": []
+    }
+  ]
+}

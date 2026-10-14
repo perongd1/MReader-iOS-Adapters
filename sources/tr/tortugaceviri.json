@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.tortugaceviri",
+  "name": "Tortuga Ceviri",
+  "version": "1.6.57",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/tortugaceviri/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1479830960881750685",
+      "name": "Tortuga Ceviri",
+      "language": "tr",
+      "baseURL": "https://tortugaceviri.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.diamondfansub",
+  "name": "DiamondFansub",
+  "version": "1.6.57",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/diamondfansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4357416108470845594",
+      "name": "DiamondFansub",
+      "language": "tr",
+      "baseURL": "https://diamondfansub.com",
+      "mirrorURLs": []
+    }
+  ]
+}

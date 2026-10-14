@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.gwtb",
+  "name": "Gone with the Blastwave",
+  "version": "1.6.3",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/gwtb/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4006397036545425884",
+      "name": "Gone with the Blastwave",
+      "language": "en",
+      "baseURL": "https://www.blastwave-comic.com",
+      "mirrorURLs": []
+    }
+  ]
+}

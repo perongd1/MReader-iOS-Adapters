@@ -1,0 +1,36 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ko.navercomic",
+  "name": "Naver Comic",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ko/navercomic/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1311262507446028482",
+      "name": "Naver Webtoon",
+      "language": "ko",
+      "baseURL": "https://comic.naver.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "3983114856627782141",
+      "name": "Naver Webtoon Best Challenge",
+      "language": "ko",
+      "baseURL": "https://comic.naver.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "4487676425355815867",
+      "name": "Naver Webtoon Challenge",
+      "language": "ko",
+      "baseURL": "https://comic.naver.com",
+      "mirrorURLs": []
+    }
+  ]
+}

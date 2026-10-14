@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.rocksmanga",
+  "name": "Rocks Manga",
+  "version": "1.6.58",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/rocksmanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3301038340499911137",
+      "name": "Rocks Manga",
+      "language": "ar",
+      "baseURL": "https://rocksmanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

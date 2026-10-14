@@ -1,0 +1,50 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.pixiv",
+  "name": "Pixiv",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/pixiv/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4964829535501435742",
+      "name": "Pixiv",
+      "language": "en",
+      "baseURL": "https://www.pixiv.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "2134233417037741790",
+      "name": "Pixiv",
+      "language": "ja",
+      "baseURL": "https://www.pixiv.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6934645150441404855",
+      "name": "Pixiv",
+      "language": "zh",
+      "baseURL": "https://www.pixiv.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "7732030561788182970",
+      "name": "Pixiv",
+      "language": "zh-tw",
+      "baseURL": "https://www.pixiv.net",
+      "mirrorURLs": []
+    },
+    {
+      "id": "5123765142540943901",
+      "name": "Pixiv",
+      "language": "ko",
+      "baseURL": "https://www.pixiv.net",
+      "mirrorURLs": []
+    }
+  ]
+}

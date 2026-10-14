@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.erofus",
+  "name": "Erofus",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/erofus/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "eromuse",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3054988613439396424",
+      "name": "Erofus",
+      "language": "en",
+      "baseURL": "https://www.erofus.com",
+      "mirrorURLs": []
+    }
+  ]
+}

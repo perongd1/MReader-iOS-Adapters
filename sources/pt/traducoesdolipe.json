@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.traducoesdolipe",
+  "name": "Traduções do Lipe",
+  "version": "1.6.15",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/traducoesdolipe/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3650511144741653873",
+      "name": "Traduções do Lipe",
+      "language": "pt-BR",
+      "baseURL": "https://traducoesdolipe.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

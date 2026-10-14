@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.holyscans",
+  "name": "Holy Scans",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/holyscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5655539211698234342",
+      "name": "Holy Scans",
+      "language": "tr",
+      "baseURL": "https://holyscans.com.tr",
+      "mirrorURLs": []
+    }
+  ]
+}

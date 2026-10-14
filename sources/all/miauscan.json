@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.miauscan",
+  "name": "Miau Scan",
+  "version": "1.6.7",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/miauscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2886862669347225416",
+      "name": "Miau Scan",
+      "language": "es",
+      "baseURL": "https://leemiau.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6705370418823255358",
+      "name": "Miau Scan",
+      "language": "pt-BR",
+      "baseURL": "https://leemiau.com",
+      "mirrorURLs": []
+    }
+  ]
+}

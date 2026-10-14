@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.mikrokosmosfansub",
+  "name": "Mikrokosmos Fansub",
+  "version": "1.6.16",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/mikrokosmosfansub/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1959637408417261960",
+      "name": "Mikrokosmos Fansub",
+      "language": "tr",
+      "baseURL": "https://mikrokosmosfb.blogspot.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.lagoonscans",
+  "name": "Lagoon Scans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/lagoonscans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7925933833035450162",
+      "name": "Lagoon Scans",
+      "language": "en",
+      "baseURL": "https://lagoonscans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readnanatsunotaizai7deadlysinsmangaonline",
+  "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readnanatsunotaizai7deadlysinsmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3945031984510180731",
+      "name": "Read Nanatsu no Taizai 7 Deadly Sins Manga Online",
+      "language": "en",
+      "baseURL": "https://ww8.read7deadlysins.com",
+      "mirrorURLs": []
+    }
+  ]
+}

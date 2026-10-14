@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.nikkangecchan",
+  "name": "Nikkangecchan",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/nikkangecchan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5200293225675847390",
+      "name": "Nikkangecchan",
+      "language": "ja",
+      "baseURL": "https://nikkangecchan.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

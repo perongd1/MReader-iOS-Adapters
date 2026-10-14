@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.dmm",
+  "name": "DMM/FANZA",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/dmm/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7153958782880204235",
+      "name": "DMM",
+      "language": "ja",
+      "baseURL": "https://book.dmm.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6425776937733405129",
+      "name": "FANZA",
+      "language": "ja",
+      "baseURL": "https://book.dmm.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

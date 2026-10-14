@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.tr.eldermanga",
+  "name": "Elder Manga",
+  "version": "1.6.9",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/tr/eldermanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "uzaymanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5412929724953013469",
+      "name": "Elder Manga",
+      "language": "tr",
+      "baseURL": "https://eldermanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

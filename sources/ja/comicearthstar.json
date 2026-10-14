@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicearthstar",
+  "name": "Comic Earth Star",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicearthstar/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gigaviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3574188328700228273",
+      "name": "Comic Earth Star",
+      "language": "ja",
+      "baseURL": "https://comic-earthstar.com",
+      "mirrorURLs": []
+    }
+  ]
+}

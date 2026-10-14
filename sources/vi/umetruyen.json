@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.umetruyen",
+  "name": "UmeTruyen",
+  "version": "1.6.9",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/umetruyen/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "manhwaz",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2473081822885310816",
+      "name": "UmeTruyen",
+      "language": "vi",
+      "baseURL": "https://umetruyenz.org",
+      "mirrorURLs": []
+    }
+  ]
+}

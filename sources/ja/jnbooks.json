@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.jnbooks",
+  "name": "J-N Books",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/jnbooks/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2876739237900975302",
+      "name": "J-N Books",
+      "language": "ja",
+      "baseURL": "https://comic.j-nbooks.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

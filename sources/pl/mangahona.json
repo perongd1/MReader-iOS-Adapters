@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pl.mangahona",
+  "name": "MangaHoNa",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pl/mangahona/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8922529241027133892",
+      "name": "MangaHoNa",
+      "language": "pl",
+      "baseURL": "https://mangahona.pl",
+      "mirrorURLs": []
+    }
+  ]
+}

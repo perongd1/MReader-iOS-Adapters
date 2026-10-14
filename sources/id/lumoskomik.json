@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.id.lumoskomik",
+  "name": "LumosKomik",
+  "version": "1.6.57",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/id/lumoskomik/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "hwalumi",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2530259860313477889",
+      "name": "LumosKomik",
+      "language": "id",
+      "baseURL": "https://03.lumosgg.com",
+      "mirrorURLs": []
+    }
+  ]
+}

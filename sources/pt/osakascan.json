@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.osakascan",
+  "name": "Osaka Scan",
+  "version": "1.6.15",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/core/src/main/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "zeistmanga",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4861854418326997963",
+      "name": "Osaka Scan",
+      "language": "pt-BR",
+      "baseURL": "https://www.osakascan.com",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.wearehunger",
+  "name": "KokoMangas",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/wearehunger/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "58992897252080929",
+      "name": "KokoMangas",
+      "language": "en",
+      "baseURL": "https://kokomangas.com",
+      "mirrorURLs": []
+    }
+  ]
+}

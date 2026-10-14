@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kunmangaonline",
+  "name": "Kun Manga Online",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kunmangaonline/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7947062020376654174",
+      "name": "Kun Manga Online",
+      "language": "en",
+      "baseURL": "https://www.kunmanga.online",
+      "mirrorURLs": []
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.magkan",
+  "name": "MagKan",
+  "version": "1.6.1",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/magkan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "comiciviewer",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8826192789792786070",
+      "name": "MagKan",
+      "language": "ja",
+      "baseURL": "https://kansai.mag-garden.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

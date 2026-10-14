@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.hentaitokyo",
+  "name": "Hentai Tokyo",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/lib-multisrc/gattsu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "gattsu",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7059984733794571635",
+      "name": "Hentai Tokyo",
+      "language": "pt-BR",
+      "baseURL": "https://hentaitokyo.net",
+      "mirrorURLs": []
+    }
+  ]
+}

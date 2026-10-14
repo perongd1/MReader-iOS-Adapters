@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.brasilhentai",
+  "name": "Brasil Hentai",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/brasilhentai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8020430975962445741",
+      "name": "Brasil Hentai",
+      "language": "pt-BR",
+      "baseURL": "https://brasilhentai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

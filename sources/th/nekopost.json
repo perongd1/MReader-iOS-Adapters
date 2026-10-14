@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.th.nekopost",
+  "name": "Nekopost",
+  "version": "1.6.16",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/th/nekopost/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4353470354941192417",
+      "name": "Nekopost",
+      "language": "th",
+      "baseURL": "https://www.nekopost.net",
+      "mirrorURLs": []
+    }
+  ]
+}

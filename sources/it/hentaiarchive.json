@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.it.hentaiarchive",
+  "name": "HentaiArchive",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/it/hentaiarchive/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6052929656772429531",
+      "name": "HentaiArchive",
+      "language": "it",
+      "baseURL": "https://www.hentai-archive.com",
+      "mirrorURLs": []
+    }
+  ]
+}

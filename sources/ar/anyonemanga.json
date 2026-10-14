@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.anyonemanga",
+  "name": "Anyone Manga",
+  "version": "1.6.56",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/anyonemanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2056490261402651047",
+      "name": "Anyone Manga",
+      "language": "ar",
+      "baseURL": "https://anyonemanga.com",
+      "mirrorURLs": []
+    }
+  ]
+}

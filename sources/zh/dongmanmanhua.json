@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.dongmanmanhua",
+  "name": "Dongman Manhua",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/dongmanmanhua/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "4222375517460530289",
+      "name": "Dongman Manhua",
+      "language": "zh-Hans",
+      "baseURL": "https://www.dongmanmanhua.cn",
+      "mirrorURLs": []
+    }
+  ]
+}

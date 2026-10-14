@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ar.stellarsaber",
+  "name": "StellarSaber",
+  "version": "1.6.33",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ar/stellarsaber/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2142158598125421915",
+      "name": "StellarSaber",
+      "language": "ar",
+      "baseURL": "https://stellarsaber.pro",
+      "mirrorURLs": []
+    }
+  ]
+}

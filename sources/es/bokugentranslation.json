@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.bokugentranslation",
+  "name": "BokugenTranslation",
+  "version": "1.6.18",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/bokugentranslation/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1598762687295904337",
+      "name": "BokugenTranslation",
+      "language": "es",
+      "baseURL": "https://bokugents.com",
+      "mirrorURLs": []
+    }
+  ]
+}

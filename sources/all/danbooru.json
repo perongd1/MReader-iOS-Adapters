@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.danbooru",
+  "name": "Danbooru",
+  "version": "1.6.0",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/danbooru/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7602260701584916302",
+      "name": "Danbooru",
+      "language": "all",
+      "baseURL": "https://danbooru.donmai.us",
+      "mirrorURLs": []
+    }
+  ]
+}

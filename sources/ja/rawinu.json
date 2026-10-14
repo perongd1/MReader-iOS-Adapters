@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.rawinu",
+  "name": "RawINU",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/rawinu/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "fmreader",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7788489411010171607",
+      "name": "RawINU",
+      "language": "ja",
+      "baseURL": "https://rawinu.com",
+      "mirrorURLs": []
+    }
+  ]
+}

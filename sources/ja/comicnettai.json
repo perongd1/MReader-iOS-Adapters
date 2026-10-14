@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.comicnettai",
+  "name": "Comic Nettai",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/comicnettai/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1398057210066455013",
+      "name": "Comic Nettai",
+      "language": "ja",
+      "baseURL": "https://www.comicnettai.com",
+      "mirrorURLs": []
+    }
+  ]
+}

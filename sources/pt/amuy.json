@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.amuy",
+  "name": "Amuy",
+  "version": "1.6.58",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/amuy/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5257426184455231951",
+      "name": "Amuy",
+      "language": "pt-BR",
+      "baseURL": "https://apenasmaisumyaoi.com",
+      "mirrorURLs": []
+    }
+  ]
+}

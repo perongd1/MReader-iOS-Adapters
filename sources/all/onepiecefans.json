@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.onepiecefans",
+  "name": "One Piece Fans",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/onepiecefans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3010838382018156522",
+      "name": "One Piece Fans",
+      "language": "es",
+      "baseURL": "https://one-piece-fans2.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6602141352900990132",
+      "name": "One Piece Fans",
+      "language": "en",
+      "baseURL": "https://one-piece-fans2.com",
+      "mirrorURLs": []
+    }
+  ]
+}

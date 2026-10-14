@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.zh.hanabimanga",
+  "name": "HanabiManga",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/zh/hanabimanga/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6689953277839268159",
+      "name": "花火漫画",
+      "language": "zh",
+      "baseURL": "https://uhkvqrxmcapgtpspglrp.moedot.net",
+      "mirrorURLs": []
+    }
+  ]
+}

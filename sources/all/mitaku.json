@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.mitaku",
+  "name": "Mitaku",
+  "version": "1.6.4",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mitaku/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7541045796029140694",
+      "name": "Mitaku",
+      "language": "all",
+      "baseURL": "https://mitaku.net",
+      "mirrorURLs": []
+    }
+  ]
+}

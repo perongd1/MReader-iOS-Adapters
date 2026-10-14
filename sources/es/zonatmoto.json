@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.zonatmoto",
+  "name": "Zonatmo.to (unoriginal)",
+  "version": "1.4.2",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/zonatmoto/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1900395790630760038",
+      "name": "Zonatmo.to (unoriginal)",
+      "language": "es",
+      "baseURL": "https://zonatmo.to",
+      "mirrorURLs": []
+    }
+  ]
+}

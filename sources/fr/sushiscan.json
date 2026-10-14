@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.fr.sushiscan",
+  "name": "Sushi-Scan",
+  "version": "1.6.17",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/fr/sushiscan/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangathemesia",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6516188872647980679",
+      "name": "Sushi-Scan",
+      "language": "fr",
+      "baseURL": "https://sushiscan.net",
+      "mirrorURLs": []
+    }
+  ]
+}

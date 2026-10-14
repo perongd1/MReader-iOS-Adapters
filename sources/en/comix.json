@@ -1,0 +1,25 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.comix",
+  "name": "Comix",
+  "version": "1.6.48",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/comix/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7537715367149829912",
+      "name": "Comix",
+      "language": "en",
+      "baseURL": "https://comix.to",
+      "mirrorURLs": [
+        "https://comix.to",
+        "https://comix.ws"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.doctruyen3q",
+  "name": "DocTruyen3Q",
+  "version": "1.6.40",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/doctruyen3q/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "wpcomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6168143505244976507",
+      "name": "DocTruyen3Q",
+      "language": "vi",
+      "baseURL": "https://doctruyen3qhub.fit",
+      "mirrorURLs": []
+    }
+  ]
+}

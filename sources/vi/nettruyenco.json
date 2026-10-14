@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.nettruyenco",
+  "name": "NetTruyenCO (unoriginal)",
+  "version": "1.6.17",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/nettruyenco/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "wpcomics",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "3563992092786616290",
+      "name": "NetTruyenCO (unoriginal)",
+      "language": "vi",
+      "baseURL": "https://nettruyenar.com",
+      "mirrorURLs": []
+    }
+  ]
+}

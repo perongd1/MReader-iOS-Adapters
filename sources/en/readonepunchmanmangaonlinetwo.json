@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.readonepunchmanmangaonlinetwo",
+  "name": "Read One-Punch Man Manga Online",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/readonepunchmanmangaonlinetwo/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangacatalog",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "8254209929759906152",
+      "name": "Read One-Punch Man Manga Online",
+      "language": "en",
+      "baseURL": "https://ww7.readopm.com",
+      "mirrorURLs": []
+    }
+  ]
+}

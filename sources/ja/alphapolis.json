@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.ja.alphapolis",
+  "name": "Alphapolis",
+  "version": "1.6.3",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/ja/alphapolis/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "1943011614685426671",
+      "name": "Alphapolis",
+      "language": "ja",
+      "baseURL": "https://www.alphapolis.co.jp",
+      "mirrorURLs": []
+    }
+  ]
+}

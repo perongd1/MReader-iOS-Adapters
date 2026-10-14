@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.bookwalker",
+  "name": "BookWalker",
+  "version": "1.6.1",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/bookwalker/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2744810059574599668",
+      "name": "BookWalker",
+      "language": "en",
+      "baseURL": "https://bookwalker.com",
+      "mirrorURLs": []
+    }
+  ]
+}

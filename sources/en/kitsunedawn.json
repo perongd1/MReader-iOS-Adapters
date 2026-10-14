@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.kitsunedawn",
+  "name": "Kitsune Dawn",
+  "version": "1.6.22",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/kitsunedawn/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "keyoapp",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7739452864322240494",
+      "name": "Kitsune Dawn",
+      "language": "en",
+      "baseURL": "https://kitsunedawn.com",
+      "mirrorURLs": []
+    }
+  ]
+}

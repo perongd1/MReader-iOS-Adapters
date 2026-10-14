@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.kazokuden",
+  "name": "Kazoku Den",
+  "version": "1.6.55",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/kazokuden/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "475788948976592183",
+      "name": "Kazoku Den",
+      "language": "es",
+      "baseURL": "https://www.kazokuden.com",
+      "mirrorURLs": []
+    }
+  ]
+}

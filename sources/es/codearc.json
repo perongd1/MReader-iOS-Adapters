@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.es.codearc",
+  "name": "Code Arc Mangas",
+  "version": "1.6.1",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/es/codearc/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5491278213927672737",
+      "name": "Code Arc Mangas",
+      "language": "es",
+      "baseURL": "https://mangas.codearctraducciones.com",
+      "mirrorURLs": []
+    }
+  ]
+}

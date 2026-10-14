@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.pt.imperiodabritannia",
+  "name": "Sagrado Império da Britannia",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/pt/imperiodabritannia/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "mangotheme",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7355004027880350247",
+      "name": "Sagrado Império da Britannia",
+      "language": "pt-BR",
+      "baseURL": "https://imperiodabritannia.net",
+      "mirrorURLs": []
+    }
+  ]
+}

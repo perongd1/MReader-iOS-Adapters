@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.vi.yurigarden",
+  "name": "YuriGarden",
+  "version": "1.6.12",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/vi/yurigarden/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "2167942958141879673",
+      "name": "YuriGarden",
+      "language": "vi",
+      "baseURL": "https://yurigarden.moe",
+      "mirrorURLs": []
+    }
+  ]
+}

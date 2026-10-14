@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.mangadna",
+  "name": "MangaDNA",
+  "version": "1.6.0",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/mangadna/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "5181311401760417052",
+      "name": "MangaDNA",
+      "language": "en",
+      "baseURL": "https://mangadna.com",
+      "mirrorURLs": []
+    },
+    {
+      "id": "6255493077716027174",
+      "name": "MangaDNA",
+      "language": "all",
+      "baseURL": "https://mangadna.com",
+      "mirrorURLs": []
+    }
+  ]
+}

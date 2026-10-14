@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.decadencescans",
+  "name": "Decadence Scans",
+  "version": "1.6.57",
+  "contentRating": "mixed",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/decadencescans/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "madara",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "7432245132662185058",
+      "name": "Decadence Scans",
+      "language": "en",
+      "baseURL": "https://reader.decadencescans.com",
+      "mirrorURLs": []
+    }
+  ]
+}

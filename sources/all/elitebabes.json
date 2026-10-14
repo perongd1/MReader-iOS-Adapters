@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.all.elitebabes",
+  "name": "Elite Babes",
+  "version": "1.6.3",
+  "contentRating": "nsfw",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/all/elitebabes/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "masonry",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "6842598531101194683",
+      "name": "Elite Babes",
+      "language": "all",
+      "baseURL": "https://www.elitebabes.com",
+      "mirrorURLs": []
+    }
+  ]
+}

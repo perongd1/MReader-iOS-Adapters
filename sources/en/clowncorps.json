@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "packageID": "eu.kanade.tachiyomi.extension.en.clowncorps",
+  "name": "Clown Corps",
+  "version": "1.6.0",
+  "contentRating": "safe",
+  "iconURL": "https://cdn.jsdelivr.net/gh/keiyoushi/extensions-source@main/src/en/clowncorps/res/mipmap-xhdpi/ic_launcher.png",
+  "adapter": {
+    "engine": "custom",
+    "status": "unimplemented",
+    "options": {}
+  },
+  "sources": [
+    {
+      "id": "285164574089229147",
+      "name": "Clown Corps",
+      "language": "en",
+      "baseURL": "https://clowncorps.net",
+      "mirrorURLs": []
+    }
+  ]
+}
